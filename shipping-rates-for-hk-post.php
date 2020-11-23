@@ -3,7 +3,7 @@
  * Plugin Name:     Shipping Rates for HK Post
  * Plugin URI:      https://github.com/excelerus/wp-org-shipping-rates-for-hk-post/
  * Description:     Get shipping rates from Hongkong Post API for accurate and realtime postage charges to international as well as domestic destinations.
- * Version:         1.0.0
+ * Stable Tag:      1.0.1
  * Author:          EXCELERUS
  * Author URI:      https://www.excelerus.com/
  * Developer:       EXCELERUS
