@@ -28,27 +28,27 @@ msgstr ""
 #: includes/class-wc-shipping-hk-post.php:28
 #: includes/class-wc-shipping-hk-post.php:52
 msgid "Hongkong Post"
-msgstr ""
+msgstr "香港郵政"
 
 #: includes/class-wc-shipping-hk-post.php:29
 msgid "Ship to domestic & international destinations"
-msgstr ""
+msgstr "運送到國內和國際目的地"
 
 #: includes/class-wc-shipping-hk-post.php:49
 msgid "Title"
-msgstr ""
+msgstr "標題"
 
 #: includes/class-wc-shipping-hk-post.php:51
 msgid "This controls the title which the user sees on cart page."
-msgstr ""
+msgstr "這控制了用戶在購物車頁面上看到的標題。"
 
 #: includes/class-wc-shipping-hk-post.php:56
 msgid "Debug"
-msgstr ""
+msgstr "除錯"
 
 #: includes/class-wc-shipping-hk-post.php:58
 msgid "Enable logging"
-msgstr ""
+msgstr "啟用記錄"
 
 #: includes/class-wc-shipping-hk-post.php:59
 msgid ""
@@ -59,59 +59,59 @@ msgstr ""
 
 #: includes/class-wc-shipping-hk-post.php:68
 msgid "Enable Delivery Services"
-msgstr ""
+msgstr "啟用送貨服務"
 
 #: includes/class-wc-shipping-hk-post.php:74
 msgid "Local Mail (Packet)"
-msgstr ""
+msgstr "本地（郵包）"
 
 #: includes/class-wc-shipping-hk-post.php:80
 msgid "Local Registered Mail (Packet)"
-msgstr ""
+msgstr "本地掛號（郵包）"
 
 #: includes/class-wc-shipping-hk-post.php:86
 msgid "Local Parcels"
-msgstr ""
+msgstr "本地包裹"
 
 #: includes/class-wc-shipping-hk-post.php:92
 msgid "Local CourierPost"
-msgstr ""
+msgstr "本地郵政速遞"
 
 #: includes/class-wc-shipping-hk-post.php:98
 msgid "Local Smart Post (Mail Delivery)"
-msgstr ""
+msgstr "易送遞 (郵件派遞)"
 
 #: includes/class-wc-shipping-hk-post.php:110
 msgid "International Surface Registered Mail (Packet)"
-msgstr ""
+msgstr "平郵掛號（郵包）"
 
 #: includes/class-wc-shipping-hk-post.php:122
 msgid "International Air Registered Mail (Packet)"
-msgstr ""
+msgstr "空郵掛號（郵包）"
 
 #: includes/class-wc-shipping-hk-post.php:128
 msgid "International Surface Parcel"
-msgstr ""
+msgstr "平郵包裹"
 
 #: includes/class-wc-shipping-hk-post.php:134
 msgid "International Air Parcel"
-msgstr ""
+msgstr "空郵包裹"
 
 #: includes/class-wc-shipping-hk-post.php:140
 msgid "International Speedpost (Standard Service)"
-msgstr ""
+msgstr "特快專遞（標準服務）"
 
 #: includes/class-wc-shipping-hk-post.php:146
 msgid "International e-Express"
-msgstr ""
+msgstr "易網遞 (e-Express)"
 
 #: includes/class-wc-shipping-hk-post.php:215
 msgid "Shipping Method disabled"
-msgstr ""
+msgstr "運輸方式已禁用"
 
 #: includes/class-wc-shipping-hk-post.php:215
 msgid "Hongkong Post can only be used for store with address in Hong Kong."
-msgstr ""
+msgstr "香港郵政只能用於地址為香港的商店。"
 
 #: shipping-rates-for-hk-post.php:42
 msgid ""
@@ -128,11 +128,11 @@ msgstr ""
 
 #. Plugin Name of the plugin/theme
 msgid "Shipping Rates for HK Post"
-msgstr ""
+msgstr "香港郵政的運費"
 
 #. Plugin URI of the plugin/theme
 msgid "https://github.com/excelerus/wp-org-shipping-rates-for-hk-post/"
-msgstr ""
+msgstr "https://github.com/excelerus/wp-org-shipping-rates-for-hk-post/"
 
 #. Description of the plugin/theme
 msgid ""
@@ -142,8 +142,8 @@ msgstr ""
 
 #. Author of the plugin/theme
 msgid "EXCELERUS"
-msgstr ""
+msgstr "EXCELERUS"
 
 #. Author URI of the plugin/theme
 msgid "https://www.excelerus.com/"
-msgstr ""
+msgstr "https://www.excelerus.com/"

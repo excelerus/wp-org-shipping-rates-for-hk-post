@@ -1,1975 +1,1975 @@
 {
-  "data": [
-    {
-      "postage": [
-        {
-          "destinationCode": "AD",
-          "amount": "114.00",
-          "destinationNameTC": "安道爾",
-          "destinationNameSC": "安道尔",
-          "destinationNameEN": "ANDORRA",
-          "handleFee": "10.00",
-          "zoneCode": "AD"
-        },
-        {
-          "destinationCode": "AE",
-          "amount": "104.00",
-          "destinationNameTC": "阿拉伯聯合酋長國",
-          "destinationNameSC": "阿拉伯联合酋长国",
-          "destinationNameEN": "UNITED ARAB EMIRATES",
-          "handleFee": "25.00",
-          "zoneCode": "AE"
-        },
-        {
-          "destinationCode": "AF",
-          "amount": "91.00",
-          "destinationNameTC": "阿富汗",
-          "destinationNameSC": "阿富汗",
-          "destinationNameEN": "AFGHANISTAN",
-          "handleFee": "10.00",
-          "zoneCode": "AF"
-        },
-        {
-          "destinationCode": "AG",
-          "amount": "170.00",
-          "destinationNameTC": "安提瓜及巴布達",
-          "destinationNameSC": "安提瓜及巴布达",
-          "destinationNameEN": "ANTIGUA AND BARBUDA",
-          "handleFee": "10.00",
-          "zoneCode": "AG"
-        },
-        {
-          "destinationCode": "AI",
-          "amount": "114.00",
-          "destinationNameTC": "安圭拉島",
-          "destinationNameSC": "安圭拉岛",
-          "destinationNameEN": "ANGUILLA",
-          "handleFee": "10.00",
-          "zoneCode": "AI"
-        },
-        {
-          "destinationCode": "AL",
-          "amount": "107.00",
-          "destinationNameTC": "阿爾巴尼亞",
-          "destinationNameSC": "阿尔巴尼亚",
-          "destinationNameEN": "ALBANIA",
-          "handleFee": "25.00",
-          "zoneCode": "AL"
-        },
-        {
-          "destinationCode": "AM",
-          "amount": "138.00",
-          "destinationNameTC": "亞美尼亞",
-          "destinationNameSC": "亚美尼亚",
-          "destinationNameEN": "ARMENIA",
-          "handleFee": "25.00",
-          "zoneCode": "AM"
-        },
-        {
-          "destinationCode": "AN",
-          "amount": "150.00",
-          "destinationNameTC": "荷屬安的列斯",
-          "destinationNameSC": "荷属安的列斯",
-          "destinationNameEN": "NETHERLANDS ANTILLES",
-          "handleFee": "25.00",
-          "zoneCode": "AN"
-        },
-        {
-          "destinationCode": "AO",
-          "amount": "94.00",
-          "destinationNameTC": "安哥拉",
-          "destinationNameSC": "安哥拉",
-          "destinationNameEN": "ANGOLA",
-          "handleFee": "10.00",
-          "zoneCode": "AO"
-        },
-        {
-          "destinationCode": "AR",
-          "amount": "132.00",
-          "destinationNameTC": "阿根廷",
-          "destinationNameSC": "阿根廷",
-          "destinationNameEN": "ARGENTINA",
-          "handleFee": "25.00",
-          "zoneCode": "AR"
-        },
-        {
-          "destinationCode": "AS",
-          "amount": "97.00",
-          "destinationNameTC": "薩摩亞(美國屬土)",
-          "destinationNameSC": "萨摩亚(美国属土)",
-          "destinationNameEN": "SAMOA (U.S.A. TERRITORY)",
-          "handleFee": "10.00",
-          "zoneCode": "AS"
-        },
-        {
-          "destinationCode": "AT",
-          "amount": "59.00",
-          "destinationNameTC": "奧地利",
-          "destinationNameSC": "奥地利",
-          "destinationNameEN": "AUSTRIA",
-          "handleFee": "32.00",
-          "zoneCode": "AT"
-        },
-        {
-          "destinationCode": "AU",
-          "amount": "54.00",
-          "destinationNameTC": "澳大利亞(澳洲)",
-          "destinationNameSC": "澳大利亚(澳洲)",
-          "destinationNameEN": "AUSTRALIA",
-          "handleFee": "32.00",
-          "zoneCode": "AU"
-        },
-        {
-          "destinationCode": "AW",
-          "amount": "149.00",
-          "destinationNameTC": "阿魯巴",
-          "destinationNameSC": "阿魯巴",
-          "destinationNameEN": "ARUBA",
-          "handleFee": "25.00",
-          "zoneCode": "AW"
-        },
-        {
-          "destinationCode": "AZ",
-          "amount": "109.00",
-          "destinationNameTC": "阿塞拜疆",
-          "destinationNameSC": "阿塞拜疆",
-          "destinationNameEN": "AZERBAIJAN",
-          "handleFee": "25.00",
-          "zoneCode": "AZ"
-        },
-        {
-          "destinationCode": "BA",
-          "amount": "121.00",
-          "destinationNameTC": "波斯尼亞-黑塞哥維那",
-          "destinationNameSC": "波斯尼亚-黑塞哥维那",
-          "destinationNameEN": "BOSNIA AND HERZEGOVINA",
-          "handleFee": "25.00",
-          "zoneCode": "BA"
-        },
-        {
-          "destinationCode": "BB",
-          "amount": "78.00",
-          "destinationNameTC": "巴巴多斯",
-          "destinationNameSC": "巴巴多斯",
-          "destinationNameEN": "BARBADOS",
-          "handleFee": "10.00",
-          "zoneCode": "BB"
-        },
-        {
-          "destinationCode": "BD",
-          "amount": "95.00",
-          "destinationNameTC": "孟加拉",
-          "destinationNameSC": "孟加拉",
-          "destinationNameEN": "BANGLADESH",
-          "handleFee": "25.00",
-          "zoneCode": "BD"
-        },
-        {
-          "destinationCode": "BE",
-          "amount": "62.00",
-          "destinationNameTC": "比利時",
-          "destinationNameSC": "比利时",
-          "destinationNameEN": "BELGIUM",
-          "handleFee": "32.00",
-          "zoneCode": "BE"
-        },
-        {
-          "destinationCode": "BF",
-          "amount": "124.00",
-          "destinationNameTC": "布基納法索",
-          "destinationNameSC": "布基纳法索",
-          "destinationNameEN": "BURKINA FASO",
-          "handleFee": "10.00",
-          "zoneCode": "BF"
-        },
-        {
-          "destinationCode": "BG",
-          "amount": "118.00",
-          "destinationNameTC": "保加利亞(共和國)",
-          "destinationNameSC": "保加利亚(共和国)",
-          "destinationNameEN": "BULGARIA (REP.)",
-          "handleFee": "25.00",
-          "zoneCode": "BG"
-        },
-        {
-          "destinationCode": "BH",
-          "amount": "107.00",
-          "destinationNameTC": "巴林(王國)",
-          "destinationNameSC": "巴林(王国)",
-          "destinationNameEN": "BAHRAIN (KINGDOM OF)",
-          "handleFee": "25.00",
-          "zoneCode": "BH"
-        },
-        {
-          "destinationCode": "BI",
-          "amount": "140.00",
-          "destinationNameTC": "布隆迪",
-          "destinationNameSC": "布隆迪",
-          "destinationNameEN": "BURUNDI",
-          "handleFee": "25.00",
-          "zoneCode": "BI"
-        },
-        {
-          "destinationCode": "BJ",
-          "amount": "65.00",
-          "destinationNameTC": "貝寧",
-          "destinationNameSC": "贝宁",
-          "destinationNameEN": "BENIN",
-          "handleFee": "10.00",
-          "zoneCode": "BJ"
-        },
-        {
-          "destinationCode": "BM",
-          "amount": "131.00",
-          "destinationNameTC": "百慕達",
-          "destinationNameSC": "百慕达",
-          "destinationNameEN": "BERMUDA",
-          "handleFee": "25.00",
-          "zoneCode": "BM"
-        },
-        {
-          "destinationCode": "BN",
-          "amount": "106.00",
-          "destinationNameTC": "文萊",
-          "destinationNameSC": "文莱",
-          "destinationNameEN": "BRUNEI DARUSSALAM",
-          "handleFee": "25.00",
-          "zoneCode": "BN"
-        },
-        {
-          "destinationCode": "BO",
-          "amount": "177.00",
-          "destinationNameTC": "玻利維亞",
-          "destinationNameSC": "玻利维亚",
-          "destinationNameEN": "BOLIVIA",
-          "handleFee": "25.00",
-          "zoneCode": "BO"
-        },
-        {
-          "destinationCode": "BR",
-          "amount": "124.00",
-          "destinationNameTC": "巴西",
-          "destinationNameSC": "巴西",
-          "destinationNameEN": "BRAZIL",
-          "handleFee": "25.00",
-          "zoneCode": "BR"
-        },
-        {
-          "destinationCode": "BS",
-          "amount": "170.00",
-          "destinationNameTC": "巴哈馬",
-          "destinationNameSC": "巴哈马",
-          "destinationNameEN": "BAHAMAS",
-          "handleFee": "10.00",
-          "zoneCode": "BS"
-        },
-        {
-          "destinationCode": "BT",
-          "amount": "50.00",
-          "destinationNameTC": "不丹",
-          "destinationNameSC": "不丹",
-          "destinationNameEN": "BHUTAN",
-          "handleFee": "10.00",
-          "zoneCode": "BT"
-        },
-        {
-          "destinationCode": "BW",
-          "amount": "74.00",
-          "destinationNameTC": "博茨瓦納",
-          "destinationNameSC": "博茨瓦纳",
-          "destinationNameEN": "BOTSWANA",
-          "handleFee": "10.00",
-          "zoneCode": "BW"
-        },
-        {
-          "destinationCode": "BY",
-          "amount": "147.00",
-          "destinationNameTC": "白俄羅斯",
-          "destinationNameSC": "白俄罗斯",
-          "destinationNameEN": "BELARUS",
-          "handleFee": "25.00",
-          "zoneCode": "BY"
-        },
-        {
-          "destinationCode": "BZ",
-          "amount": "122.00",
-          "destinationNameTC": "伯利茲",
-          "destinationNameSC": "伯利兹",
-          "destinationNameEN": "BELIZE",
-          "handleFee": "10.00",
-          "zoneCode": "BZ"
-        },
-        {
-          "destinationCode": "CA",
-          "amount": "65.00",
-          "destinationNameTC": "加拿大",
-          "destinationNameSC": "加拿大",
-          "destinationNameEN": "CANADA",
-          "handleFee": "32.00",
-          "zoneCode": "CA"
-        },
-        {
-          "destinationCode": "CD",
-          "amount": "80.00",
-          "destinationNameTC": "剛果民主共和國",
-          "destinationNameSC": "刚果民主共和国",
-          "destinationNameEN": "DEMOCRATIC REPUBLIC OF THE CONGO",
-          "handleFee": "10.00",
-          "zoneCode": "CD"
-        },
-        {
-          "destinationCode": "CF",
-          "amount": "124.00",
-          "destinationNameTC": "中非共和國",
-          "destinationNameSC": "中非共和国",
-          "destinationNameEN": "CENTRAL AFRICAN REP.",
-          "handleFee": "10.00",
-          "zoneCode": "CF"
-        },
-        {
-          "destinationCode": "CG",
-          "amount": "231.00",
-          "destinationNameTC": "剛果(共和國)",
-          "destinationNameSC": "刚果(共和国)",
-          "destinationNameEN": "CONGO (REP.)",
-          "handleFee": "25.00",
-          "zoneCode": "CG"
-        },
-        {
-          "destinationCode": "CH",
-          "amount": "59.00",
-          "destinationNameTC": "瑞士",
-          "destinationNameSC": "瑞士",
-          "destinationNameEN": "SWITZERLAND",
-          "handleFee": "32.00",
-          "zoneCode": "CH"
-        },
-        {
-          "destinationCode": "CI",
-          "amount": "89.00",
-          "destinationNameTC": "科特迪瓦",
-          "destinationNameSC": "科特迪瓦",
-          "destinationNameEN": "CÔTE D'IVOIRE (REP.)",
-          "handleFee": "10.00",
-          "zoneCode": "CI"
-        },
-        {
-          "destinationCode": "CK",
-          "amount": "66.00",
-          "destinationNameTC": "庫克群島",
-          "destinationNameSC": "库克群岛",
-          "destinationNameEN": "COOK ISLANDS",
-          "handleFee": "10.00",
-          "zoneCode": "CK"
-        },
-        {
-          "destinationCode": "CL",
-          "amount": "75.00",
-          "destinationNameTC": "智利",
-          "destinationNameSC": "智利",
-          "destinationNameEN": "CHILE",
-          "handleFee": "32.00",
-          "zoneCode": "CL"
-        },
-        {
-          "destinationCode": "CM",
-          "amount": "152.00",
-          "destinationNameTC": "喀麥隆",
-          "destinationNameSC": "喀麦隆",
-          "destinationNameEN": "CAMEROON",
-          "handleFee": "10.00",
-          "zoneCode": "CM"
-        },
-        {
-          "destinationCode": "CN",
-          "amount": "27.00",
-          "destinationNameTC": "中國內地",
-          "destinationNameSC": "中国内地",
-          "destinationNameEN": "CHINA, MAINLAND",
-          "handleFee": "30.00",
-          "zoneCode": "CN"
-        },
-        {
-          "destinationCode": "CO",
-          "amount": "153.00",
-          "destinationNameTC": "哥倫比亞",
-          "destinationNameSC": "哥伦比亚",
-          "destinationNameEN": "COLOMBIA",
-          "handleFee": "25.00",
-          "zoneCode": "CO"
-        },
-        {
-          "destinationCode": "CR",
-          "amount": "145.00",
-          "destinationNameTC": "哥斯達黎加",
-          "destinationNameSC": "哥斯达黎加",
-          "destinationNameEN": "COSTA RICA",
-          "handleFee": "25.00",
-          "zoneCode": "CR"
-        },
-        {
-          "destinationCode": "CU",
-          "amount": "122.00",
-          "destinationNameTC": "古巴",
-          "destinationNameSC": "古巴",
-          "destinationNameEN": "CUBA",
-          "handleFee": "10.00",
-          "zoneCode": "CU"
-        },
-        {
-          "destinationCode": "CV",
-          "amount": "84.00",
-          "destinationNameTC": "佛得角",
-          "destinationNameSC": "佛得角",
-          "destinationNameEN": "CAPE VERDE",
-          "handleFee": "10.00",
-          "zoneCode": "CV"
-        },
-        {
-          "destinationCode": "CY",
-          "amount": "129.00",
-          "destinationNameTC": "塞浦路斯",
-          "destinationNameSC": "塞浦路斯",
-          "destinationNameEN": "CYPRUS",
-          "handleFee": "25.00",
-          "zoneCode": "CY"
-        },
-        {
-          "destinationCode": "CZ",
-          "amount": "120.00",
-          "destinationNameTC": "捷克共和國",
-          "destinationNameSC": "捷克共和国",
-          "destinationNameEN": "CZECH REP.",
-          "handleFee": "25.00",
-          "zoneCode": "CZ"
-        },
-        {
-          "destinationCode": "DE",
-          "amount": "61.00",
-          "destinationNameTC": "德國",
-          "destinationNameSC": "德国",
-          "destinationNameEN": "GERMANY",
-          "handleFee": "32.00",
-          "zoneCode": "DE"
-        },
-        {
-          "destinationCode": "DJ",
-          "amount": "145.00",
-          "destinationNameTC": "吉布提",
-          "destinationNameSC": "吉布提",
-          "destinationNameEN": "DJIBOUTI",
-          "handleFee": "25.00",
-          "zoneCode": "DJ"
-        },
-        {
-          "destinationCode": "DK",
-          "amount": "59.00",
-          "destinationNameTC": "丹麥",
-          "destinationNameSC": "丹麦",
-          "destinationNameEN": "DENMARK",
-          "handleFee": "32.00",
-          "zoneCode": "DK"
-        },
-        {
-          "destinationCode": "DM",
-          "amount": "127.00",
-          "destinationNameTC": "多米尼加",
-          "destinationNameSC": "多米尼加",
-          "destinationNameEN": "DOMINICA",
-          "handleFee": "10.00",
-          "zoneCode": "DM"
-        },
-        {
-          "destinationCode": "DO",
-          "amount": "152.00",
-          "destinationNameTC": "多米尼加共和國",
-          "destinationNameSC": "多米尼加共和国",
-          "destinationNameEN": "DOMINICAN REPUBLIC",
-          "handleFee": "25.00",
-          "zoneCode": "DO"
-        },
-        {
-          "destinationCode": "DZ",
-          "amount": "83.00",
-          "destinationNameTC": "阿爾及利亞",
-          "destinationNameSC": "阿尔及利亚",
-          "destinationNameEN": "ALGERIA",
-          "handleFee": "10.00",
-          "zoneCode": "DZ"
-        },
-        {
-          "destinationCode": "EC",
-          "amount": "150.00",
-          "destinationNameTC": "厄瓜多爾",
-          "destinationNameSC": "厄瓜多尔",
-          "destinationNameEN": "ECUADOR",
-          "handleFee": "25.00",
-          "zoneCode": "EC"
-        },
-        {
-          "destinationCode": "EE",
-          "amount": "149.00",
-          "destinationNameTC": "愛沙尼亞",
-          "destinationNameSC": "爱沙尼亚",
-          "destinationNameEN": "ESTONIA",
-          "handleFee": "25.00",
-          "zoneCode": "EE"
-        },
-        {
-          "destinationCode": "EG",
-          "amount": "118.00",
-          "destinationNameTC": "埃及",
-          "destinationNameSC": "埃及",
-          "destinationNameEN": "EGYPT",
-          "handleFee": "25.00",
-          "zoneCode": "EG"
-        },
-        {
-          "destinationCode": "ES",
-          "amount": "69.00",
-          "destinationNameTC": "西班牙",
-          "destinationNameSC": "西班牙",
-          "destinationNameEN": "SPAIN",
-          "handleFee": "32.00",
-          "zoneCode": "ES"
-        },
-        {
-          "destinationCode": "ET",
-          "amount": "115.00",
-          "destinationNameTC": "埃塞俄比亞",
-          "destinationNameSC": "埃塞俄比亚",
-          "destinationNameEN": "ETHIOPIA",
-          "handleFee": "25.00",
-          "zoneCode": "ET"
-        },
-        {
-          "destinationCode": "FI",
-          "amount": "131.00",
-          "destinationNameTC": "芬蘭",
-          "destinationNameSC": "芬兰",
-          "destinationNameEN": "FINLAND",
-          "handleFee": "25.00",
-          "zoneCode": "FI"
-        },
-        {
-          "destinationCode": "FJ",
-          "amount": "164.00",
-          "destinationNameTC": "斐濟",
-          "destinationNameSC": "斐济",
-          "destinationNameEN": "FIJI",
-          "handleFee": "25.00",
-          "zoneCode": "FJ"
-        },
-        {
-          "destinationCode": "FK",
-          "amount": "211.00",
-          "destinationNameTC": "福克蘭群島",
-          "destinationNameSC": "福克兰群岛",
-          "destinationNameEN": "FALKLAND ISLANDS (MALVINAS)",
-          "handleFee": "10.00",
-          "zoneCode": "FK"
-        },
-        {
-          "destinationCode": "FO",
-          "amount": "61.00",
-          "destinationNameTC": "法羅群島",
-          "destinationNameSC": "法罗群岛",
-          "destinationNameEN": "FAROE ISLANDS",
-          "handleFee": "10.00",
-          "zoneCode": "FO"
-        },
-        {
-          "destinationCode": "FR",
-          "amount": "63.00",
-          "destinationNameTC": "法國",
-          "destinationNameSC": "法国",
-          "destinationNameEN": "FRANCE",
-          "handleFee": "32.00",
-          "zoneCode": "FR"
-        },
-        {
-          "destinationCode": "GA",
-          "amount": "148.00",
-          "destinationNameTC": "加薘",
-          "destinationNameSC": "加薘",
-          "destinationNameEN": "GABON",
-          "handleFee": "10.00",
-          "zoneCode": "GA"
-        },
-        {
-          "destinationCode": "GB",
-          "amount": "60.00",
-          "destinationNameTC": "英國",
-          "destinationNameSC": "英国",
-          "destinationNameEN": "UNITED KINGDOM",
-          "handleFee": "32.00",
-          "zoneCode": "GB"
-        },
-        {
-          "destinationCode": "GD",
-          "amount": "170.00",
-          "destinationNameTC": "格林納達",
-          "destinationNameSC": "格林纳达",
-          "destinationNameEN": "GRENADA",
-          "handleFee": "10.00",
-          "zoneCode": "GD"
-        },
-        {
-          "destinationCode": "GE",
-          "amount": "86.00",
-          "destinationNameTC": "格魯吉亞",
-          "destinationNameSC": "格鲁吉亚",
-          "destinationNameEN": "GEORGIA",
-          "handleFee": "10.00",
-          "zoneCode": "GE"
-        },
-        {
-          "destinationCode": "GF",
-          "amount": "113.00",
-          "destinationNameTC": "法屬圭亞那",
-          "destinationNameSC": "法属圭亚那",
-          "destinationNameEN": "FRENCH GUIANA",
-          "handleFee": "10.00",
-          "zoneCode": "GF"
-        },
-        {
-          "destinationCode": "GH",
-          "amount": "166.00",
-          "destinationNameTC": "加納",
-          "destinationNameSC": "加纳",
-          "destinationNameEN": "GHANA",
-          "handleFee": "25.00",
-          "zoneCode": "GH"
-        },
-        {
-          "destinationCode": "GI",
-          "amount": "86.00",
-          "destinationNameTC": "直布羅陀",
-          "destinationNameSC": "直布罗陀",
-          "destinationNameEN": "GIBRALTAR",
-          "handleFee": "10.00",
-          "zoneCode": "GI"
-        },
-        {
-          "destinationCode": "GL",
-          "amount": "232.00",
-          "destinationNameTC": "格陵蘭",
-          "destinationNameSC": "格陵兰",
-          "destinationNameEN": "GREENLAND",
-          "handleFee": "10.00",
-          "zoneCode": "GL"
-        },
-        {
-          "destinationCode": "GM",
-          "amount": "113.00",
-          "destinationNameTC": "岡比亞",
-          "destinationNameSC": "冈比亚",
-          "destinationNameEN": "GAMBIA",
-          "handleFee": "10.00",
-          "zoneCode": "GM"
-        },
-        {
-          "destinationCode": "GN",
-          "amount": "124.00",
-          "destinationNameTC": "幾內亞",
-          "destinationNameSC": "几内亚",
-          "destinationNameEN": "GUINEA",
-          "handleFee": "10.00",
-          "zoneCode": "GN"
-        },
-        {
-          "destinationCode": "GP",
-          "amount": "113.00",
-          "destinationNameTC": "瓜德羅普島 (法屬西印度群島)",
-          "destinationNameSC": "瓜德罗普岛 (法属西印度群岛)",
-          "destinationNameEN": "GUADELOUPE (FRENCH WEST INDIES)",
-          "handleFee": "10.00",
-          "zoneCode": "GP"
-        },
-        {
-          "destinationCode": "GQ",
-          "amount": "113.00",
-          "destinationNameTC": "赤道幾內亞",
-          "destinationNameSC": "赤道几内亚",
-          "destinationNameEN": "EQUATORIAL GUINEA",
-          "handleFee": "10.00",
-          "zoneCode": "GQ"
-        },
-        {
-          "destinationCode": "GR",
-          "amount": "124.00",
-          "destinationNameTC": "希臘",
-          "destinationNameSC": "希腊",
-          "destinationNameEN": "GREECE",
-          "handleFee": "25.00",
-          "zoneCode": "GR"
-        },
-        {
-          "destinationCode": "GS",
-          "amount": "89.00",
-          "destinationNameTC": "南喬治亞地區及南桑威奇群島",
-          "destinationNameSC": "南乔治亚地区及南桑威奇群岛",
-          "destinationNameEN": "THE TERRITORY OF SOUTH GEORGIA AND SOUTH SANDWICH ISLANDS",
-          "handleFee": "25.00",
-          "zoneCode": "GS"
-        },
-        {
-          "destinationCode": "GU",
-          "amount": "89.00",
-          "destinationNameTC": "關島",
-          "destinationNameSC": "关岛",
-          "destinationNameEN": "GUAM",
-          "handleFee": "25.00",
-          "zoneCode": "GU"
-        },
-        {
-          "destinationCode": "GW",
-          "amount": "105.00",
-          "destinationNameTC": "幾內亞比紹",
-          "destinationNameSC": "几内亚比绍",
-          "destinationNameEN": "GUINEA-BISSAU",
-          "handleFee": "10.00",
-          "zoneCode": "GW"
-        },
-        {
-          "destinationCode": "GY",
-          "amount": "113.00",
-          "destinationNameTC": "圭亞那",
-          "destinationNameSC": "圭亚那",
-          "destinationNameEN": "GUYANA",
-          "handleFee": "10.00",
-          "zoneCode": "GY"
-        },
-        {
-          "destinationCode": "HN",
-          "amount": "122.00",
-          "destinationNameTC": "洪都拉斯(共和國)",
-          "destinationNameSC": "洪都拉斯(共和国)",
-          "destinationNameEN": "HONDURAS (REP.)",
-          "handleFee": "10.00",
-          "zoneCode": "HN"
-        },
-        {
-          "destinationCode": "HR",
-          "amount": "131.00",
-          "destinationNameTC": "克羅地亞",
-          "destinationNameSC": "克罗地亚",
-          "destinationNameEN": "CROATIA",
-          "handleFee": "25.00",
-          "zoneCode": "HR"
-        },
-        {
-          "destinationCode": "HT",
-          "amount": "78.00",
-          "destinationNameTC": "海地",
-          "destinationNameSC": "海地",
-          "destinationNameEN": "HAITI",
-          "handleFee": "10.00",
-          "zoneCode": "HT"
-        },
-        {
-          "destinationCode": "HU",
-          "amount": "124.00",
-          "destinationNameTC": "匈牙利",
-          "destinationNameSC": "匈牙利",
-          "destinationNameEN": "HUNGARY",
-          "handleFee": "25.00",
-          "zoneCode": "HU"
-        },
-        {
-          "destinationCode": "ID",
-          "amount": "86.00",
-          "destinationNameTC": "印度尼西亞",
-          "destinationNameSC": "印度尼西亚",
-          "destinationNameEN": "INDONESIA",
-          "handleFee": "25.00",
-          "zoneCode": "ID"
-        },
-        {
-          "destinationCode": "IE",
-          "amount": "131.00",
-          "destinationNameTC": "愛爾蘭",
-          "destinationNameSC": "爱尔兰",
-          "destinationNameEN": "IRELAND",
-          "handleFee": "25.00",
-          "zoneCode": "IE"
-        },
-        {
-          "destinationCode": "IL",
-          "amount": "65.00",
-          "destinationNameTC": "以色列",
-          "destinationNameSC": "以色列",
-          "destinationNameEN": "ISRAEL",
-          "handleFee": "32.00",
-          "zoneCode": "IL"
-        },
-        {
-          "destinationCode": "IN",
-          "amount": "96.00",
-          "destinationNameTC": "印度",
-          "destinationNameSC": "印度",
-          "destinationNameEN": "INDIA",
-          "handleFee": "25.00",
-          "zoneCode": "IN"
-        },
-        {
-          "destinationCode": "IQ",
-          "amount": "87.00",
-          "destinationNameTC": "伊拉克",
-          "destinationNameSC": "伊拉克",
-          "destinationNameEN": "IRAQ",
-          "handleFee": "10.00",
-          "zoneCode": "IQ"
-        },
-        {
-          "destinationCode": "IR",
-          "amount": "115.00",
-          "destinationNameTC": "伊朗",
-          "destinationNameSC": "伊朗",
-          "destinationNameEN": "IRAN",
-          "handleFee": "25.00",
-          "zoneCode": "IR"
-        },
-        {
-          "destinationCode": "IS",
-          "amount": "145.00",
-          "destinationNameTC": "冰島",
-          "destinationNameSC": "冰岛",
-          "destinationNameEN": "ICELAND",
-          "handleFee": "25.00",
-          "zoneCode": "IS"
-        },
-        {
-          "destinationCode": "IT",
-          "amount": "59.00",
-          "destinationNameTC": "意大利",
-          "destinationNameSC": "意大利",
-          "destinationNameEN": "ITALY",
-          "handleFee": "32.00",
-          "zoneCode": "IT"
-        },
-        {
-          "destinationCode": "JM",
-          "amount": "113.00",
-          "destinationNameTC": "牙買加",
-          "destinationNameSC": "牙买加",
-          "destinationNameEN": "JAMAICA",
-          "handleFee": "10.00",
-          "zoneCode": "JM"
-        },
-        {
-          "destinationCode": "JO",
-          "amount": "112.00",
-          "destinationNameTC": "約旦",
-          "destinationNameSC": "约旦",
-          "destinationNameEN": "JORDAN",
-          "handleFee": "25.00",
-          "zoneCode": "JO"
-        },
-        {
-          "destinationCode": "JP",
-          "amount": "31.00",
-          "destinationNameTC": "日本",
-          "destinationNameSC": "日本",
-          "destinationNameEN": "JAPAN",
-          "handleFee": "32.00",
-          "zoneCode": "JP"
-        },
-        {
-          "destinationCode": "KE",
-          "amount": "110.00",
-          "destinationNameTC": "肯尼亞",
-          "destinationNameSC": "肯尼亚",
-          "destinationNameEN": "KENYA",
-          "handleFee": "25.00",
-          "zoneCode": "KE"
-        },
-        {
-          "destinationCode": "KG",
-          "amount": "60.00",
-          "destinationNameTC": "吉爾吉斯",
-          "destinationNameSC": "吉尔吉斯",
-          "destinationNameEN": "KYRGYZSTAN",
-          "handleFee": "10.00",
-          "zoneCode": "KG"
-        },
-        {
-          "destinationCode": "KH",
-          "amount": "95.00",
-          "destinationNameTC": "柬埔寨",
-          "destinationNameSC": "柬埔寨",
-          "destinationNameEN": "CAMBODIA",
-          "handleFee": "25.00",
-          "zoneCode": "KH"
-        },
-        {
-          "destinationCode": "KI",
-          "amount": "66.00",
-          "destinationNameTC": "基里巴斯",
-          "destinationNameSC": "基里巴斯",
-          "destinationNameEN": "KIRIBATI",
-          "handleFee": "10.00",
-          "zoneCode": "KI"
-        },
-        {
-          "destinationCode": "KM",
-          "amount": "74.00",
-          "destinationNameTC": "科摩羅",
-          "destinationNameSC": "科摩罗",
-          "destinationNameEN": "COMOROS",
-          "handleFee": "10.00",
-          "zoneCode": "KM"
-        },
-        {
-          "destinationCode": "KN",
-          "amount": "78.00",
-          "destinationNameTC": "聖克里斯托佛島（聖基茨島）及尼維斯島",
-          "destinationNameSC": "圣克里斯托佛岛（圣基茨岛）及尼维斯岛",
-          "destinationNameEN": "ST. CHRISTOPHER (ST. KITTS) AND NEVIS",
-          "handleFee": "10.00",
-          "zoneCode": "KN"
-        },
-        {
-          "destinationCode": "KP",
-          "amount": "35.00",
-          "destinationNameTC": "北韓",
-          "destinationNameSC": "北韩",
-          "destinationNameEN": "KOREA, NORTH",
-          "handleFee": "10.00",
-          "zoneCode": "KP"
-        },
-        {
-          "destinationCode": "KR",
-          "amount": "80.00",
-          "destinationNameTC": "南韓",
-          "destinationNameSC": "南韩",
-          "destinationNameEN": "KOREA, SOUTH",
-          "handleFee": "25.00",
-          "zoneCode": "KR"
-        },
-        {
-          "destinationCode": "KW",
-          "amount": "111.00",
-          "destinationNameTC": "科威特",
-          "destinationNameSC": "科威特",
-          "destinationNameEN": "KUWAIT",
-          "handleFee": "25.00",
-          "zoneCode": "KW"
-        },
-        {
-          "destinationCode": "KY",
-          "amount": "131.00",
-          "destinationNameTC": "開曼群島",
-          "destinationNameSC": "开曼群岛",
-          "destinationNameEN": "CAYMAN ISLANDS",
-          "handleFee": "10.00",
-          "zoneCode": "KY"
-        },
-        {
-          "destinationCode": "KZ",
-          "amount": "140.00",
-          "destinationNameTC": "哈薩克",
-          "destinationNameSC": "哈萨克",
-          "destinationNameEN": "KAZAKHSTAN",
-          "handleFee": "25.00",
-          "zoneCode": "KZ"
-        },
-        {
-          "destinationCode": "LA",
-          "amount": "86.00",
-          "destinationNameTC": "老撾人民民主共和國",
-          "destinationNameSC": "老挝人民民主共和国",
-          "destinationNameEN": "LAO PEOPLE'S DEM. REP.",
-          "handleFee": "25.00",
-          "zoneCode": "LA"
-        },
-        {
-          "destinationCode": "LB",
-          "amount": "131.00",
-          "destinationNameTC": "黎巴嫩",
-          "destinationNameSC": "黎巴嫩",
-          "destinationNameEN": "LEBANON",
-          "handleFee": "25.00",
-          "zoneCode": "LB"
-        },
-        {
-          "destinationCode": "LC",
-          "amount": "113.00",
-          "destinationNameTC": "聖盧西亞",
-          "destinationNameSC": "圣卢西亚",
-          "destinationNameEN": "ST. LUCIA",
-          "handleFee": "10.00",
-          "zoneCode": "LC"
-        },
-        {
-          "destinationCode": "LI",
-          "amount": "176.00",
-          "destinationNameTC": "列支敦士登",
-          "destinationNameSC": "列支敦士登",
-          "destinationNameEN": "LIECHTENSTEIN",
-          "handleFee": "25.00",
-          "zoneCode": "LI"
-        },
-        {
-          "destinationCode": "LK",
-          "amount": "97.00",
-          "destinationNameTC": "斯里蘭卡",
-          "destinationNameSC": "斯里兰卡",
-          "destinationNameEN": "SRI LANKA",
-          "handleFee": "25.00",
-          "zoneCode": "LK"
-        },
-        {
-          "destinationCode": "LS",
-          "amount": "74.00",
-          "destinationNameTC": "萊索托",
-          "destinationNameSC": "莱索托",
-          "destinationNameEN": "LESOTHO",
-          "handleFee": "10.00",
-          "zoneCode": "LS"
-        },
-        {
-          "destinationCode": "LT",
-          "amount": "131.00",
-          "destinationNameTC": "立陶宛",
-          "destinationNameSC": "立陶宛",
-          "destinationNameEN": "LITHUANIA",
-          "handleFee": "25.00",
-          "zoneCode": "LT"
-        },
-        {
-          "destinationCode": "LU",
-          "amount": "124.00",
-          "destinationNameTC": "盧森堡",
-          "destinationNameSC": "卢森堡",
-          "destinationNameEN": "LUXEMBOURG",
-          "handleFee": "25.00",
-          "zoneCode": "LU"
-        },
-        {
-          "destinationCode": "LV",
-          "amount": "141.00",
-          "destinationNameTC": "拉脫維亞",
-          "destinationNameSC": "拉脱维亚",
-          "destinationNameEN": "LATVIA",
-          "handleFee": "25.00",
-          "zoneCode": "LV"
-        },
-        {
-          "destinationCode": "MA",
-          "amount": "125.00",
-          "destinationNameTC": "摩洛哥",
-          "destinationNameSC": "摩洛哥",
-          "destinationNameEN": "MOROCCO",
-          "handleFee": "25.00",
-          "zoneCode": "MA"
-        },
-        {
-          "destinationCode": "MC",
-          "amount": "40.00",
-          "destinationNameTC": "摩納哥",
-          "destinationNameSC": "摩纳哥",
-          "destinationNameEN": "MONACO",
-          "handleFee": "25.00",
-          "zoneCode": "MC"
-        },
-        {
-          "destinationCode": "MD",
-          "amount": "137.00",
-          "destinationNameTC": "摩爾多瓦",
-          "destinationNameSC": "摩尔多瓦",
-          "destinationNameEN": "MOLDOVA",
-          "handleFee": "25.00",
-          "zoneCode": "MD"
-        },
-        {
-          "destinationCode": "ME",
-          "amount": "145.00",
-          "destinationNameTC": "黑山",
-          "destinationNameSC": "黑山",
-          "destinationNameEN": "MONTENEGRO",
-          "handleFee": "25.00",
-          "zoneCode": "ME"
-        },
-        {
-          "destinationCode": "MG",
-          "amount": "150.00",
-          "destinationNameTC": "馬達加斯加",
-          "destinationNameSC": "马达加斯加",
-          "destinationNameEN": "MADAGASCAR",
-          "handleFee": "25.00",
-          "zoneCode": "MG"
-        },
-        {
-          "destinationCode": "MK",
-          "amount": "158.00",
-          "destinationNameTC": "北馬其頓",
-          "destinationNameSC": "北马其顿",
-          "destinationNameEN": "NORTH MACEDONIA",
-          "handleFee": "25.00",
-          "zoneCode": "MK"
-        },
-        {
-          "destinationCode": "ML",
-          "amount": "253.00",
-          "destinationNameTC": "馬里",
-          "destinationNameSC": "马里",
-          "destinationNameEN": "MALI",
-          "handleFee": "25.00",
-          "zoneCode": "ML"
-        },
-        {
-          "destinationCode": "MM",
-          "amount": "86.00",
-          "destinationNameTC": "緬甸",
-          "destinationNameSC": "缅甸",
-          "destinationNameEN": "MYANMAR",
-          "handleFee": "25.00",
-          "zoneCode": "MM"
-        },
-        {
-          "destinationCode": "MN",
-          "amount": "35.00",
-          "destinationNameTC": "蒙古",
-          "destinationNameSC": "蒙古",
-          "destinationNameEN": "MONGOLIA",
-          "handleFee": "10.00",
-          "zoneCode": "MN"
-        },
-        {
-          "destinationCode": "MP",
-          "amount": "89.00",
-          "destinationNameTC": "馬里亞納群島",
-          "destinationNameSC": "马里亚纳群岛",
-          "destinationNameEN": "MARIANA ISLANDS",
-          "handleFee": "25.00",
-          "zoneCode": "MP"
-        },
-        {
-          "destinationCode": "MQ",
-          "amount": "113.00",
-          "destinationNameTC": "馬提尼克島",
-          "destinationNameSC": "马提尼克岛",
-          "destinationNameEN": "MARTINIQUE (FRENCH WEST INDIES)",
-          "handleFee": "10.00",
-          "zoneCode": "MQ"
-        },
-        {
-          "destinationCode": "MR",
-          "amount": "124.00",
-          "destinationNameTC": "毛里塔尼亞",
-          "destinationNameSC": "毛里塔尼亚",
-          "destinationNameEN": "MAURITANIA",
-          "handleFee": "10.00",
-          "zoneCode": "MR"
-        },
-        {
-          "destinationCode": "MS",
-          "amount": "114.00",
-          "destinationNameTC": "蒙特塞拉特",
-          "destinationNameSC": "蒙特塞拉特",
-          "destinationNameEN": "MONTSERRAT",
-          "handleFee": "10.00",
-          "zoneCode": "MS"
-        },
-        {
-          "destinationCode": "MT",
-          "amount": "125.00",
-          "destinationNameTC": "馬爾他",
-          "destinationNameSC": "马尔他",
-          "destinationNameEN": "MALTA",
-          "handleFee": "25.00",
-          "zoneCode": "MT"
-        },
-        {
-          "destinationCode": "MU",
-          "amount": "154.00",
-          "destinationNameTC": "毛里求斯",
-          "destinationNameSC": "毛里求斯",
-          "destinationNameEN": "MAURITIUS",
-          "handleFee": "25.00",
-          "zoneCode": "MU"
-        },
-        {
-          "destinationCode": "MV",
-          "amount": "91.00",
-          "destinationNameTC": "馬爾代夫",
-          "destinationNameSC": "马尔代夫",
-          "destinationNameEN": "MALDIVES",
-          "handleFee": "25.00",
-          "zoneCode": "MV"
-        },
-        {
-          "destinationCode": "MW",
-          "amount": "74.00",
-          "destinationNameTC": "馬拉維",
-          "destinationNameSC": "马拉维",
-          "destinationNameEN": "MALAWI",
-          "handleFee": "10.00",
-          "zoneCode": "MW"
-        },
-        {
-          "destinationCode": "MX",
-          "amount": "128.00",
-          "destinationNameTC": "墨西哥",
-          "destinationNameSC": "墨西哥",
-          "destinationNameEN": "MEXICO",
-          "handleFee": "25.00",
-          "zoneCode": "MX"
-        },
-        {
-          "destinationCode": "MY",
-          "amount": "83.00",
-          "destinationNameTC": "馬來西亞",
-          "destinationNameSC": "马来西亚",
-          "destinationNameEN": "MALAYSIA",
-          "handleFee": "25.00",
-          "zoneCode": "MY"
-        },
-        {
-          "destinationCode": "MZ",
-          "amount": "126.00",
-          "destinationNameTC": "莫桑比克",
-          "destinationNameSC": "莫桑比克",
-          "destinationNameEN": "MOZAMBIQUE",
-          "handleFee": "25.00",
-          "zoneCode": "MZ"
-        },
-        {
-          "destinationCode": "NA",
-          "amount": "74.00",
-          "destinationNameTC": "納米比亞",
-          "destinationNameSC": "纳米比亚",
-          "destinationNameEN": "NAMIBIA",
-          "handleFee": "10.00",
-          "zoneCode": "NA"
-        },
-        {
-          "destinationCode": "NC",
-          "amount": "73.00",
-          "destinationNameTC": "新喀里多尼亞",
-          "destinationNameSC": "新喀里多尼亚",
-          "destinationNameEN": "NEW CALEDONIA",
-          "handleFee": "10.00",
-          "zoneCode": "NC"
-        },
-        {
-          "destinationCode": "NE",
-          "amount": "65.00",
-          "destinationNameTC": "尼日爾",
-          "destinationNameSC": "尼日尔",
-          "destinationNameEN": "NIGER",
-          "handleFee": "10.00",
-          "zoneCode": "NE"
-        },
-        {
-          "destinationCode": "NG",
-          "amount": "112.00",
-          "destinationNameTC": "尼日利亞",
-          "destinationNameSC": "尼日利亚",
-          "destinationNameEN": "NIGERIA",
-          "handleFee": "25.00",
-          "zoneCode": "NG"
-        },
-        {
-          "destinationCode": "NI",
-          "amount": "122.00",
-          "destinationNameTC": "尼加拉瓜",
-          "destinationNameSC": "尼加拉瓜",
-          "destinationNameEN": "NICARAGUA",
-          "handleFee": "10.00",
-          "zoneCode": "NI"
-        },
-        {
-          "destinationCode": "NL",
-          "amount": "60.00",
-          "destinationNameTC": "荷蘭",
-          "destinationNameSC": "荷兰",
-          "destinationNameEN": "NETHERLANDS",
-          "handleFee": "32.00",
-          "zoneCode": "NL"
-        },
-        {
-          "destinationCode": "NO",
-          "amount": "64.00",
-          "destinationNameTC": "挪威",
-          "destinationNameSC": "挪威",
-          "destinationNameEN": "NORWAY",
-          "handleFee": "32.00",
-          "zoneCode": "NO"
-        },
-        {
-          "destinationCode": "NP",
-          "amount": "97.00",
-          "destinationNameTC": "尼泊爾",
-          "destinationNameSC": "尼泊尔",
-          "destinationNameEN": "NEPAL",
-          "handleFee": "25.00",
-          "zoneCode": "NP"
-        },
-        {
-          "destinationCode": "NR",
-          "amount": "158.00",
-          "destinationNameTC": "瑙魯",
-          "destinationNameSC": "瑙鲁",
-          "destinationNameEN": "NAURU",
-          "handleFee": "25.00",
-          "zoneCode": "NR"
-        },
-        {
-          "destinationCode": "NZ",
-          "amount": "52.00",
-          "destinationNameTC": "新西蘭",
-          "destinationNameSC": "新西兰",
-          "destinationNameEN": "NEW ZEALAND",
-          "handleFee": "32.00",
-          "zoneCode": "NZ"
-        },
-        {
-          "destinationCode": "OM",
-          "amount": "113.00",
-          "destinationNameTC": "阿曼",
-          "destinationNameSC": "阿曼",
-          "destinationNameEN": "OMAN",
-          "handleFee": "25.00",
-          "zoneCode": "OM"
-        },
-        {
-          "destinationCode": "PA",
-          "amount": "135.00",
-          "destinationNameTC": "巴拿馬(共和國)",
-          "destinationNameSC": "巴拿马(共和国)",
-          "destinationNameEN": "PANAMA (REP.)",
-          "handleFee": "25.00",
-          "zoneCode": "PA"
-        },
-        {
-          "destinationCode": "PE",
-          "amount": "120.00",
-          "destinationNameTC": "秘魯",
-          "destinationNameSC": "秘鲁",
-          "destinationNameEN": "PERU",
-          "handleFee": "25.00",
-          "zoneCode": "PE"
-        },
-        {
-          "destinationCode": "PF",
-          "amount": "155.00",
-          "destinationNameTC": "法屬波利尼西亞",
-          "destinationNameSC": "法属波利尼西亚",
-          "destinationNameEN": "FRENCH POLYNESIA",
-          "handleFee": "25.00",
-          "zoneCode": "PF"
-        },
-        {
-          "destinationCode": "PG",
-          "amount": "139.00",
-          "destinationNameTC": "巴布亞新幾內亞",
-          "destinationNameSC": "巴布亚新几内亚",
-          "destinationNameEN": "PAPUA NEW GUINEA",
-          "handleFee": "25.00",
-          "zoneCode": "PG"
-        },
-        {
-          "destinationCode": "PH",
-          "amount": "80.00",
-          "destinationNameTC": "菲律賓",
-          "destinationNameSC": "菲律宾",
-          "destinationNameEN": "PHILIPPINES",
-          "handleFee": "25.00",
-          "zoneCode": "PH"
-        },
-        {
-          "destinationCode": "PK",
-          "amount": "104.00",
-          "destinationNameTC": "巴基斯坦",
-          "destinationNameSC": "巴基斯坦",
-          "destinationNameEN": "PAKISTAN",
-          "handleFee": "25.00",
-          "zoneCode": "PK"
-        },
-        {
-          "destinationCode": "PL",
-          "amount": "74.00",
-          "destinationNameTC": "波蘭",
-          "destinationNameSC": "波兰",
-          "destinationNameEN": "POLAND",
-          "handleFee": "32.00",
-          "zoneCode": "PL"
-        },
-        {
-          "destinationCode": "PM",
-          "amount": "70.00",
-          "destinationNameTC": "聖皮埃爾和密克隆群島",
-          "destinationNameSC": "圣皮埃尔和密克隆群岛",
-          "destinationNameEN": "ST. PIERRE AND MIQUELON",
-          "handleFee": "10.00",
-          "zoneCode": "PM"
-        },
-        {
-          "destinationCode": "PR",
-          "amount": "108.00",
-          "destinationNameTC": "波多黎各",
-          "destinationNameSC": "波多黎各",
-          "destinationNameEN": "PUERTO RICO",
-          "handleFee": "25.00",
-          "zoneCode": "PR"
-        },
-        {
-          "destinationCode": "PT",
-          "amount": "133.00",
-          "destinationNameTC": "葡萄牙",
-          "destinationNameSC": "葡萄牙",
-          "destinationNameEN": "PORTUGAL",
-          "handleFee": "25.00",
-          "zoneCode": "PT"
-        },
-        {
-          "destinationCode": "PY",
-          "amount": "77.00",
-          "destinationNameTC": "巴拉圭",
-          "destinationNameSC": "巴拉圭",
-          "destinationNameEN": "PARAGUAY",
-          "handleFee": "10.00",
-          "zoneCode": "PY"
-        },
-        {
-          "destinationCode": "QA",
-          "amount": "131.00",
-          "destinationNameTC": "卡塔爾",
-          "destinationNameSC": "卡塔尔",
-          "destinationNameEN": "QATAR",
-          "handleFee": "25.00",
-          "zoneCode": "QA"
-        },
-        {
-          "destinationCode": "RE",
-          "amount": "117.00",
-          "destinationNameTC": "留尼汪島",
-          "destinationNameSC": "留尼汪岛",
-          "destinationNameEN": "RÉUNION",
-          "handleFee": "25.00",
-          "zoneCode": "RE"
-        },
-        {
-          "destinationCode": "RO",
-          "amount": "138.00",
-          "destinationNameTC": "羅馬尼亞",
-          "destinationNameSC": "罗马尼亚",
-          "destinationNameEN": "ROMANIA",
-          "handleFee": "25.00",
-          "zoneCode": "RO"
-        },
-        {
-          "destinationCode": "RS",
-          "amount": "110.00",
-          "destinationNameTC": "塞爾維亞",
-          "destinationNameSC": "塞尔维亚",
-          "destinationNameEN": "SERBIA",
-          "handleFee": "25.00",
-          "zoneCode": "RS"
-        },
-        {
-          "destinationCode": "RU",
-          "amount": "52.00",
-          "destinationNameTC": "俄羅斯(俄羅斯聯邦)",
-          "destinationNameSC": "俄罗斯(俄罗斯联邦)",
-          "destinationNameEN": "RUSSIA (RUSSIAN FEDERATION)",
-          "handleFee": "30.00",
-          "zoneCode": "RU"
-        },
-        {
-          "destinationCode": "RW",
-          "amount": "66.00",
-          "destinationNameTC": "盧旺達(共和國)",
-          "destinationNameSC": "卢旺达(共和国)",
-          "destinationNameEN": "RWANDA (RÉP.)",
-          "handleFee": "10.00",
-          "zoneCode": "RW"
-        },
-        {
-          "destinationCode": "SA",
-          "amount": "124.00",
-          "destinationNameTC": "沙地阿拉伯",
-          "destinationNameSC": "沙地阿拉伯",
-          "destinationNameEN": "SAUDI ARABIA",
-          "handleFee": "25.00",
-          "zoneCode": "SA"
-        },
-        {
-          "destinationCode": "SB",
-          "amount": "97.00",
-          "destinationNameTC": "所羅門群島",
-          "destinationNameSC": "所罗门群岛",
-          "destinationNameEN": "SOLOMON ISLANDS",
-          "handleFee": "10.00",
-          "zoneCode": "SB"
-        },
-        {
-          "destinationCode": "SC",
-          "amount": "110.00",
-          "destinationNameTC": "塞舌爾",
-          "destinationNameSC": "塞舌尔",
-          "destinationNameEN": "SEYCHELLES",
-          "handleFee": "25.00",
-          "zoneCode": "SC"
-        },
-        {
-          "destinationCode": "SD",
-          "amount": "116.00",
-          "destinationNameTC": "蘇丹",
-          "destinationNameSC": "苏丹",
-          "destinationNameEN": "SUDAN",
-          "handleFee": "25.00",
-          "zoneCode": "SD"
-        },
-        {
-          "destinationCode": "SE",
-          "amount": "131.00",
-          "destinationNameTC": "瑞典",
-          "destinationNameSC": "瑞典",
-          "destinationNameEN": "SWEDEN",
-          "handleFee": "25.00",
-          "zoneCode": "SE"
-        },
-        {
-          "destinationCode": "SG",
-          "amount": "29.00",
-          "destinationNameTC": "新加坡",
-          "destinationNameSC": "新加坡",
-          "destinationNameEN": "SINGAPORE",
-          "handleFee": "30.00",
-          "zoneCode": "SG"
-        },
-        {
-          "destinationCode": "SI",
-          "amount": "133.00",
-          "destinationNameTC": "斯洛文尼亞",
-          "destinationNameSC": "斯洛文尼亚",
-          "destinationNameEN": "SLOVENIA",
-          "handleFee": "25.00",
-          "zoneCode": "SI"
-        },
-        {
-          "destinationCode": "SJ",
-          "amount": "109.00",
-          "destinationNameTC": "斯匹次卑爾根群島 (斯瓦爾巴特群島)",
-          "destinationNameSC": "斯匹次卑尔根群岛 (斯瓦尔巴特群岛)",
-          "destinationNameEN": "SPITSBERGEN (SVALBARD)",
-          "handleFee": "25.00",
-          "zoneCode": "SJ"
-        },
-        {
-          "destinationCode": "SK",
-          "amount": "115.00",
-          "destinationNameTC": "斯洛伐克",
-          "destinationNameSC": "斯洛伐克",
-          "destinationNameEN": "SLOVAKIA",
-          "handleFee": "25.00",
-          "zoneCode": "SK"
-        },
-        {
-          "destinationCode": "SM",
-          "amount": "120.00",
-          "destinationNameTC": "聖馬力諾",
-          "destinationNameSC": "圣马力诺",
-          "destinationNameEN": "SAN MARINO",
-          "handleFee": "25.00",
-          "zoneCode": "SM"
-        },
-        {
-          "destinationCode": "SN",
-          "amount": "89.00",
-          "destinationNameTC": "塞內加爾",
-          "destinationNameSC": "塞内加尔",
-          "destinationNameEN": "SENEGAL",
-          "handleFee": "10.00",
-          "zoneCode": "SN"
-        },
-        {
-          "destinationCode": "SR",
-          "amount": "180.00",
-          "destinationNameTC": "蘇里南",
-          "destinationNameSC": "苏里南",
-          "destinationNameEN": "SURINAME",
-          "handleFee": "25.00",
-          "zoneCode": "SR"
-        },
-        {
-          "destinationCode": "ST",
-          "amount": "105.00",
-          "destinationNameTC": "聖多美和普林西比",
-          "destinationNameSC": "圣多美和普林西比",
-          "destinationNameEN": "SAO TOME AND PRINCIPE",
-          "handleFee": "10.00",
-          "zoneCode": "ST"
-        },
-        {
-          "destinationCode": "SV",
-          "amount": "89.00",
-          "destinationNameTC": "薩爾瓦多",
-          "destinationNameSC": "萨尔瓦多",
-          "destinationNameEN": "EL SALVADOR",
-          "handleFee": "10.00",
-          "zoneCode": "SV"
-        },
-        {
-          "destinationCode": "SZ",
-          "amount": "79.00",
-          "destinationNameTC": "斯威士蘭",
-          "destinationNameSC": "斯威士兰",
-          "destinationNameEN": "ESWATINI",
-          "handleFee": "10.00",
-          "zoneCode": "SZ"
-        },
-        {
-          "destinationCode": "TC",
-          "amount": "170.00",
-          "destinationNameTC": "特克斯和凱科斯群島",
-          "destinationNameSC": "特克斯和凯科斯群岛",
-          "destinationNameEN": "TURKS AND CAICOS ISLANDS",
-          "handleFee": "10.00",
-          "zoneCode": "TC"
-        },
-        {
-          "destinationCode": "TD",
-          "amount": "124.00",
-          "destinationNameTC": "乍得",
-          "destinationNameSC": "乍得",
-          "destinationNameEN": "CHAD",
-          "handleFee": "10.00",
-          "zoneCode": "TD"
-        },
-        {
-          "destinationCode": "TG",
-          "amount": "124.00",
-          "destinationNameTC": "多哥",
-          "destinationNameSC": "多哥",
-          "destinationNameEN": "TOGO",
-          "handleFee": "25.00",
-          "zoneCode": "TG"
-        },
-        {
-          "destinationCode": "TH",
-          "amount": "82.00",
-          "destinationNameTC": "泰國",
-          "destinationNameSC": "泰国",
-          "destinationNameEN": "THAILAND",
-          "handleFee": "25.00",
-          "zoneCode": "TH"
-        },
-        {
-          "destinationCode": "TJ",
-          "amount": "26.00",
-          "destinationNameTC": "塔吉克",
-          "destinationNameSC": "塔吉克",
-          "destinationNameEN": "TAJIKISTAN",
-          "handleFee": "10.00",
-          "zoneCode": "TJ"
-        },
-        {
-          "destinationCode": "TM",
-          "amount": "26.00",
-          "destinationNameTC": "土庫曼",
-          "destinationNameSC": "土库曼",
-          "destinationNameEN": "TURKMENISTAN",
-          "handleFee": "10.00",
-          "zoneCode": "TM"
-        },
-        {
-          "destinationCode": "TN",
-          "amount": "80.00",
-          "destinationNameTC": "突尼斯",
-          "destinationNameSC": "突尼斯",
-          "destinationNameEN": "TUNISIA",
-          "handleFee": "10.00",
-          "zoneCode": "TN"
-        },
-        {
-          "destinationCode": "TO",
-          "amount": "97.00",
-          "destinationNameTC": "湯加",
-          "destinationNameSC": "汤加",
-          "destinationNameEN": "TONGA",
-          "handleFee": "10.00",
-          "zoneCode": "TO"
-        },
-        {
-          "destinationCode": "TP",
-          "amount": "97.00",
-          "destinationNameTC": "東帝汶(民主共和國)",
-          "destinationNameSC": "东帝汶(民主共和国)",
-          "destinationNameEN": "TIMOR-LESTE (DEM. REP.)",
-          "handleFee": "10.00",
-          "zoneCode": "TP"
-        },
-        {
-          "destinationCode": "TR",
-          "amount": "119.00",
-          "destinationNameTC": "土耳其",
-          "destinationNameSC": "土耳其",
-          "destinationNameEN": "TURKEY",
-          "handleFee": "25.00",
-          "zoneCode": "TR"
-        },
-        {
-          "destinationCode": "TT",
-          "amount": "133.00",
-          "destinationNameTC": "千里達和多巴哥",
-          "destinationNameSC": "千里达和多巴哥",
-          "destinationNameEN": "TRINIDAD AND TOBAGO",
-          "handleFee": "25.00",
-          "zoneCode": "TT"
-        },
-        {
-          "destinationCode": "TV",
-          "amount": "97.00",
-          "destinationNameTC": "圖瓦盧",
-          "destinationNameSC": "图瓦卢",
-          "destinationNameEN": "TUVALU",
-          "handleFee": "10.00",
-          "zoneCode": "TV"
-        },
-        {
-          "destinationCode": "TW",
-          "amount": "75.00",
-          "destinationNameTC": "台灣",
-          "destinationNameSC": "台湾",
-          "destinationNameEN": "TAIWAN",
-          "handleFee": "25.00",
-          "zoneCode": "TW"
-        },
-        {
-          "destinationCode": "TZ",
-          "amount": "142.00",
-          "destinationNameTC": "坦桑尼亞(聯合共和國)",
-          "destinationNameSC": "坦桑尼亚(联合共和国)",
-          "destinationNameEN": "TANZANIA, UNITED REPUBLIC OF",
-          "handleFee": "25.00",
-          "zoneCode": "TZ"
-        },
-        {
-          "destinationCode": "UA",
-          "amount": "131.00",
-          "destinationNameTC": "烏克蘭",
-          "destinationNameSC": "乌克兰",
-          "destinationNameEN": "UKRAINE",
-          "handleFee": "25.00",
-          "zoneCode": "UA"
-        },
-        {
-          "destinationCode": "UG",
-          "amount": "66.00",
-          "destinationNameTC": "烏干達",
-          "destinationNameSC": "乌干达",
-          "destinationNameEN": "UGANDA",
-          "handleFee": "10.00",
-          "zoneCode": "UG"
-        },
-        {
-          "destinationCode": "US",
-          "amount": "63.00",
-          "destinationNameTC": "美國",
-          "destinationNameSC": "美国",
-          "destinationNameEN": "UNITED STATES OF AMERICA",
-          "handleFee": "32.00",
-          "zoneCode": "US"
-        },
-        {
-          "destinationCode": "UY",
-          "amount": "176.00",
-          "destinationNameTC": "烏拉圭",
-          "destinationNameSC": "乌拉圭",
-          "destinationNameEN": "URUGUAY",
-          "handleFee": "25.00",
-          "zoneCode": "UY"
-        },
-        {
-          "destinationCode": "UZ",
-          "amount": "113.00",
-          "destinationNameTC": "烏茲別克",
-          "destinationNameSC": "乌兹别克",
-          "destinationNameEN": "UZBEKISTAN",
-          "handleFee": "25.00",
-          "zoneCode": "UZ"
-        },
-        {
-          "destinationCode": "VA",
-          "amount": "95.00",
-          "destinationNameTC": "梵蒂岡",
-          "destinationNameSC": "梵蒂冈",
-          "destinationNameEN": "VATICAN",
-          "handleFee": "10.00",
-          "zoneCode": "VA"
-        },
-        {
-          "destinationCode": "VC",
-          "amount": "113.00",
-          "destinationNameTC": "聖文森特和格林納丁斯",
-          "destinationNameSC": "圣文森特和格林纳丁斯",
-          "destinationNameEN": "ST. VINCENT AND THE GRENADINES",
-          "handleFee": "10.00",
-          "zoneCode": "VC"
-        },
-        {
-          "destinationCode": "VE",
-          "amount": "157.00",
-          "destinationNameTC": "委內瑞拉(玻利瓦爾共和國)",
-          "destinationNameSC": "委内瑞拉(玻利瓦尔共和国)",
-          "destinationNameEN": "VENEZUELA, BOLIVARIAN REP.",
-          "handleFee": "25.00",
-          "zoneCode": "VE"
-        },
-        {
-          "destinationCode": "VG",
-          "amount": "114.00",
-          "destinationNameTC": "英屬處女群島",
-          "destinationNameSC": "英属处女群岛",
-          "destinationNameEN": "VIRGIN ISLANDS, BRITISH",
-          "handleFee": "10.00",
-          "zoneCode": "VG"
-        },
-        {
-          "destinationCode": "VI",
-          "amount": "63.00",
-          "destinationNameTC": "美屬處女群島",
-          "destinationNameSC": "美属处女群岛",
-          "destinationNameEN": "VIRGIN ISLANDS (U.S.A.)",
-          "handleFee": "32.00",
-          "zoneCode": "VI"
-        },
-        {
-          "destinationCode": "VN",
-          "amount": "86.00",
-          "destinationNameTC": "越南",
-          "destinationNameSC": "越南",
-          "destinationNameEN": "VIET NAM",
-          "handleFee": "25.00",
-          "zoneCode": "VN"
-        },
-        {
-          "destinationCode": "VU",
-          "amount": "97.00",
-          "destinationNameTC": "瓦努阿圖",
-          "destinationNameSC": "瓦努阿图",
-          "destinationNameEN": "VANUATU",
-          "handleFee": "10.00",
-          "zoneCode": "VU"
-        },
-        {
-          "destinationCode": "WS",
-          "amount": "97.00",
-          "destinationNameTC": "西薩摩亞",
-          "destinationNameSC": "西萨摩亚",
-          "destinationNameEN": "WESTERN SAMOA",
-          "handleFee": "10.00",
-          "zoneCode": "WS"
-        },
-        {
-          "destinationCode": "XA",
-          "amount": "113.00",
-          "destinationNameTC": "加那利群島",
-          "destinationNameSC": "加那利群岛",
-          "destinationNameEN": "CANARY ISLANDS",
-          "handleFee": "25.00",
-          "zoneCode": "XA"
-        },
-        {
-          "destinationCode": "XF",
-          "amount": "108.00",
-          "destinationNameTC": "科西嘉島",
-          "destinationNameSC": "科西嘉岛",
-          "destinationNameEN": "CORSICA",
-          "handleFee": "25.00",
-          "zoneCode": "XF"
-        },
-        {
-          "destinationCode": "XG",
-          "amount": "113.00",
-          "destinationNameTC": "北非西班牙屬土",
-          "destinationNameSC": "北非西班牙属土",
-          "destinationNameEN": "SPANISH TERRITORIES OF NORTH AFRICA",
-          "handleFee": "25.00",
-          "zoneCode": "XG"
-        },
-        {
-          "destinationCode": "XH",
-          "amount": "44.00",
-          "destinationNameTC": "亞速爾",
-          "destinationNameSC": "亚速尔",
-          "destinationNameEN": "AZORES",
-          "handleFee": "10.00",
-          "zoneCode": "XH"
-        },
-        {
-          "destinationCode": "XI",
-          "amount": "113.00",
-          "destinationNameTC": "馬德拉",
-          "destinationNameSC": "马德拉",
-          "destinationNameEN": "MADEIRA",
-          "handleFee": "25.00",
-          "zoneCode": "XI"
-        },
-        {
-          "destinationCode": "XJ",
-          "amount": "113.00",
-          "destinationNameTC": "巴利阿里群島",
-          "destinationNameSC": "巴利阿里群岛",
-          "destinationNameEN": "BALEARIC ISLANDS",
-          "handleFee": "25.00",
-          "zoneCode": "XJ"
-        },
-        {
-          "destinationCode": "XK",
-          "amount": "93.00",
-          "destinationNameTC": "加羅林群島",
-          "destinationNameSC": "加罗林群岛",
-          "destinationNameEN": "CAROLINE ISLANDS",
-          "handleFee": "10.00",
-          "zoneCode": "XK"
-        },
-        {
-          "destinationCode": "XL",
-          "amount": "66.00",
-          "destinationNameTC": "新西蘭屬土島嶼",
-          "destinationNameSC": "新西兰属土岛屿",
-          "destinationNameEN": "NEW ZEALAND ISLANDS TERRITORIES",
-          "handleFee": "10.00",
-          "zoneCode": "XL"
-        },
-        {
-          "destinationCode": "ZA",
-          "amount": "106.00",
-          "destinationNameTC": "南非",
-          "destinationNameSC": "南非",
-          "destinationNameEN": "SOUTH AFRICA",
-          "handleFee": "25.00",
-          "zoneCode": "ZA"
-        },
-        {
-          "destinationCode": "ZM",
-          "amount": "118.00",
-          "destinationNameTC": "贊比亞",
-          "destinationNameSC": "赞比亚",
-          "destinationNameEN": "ZAMBIA",
-          "handleFee": "25.00",
-          "zoneCode": "ZM"
-        },
-        {
-          "destinationCode": "ZW",
-          "amount": "74.00",
-          "destinationNameTC": "津巴布韋",
-          "destinationNameSC": "津巴布韦",
-          "destinationNameEN": "ZIMBABWE",
-          "handleFee": "10.00",
-          "zoneCode": "ZW"
+    "data": [
+        {
+            "postage": [
+                {
+                    "destinationCode": "AD",
+                    "amount": "127.00",
+                    "destinationNameTC": "安道爾",
+                    "destinationNameSC": "安道尔",
+                    "destinationNameEN": "ANDORRA",
+                    "handleFee": "10.00",
+                    "zoneCode": "AD"
+                },
+                {
+                    "destinationCode": "AE",
+                    "amount": "115.00",
+                    "destinationNameTC": "阿拉伯聯合酋長國",
+                    "destinationNameSC": "阿拉伯联合酋长国",
+                    "destinationNameEN": "UNITED ARAB EMIRATES",
+                    "handleFee": "25.00",
+                    "zoneCode": "AE"
+                },
+                {
+                    "destinationCode": "AF",
+                    "amount": "101.00",
+                    "destinationNameTC": "阿富汗",
+                    "destinationNameSC": "阿富汗",
+                    "destinationNameEN": "AFGHANISTAN",
+                    "handleFee": "10.00",
+                    "zoneCode": "AF"
+                },
+                {
+                    "destinationCode": "AG",
+                    "amount": "189.00",
+                    "destinationNameTC": "安提瓜及巴布達",
+                    "destinationNameSC": "安提瓜及巴布达",
+                    "destinationNameEN": "ANTIGUA AND BARBUDA",
+                    "handleFee": "10.00",
+                    "zoneCode": "AG"
+                },
+                {
+                    "destinationCode": "AI",
+                    "amount": "127.00",
+                    "destinationNameTC": "安圭拉島",
+                    "destinationNameSC": "安圭拉岛",
+                    "destinationNameEN": "ANGUILLA",
+                    "handleFee": "10.00",
+                    "zoneCode": "AI"
+                },
+                {
+                    "destinationCode": "AL",
+                    "amount": "119.00",
+                    "destinationNameTC": "阿爾巴尼亞",
+                    "destinationNameSC": "阿尔巴尼亚",
+                    "destinationNameEN": "ALBANIA",
+                    "handleFee": "25.00",
+                    "zoneCode": "AL"
+                },
+                {
+                    "destinationCode": "AM",
+                    "amount": "153.00",
+                    "destinationNameTC": "亞美尼亞",
+                    "destinationNameSC": "亚美尼亚",
+                    "destinationNameEN": "ARMENIA",
+                    "handleFee": "25.00",
+                    "zoneCode": "AM"
+                },
+                {
+                    "destinationCode": "AN",
+                    "amount": "167.00",
+                    "destinationNameTC": "荷屬安的列斯",
+                    "destinationNameSC": "荷属安的列斯",
+                    "destinationNameEN": "NETHERLANDS ANTILLES",
+                    "handleFee": "25.00",
+                    "zoneCode": "AN"
+                },
+                {
+                    "destinationCode": "AO",
+                    "amount": "104.00",
+                    "destinationNameTC": "安哥拉",
+                    "destinationNameSC": "安哥拉",
+                    "destinationNameEN": "ANGOLA",
+                    "handleFee": "10.00",
+                    "zoneCode": "AO"
+                },
+                {
+                    "destinationCode": "AR",
+                    "amount": "147.00",
+                    "destinationNameTC": "阿根廷",
+                    "destinationNameSC": "阿根廷",
+                    "destinationNameEN": "ARGENTINA",
+                    "handleFee": "25.00",
+                    "zoneCode": "AR"
+                },
+                {
+                    "destinationCode": "AS",
+                    "amount": "108.00",
+                    "destinationNameTC": "薩摩亞(美國屬土)",
+                    "destinationNameSC": "萨摩亚(美国属土)",
+                    "destinationNameEN": "SAMOA (U.S.A. TERRITORY)",
+                    "handleFee": "10.00",
+                    "zoneCode": "AS"
+                },
+                {
+                    "destinationCode": "AT",
+                    "amount": "66.00",
+                    "destinationNameTC": "奧地利",
+                    "destinationNameSC": "奥地利",
+                    "destinationNameEN": "AUSTRIA",
+                    "handleFee": "32.00",
+                    "zoneCode": "AT"
+                },
+                {
+                    "destinationCode": "AU",
+                    "amount": "60.00",
+                    "destinationNameTC": "澳大利亞(澳洲)",
+                    "destinationNameSC": "澳大利亚(澳洲)",
+                    "destinationNameEN": "AUSTRALIA",
+                    "handleFee": "32.00",
+                    "zoneCode": "AU"
+                },
+                {
+                    "destinationCode": "AW",
+                    "amount": "165.00",
+                    "destinationNameTC": "阿魯巴",
+                    "destinationNameSC": "阿魯巴",
+                    "destinationNameEN": "ARUBA",
+                    "handleFee": "25.00",
+                    "zoneCode": "AW"
+                },
+                {
+                    "destinationCode": "AZ",
+                    "amount": "121.00",
+                    "destinationNameTC": "阿塞拜疆",
+                    "destinationNameSC": "阿塞拜疆",
+                    "destinationNameEN": "AZERBAIJAN",
+                    "handleFee": "25.00",
+                    "zoneCode": "AZ"
+                },
+                {
+                    "destinationCode": "BA",
+                    "amount": "134.00",
+                    "destinationNameTC": "波斯尼亞-黑塞哥維那",
+                    "destinationNameSC": "波斯尼亚-黑塞哥维那",
+                    "destinationNameEN": "BOSNIA AND HERZEGOVINA",
+                    "handleFee": "25.00",
+                    "zoneCode": "BA"
+                },
+                {
+                    "destinationCode": "BB",
+                    "amount": "87.00",
+                    "destinationNameTC": "巴巴多斯",
+                    "destinationNameSC": "巴巴多斯",
+                    "destinationNameEN": "BARBADOS",
+                    "handleFee": "10.00",
+                    "zoneCode": "BB"
+                },
+                {
+                    "destinationCode": "BD",
+                    "amount": "105.00",
+                    "destinationNameTC": "孟加拉",
+                    "destinationNameSC": "孟加拉",
+                    "destinationNameEN": "BANGLADESH",
+                    "handleFee": "25.00",
+                    "zoneCode": "BD"
+                },
+                {
+                    "destinationCode": "BE",
+                    "amount": "69.00",
+                    "destinationNameTC": "比利時",
+                    "destinationNameSC": "比利时",
+                    "destinationNameEN": "BELGIUM",
+                    "handleFee": "32.00",
+                    "zoneCode": "BE"
+                },
+                {
+                    "destinationCode": "BF",
+                    "amount": "138.00",
+                    "destinationNameTC": "布基納法索",
+                    "destinationNameSC": "布基纳法索",
+                    "destinationNameEN": "BURKINA FASO",
+                    "handleFee": "10.00",
+                    "zoneCode": "BF"
+                },
+                {
+                    "destinationCode": "BG",
+                    "amount": "131.00",
+                    "destinationNameTC": "保加利亞(共和國)",
+                    "destinationNameSC": "保加利亚(共和国)",
+                    "destinationNameEN": "BULGARIA (REP.)",
+                    "handleFee": "25.00",
+                    "zoneCode": "BG"
+                },
+                {
+                    "destinationCode": "BH",
+                    "amount": "119.00",
+                    "destinationNameTC": "巴林(王國)",
+                    "destinationNameSC": "巴林(王国)",
+                    "destinationNameEN": "BAHRAIN (KINGDOM OF)",
+                    "handleFee": "25.00",
+                    "zoneCode": "BH"
+                },
+                {
+                    "destinationCode": "BI",
+                    "amount": "156.00",
+                    "destinationNameTC": "布隆迪",
+                    "destinationNameSC": "布隆迪",
+                    "destinationNameEN": "BURUNDI",
+                    "handleFee": "25.00",
+                    "zoneCode": "BI"
+                },
+                {
+                    "destinationCode": "BJ",
+                    "amount": "72.00",
+                    "destinationNameTC": "貝寧",
+                    "destinationNameSC": "贝宁",
+                    "destinationNameEN": "BENIN",
+                    "handleFee": "10.00",
+                    "zoneCode": "BJ"
+                },
+                {
+                    "destinationCode": "BM",
+                    "amount": "145.00",
+                    "destinationNameTC": "百慕達",
+                    "destinationNameSC": "百慕达",
+                    "destinationNameEN": "BERMUDA",
+                    "handleFee": "25.00",
+                    "zoneCode": "BM"
+                },
+                {
+                    "destinationCode": "BN",
+                    "amount": "118.00",
+                    "destinationNameTC": "文萊",
+                    "destinationNameSC": "文莱",
+                    "destinationNameEN": "BRUNEI DARUSSALAM",
+                    "handleFee": "25.00",
+                    "zoneCode": "BN"
+                },
+                {
+                    "destinationCode": "BO",
+                    "amount": "197.00",
+                    "destinationNameTC": "玻利維亞",
+                    "destinationNameSC": "玻利维亚",
+                    "destinationNameEN": "BOLIVIA",
+                    "handleFee": "25.00",
+                    "zoneCode": "BO"
+                },
+                {
+                    "destinationCode": "BR",
+                    "amount": "138.00",
+                    "destinationNameTC": "巴西",
+                    "destinationNameSC": "巴西",
+                    "destinationNameEN": "BRAZIL",
+                    "handleFee": "25.00",
+                    "zoneCode": "BR"
+                },
+                {
+                    "destinationCode": "BS",
+                    "amount": "189.00",
+                    "destinationNameTC": "巴哈馬",
+                    "destinationNameSC": "巴哈马",
+                    "destinationNameEN": "BAHAMAS",
+                    "handleFee": "10.00",
+                    "zoneCode": "BS"
+                },
+                {
+                    "destinationCode": "BT",
+                    "amount": "56.00",
+                    "destinationNameTC": "不丹",
+                    "destinationNameSC": "不丹",
+                    "destinationNameEN": "BHUTAN",
+                    "handleFee": "10.00",
+                    "zoneCode": "BT"
+                },
+                {
+                    "destinationCode": "BW",
+                    "amount": "82.00",
+                    "destinationNameTC": "博茨瓦納",
+                    "destinationNameSC": "博茨瓦纳",
+                    "destinationNameEN": "BOTSWANA",
+                    "handleFee": "10.00",
+                    "zoneCode": "BW"
+                },
+                {
+                    "destinationCode": "BY",
+                    "amount": "163.00",
+                    "destinationNameTC": "白俄羅斯",
+                    "destinationNameSC": "白俄罗斯",
+                    "destinationNameEN": "BELARUS",
+                    "handleFee": "25.00",
+                    "zoneCode": "BY"
+                },
+                {
+                    "destinationCode": "BZ",
+                    "amount": "135.00",
+                    "destinationNameTC": "伯利茲",
+                    "destinationNameSC": "伯利兹",
+                    "destinationNameEN": "BELIZE",
+                    "handleFee": "10.00",
+                    "zoneCode": "BZ"
+                },
+                {
+                    "destinationCode": "CA",
+                    "amount": "72.00",
+                    "destinationNameTC": "加拿大",
+                    "destinationNameSC": "加拿大",
+                    "destinationNameEN": "CANADA",
+                    "handleFee": "32.00",
+                    "zoneCode": "CA"
+                },
+                {
+                    "destinationCode": "CD",
+                    "amount": "89.00",
+                    "destinationNameTC": "剛果民主共和國",
+                    "destinationNameSC": "刚果民主共和国",
+                    "destinationNameEN": "DEMOCRATIC REPUBLIC OF THE CONGO",
+                    "handleFee": "10.00",
+                    "zoneCode": "CD"
+                },
+                {
+                    "destinationCode": "CF",
+                    "amount": "138.00",
+                    "destinationNameTC": "中非共和國",
+                    "destinationNameSC": "中非共和国",
+                    "destinationNameEN": "CENTRAL AFRICAN REP.",
+                    "handleFee": "10.00",
+                    "zoneCode": "CF"
+                },
+                {
+                    "destinationCode": "CG",
+                    "amount": "257.00",
+                    "destinationNameTC": "剛果(共和國)",
+                    "destinationNameSC": "刚果(共和国)",
+                    "destinationNameEN": "CONGO (REP.)",
+                    "handleFee": "25.00",
+                    "zoneCode": "CG"
+                },
+                {
+                    "destinationCode": "CH",
+                    "amount": "65.00",
+                    "destinationNameTC": "瑞士",
+                    "destinationNameSC": "瑞士",
+                    "destinationNameEN": "SWITZERLAND",
+                    "handleFee": "32.00",
+                    "zoneCode": "CH"
+                },
+                {
+                    "destinationCode": "CI",
+                    "amount": "99.00",
+                    "destinationNameTC": "科特迪瓦",
+                    "destinationNameSC": "科特迪瓦",
+                    "destinationNameEN": "CÔTE D'IVOIRE (REP.)",
+                    "handleFee": "10.00",
+                    "zoneCode": "CI"
+                },
+                {
+                    "destinationCode": "CK",
+                    "amount": "73.00",
+                    "destinationNameTC": "庫克群島",
+                    "destinationNameSC": "库克群岛",
+                    "destinationNameEN": "COOK ISLANDS",
+                    "handleFee": "10.00",
+                    "zoneCode": "CK"
+                },
+                {
+                    "destinationCode": "CL",
+                    "amount": "83.00",
+                    "destinationNameTC": "智利",
+                    "destinationNameSC": "智利",
+                    "destinationNameEN": "CHILE",
+                    "handleFee": "32.00",
+                    "zoneCode": "CL"
+                },
+                {
+                    "destinationCode": "CM",
+                    "amount": "169.00",
+                    "destinationNameTC": "喀麥隆",
+                    "destinationNameSC": "喀麦隆",
+                    "destinationNameEN": "CAMEROON",
+                    "handleFee": "10.00",
+                    "zoneCode": "CM"
+                },
+                {
+                    "destinationCode": "CN",
+                    "amount": "30.00",
+                    "destinationNameTC": "中國內地",
+                    "destinationNameSC": "中国内地",
+                    "destinationNameEN": "CHINA, MAINLAND",
+                    "handleFee": "30.00",
+                    "zoneCode": "CN"
+                },
+                {
+                    "destinationCode": "CO",
+                    "amount": "170.00",
+                    "destinationNameTC": "哥倫比亞",
+                    "destinationNameSC": "哥伦比亚",
+                    "destinationNameEN": "COLOMBIA",
+                    "handleFee": "25.00",
+                    "zoneCode": "CO"
+                },
+                {
+                    "destinationCode": "CR",
+                    "amount": "161.00",
+                    "destinationNameTC": "哥斯達黎加",
+                    "destinationNameSC": "哥斯达黎加",
+                    "destinationNameEN": "COSTA RICA",
+                    "handleFee": "25.00",
+                    "zoneCode": "CR"
+                },
+                {
+                    "destinationCode": "CU",
+                    "amount": "135.00",
+                    "destinationNameTC": "古巴",
+                    "destinationNameSC": "古巴",
+                    "destinationNameEN": "CUBA",
+                    "handleFee": "10.00",
+                    "zoneCode": "CU"
+                },
+                {
+                    "destinationCode": "CV",
+                    "amount": "93.00",
+                    "destinationNameTC": "佛得角",
+                    "destinationNameSC": "佛得角",
+                    "destinationNameEN": "CAPE VERDE",
+                    "handleFee": "10.00",
+                    "zoneCode": "CV"
+                },
+                {
+                    "destinationCode": "CY",
+                    "amount": "143.00",
+                    "destinationNameTC": "塞浦路斯",
+                    "destinationNameSC": "塞浦路斯",
+                    "destinationNameEN": "CYPRUS",
+                    "handleFee": "25.00",
+                    "zoneCode": "CY"
+                },
+                {
+                    "destinationCode": "CZ",
+                    "amount": "133.00",
+                    "destinationNameTC": "捷克共和國",
+                    "destinationNameSC": "捷克共和国",
+                    "destinationNameEN": "CZECH REP.",
+                    "handleFee": "25.00",
+                    "zoneCode": "CZ"
+                },
+                {
+                    "destinationCode": "DE",
+                    "amount": "68.00",
+                    "destinationNameTC": "德國",
+                    "destinationNameSC": "德国",
+                    "destinationNameEN": "GERMANY",
+                    "handleFee": "32.00",
+                    "zoneCode": "DE"
+                },
+                {
+                    "destinationCode": "DJ",
+                    "amount": "161.00",
+                    "destinationNameTC": "吉布提",
+                    "destinationNameSC": "吉布提",
+                    "destinationNameEN": "DJIBOUTI",
+                    "handleFee": "25.00",
+                    "zoneCode": "DJ"
+                },
+                {
+                    "destinationCode": "DK",
+                    "amount": "66.00",
+                    "destinationNameTC": "丹麥",
+                    "destinationNameSC": "丹麦",
+                    "destinationNameEN": "DENMARK",
+                    "handleFee": "32.00",
+                    "zoneCode": "DK"
+                },
+                {
+                    "destinationCode": "DM",
+                    "amount": "141.00",
+                    "destinationNameTC": "多米尼加",
+                    "destinationNameSC": "多米尼加",
+                    "destinationNameEN": "DOMINICA",
+                    "handleFee": "10.00",
+                    "zoneCode": "DM"
+                },
+                {
+                    "destinationCode": "DO",
+                    "amount": "169.00",
+                    "destinationNameTC": "多米尼加共和國",
+                    "destinationNameSC": "多米尼加共和国",
+                    "destinationNameEN": "DOMINICAN REPUBLIC",
+                    "handleFee": "25.00",
+                    "zoneCode": "DO"
+                },
+                {
+                    "destinationCode": "DZ",
+                    "amount": "92.00",
+                    "destinationNameTC": "阿爾及利亞",
+                    "destinationNameSC": "阿尔及利亚",
+                    "destinationNameEN": "ALGERIA",
+                    "handleFee": "10.00",
+                    "zoneCode": "DZ"
+                },
+                {
+                    "destinationCode": "EC",
+                    "amount": "167.00",
+                    "destinationNameTC": "厄瓜多爾",
+                    "destinationNameSC": "厄瓜多尔",
+                    "destinationNameEN": "ECUADOR",
+                    "handleFee": "25.00",
+                    "zoneCode": "EC"
+                },
+                {
+                    "destinationCode": "EE",
+                    "amount": "165.00",
+                    "destinationNameTC": "愛沙尼亞",
+                    "destinationNameSC": "爱沙尼亚",
+                    "destinationNameEN": "ESTONIA",
+                    "handleFee": "25.00",
+                    "zoneCode": "EE"
+                },
+                {
+                    "destinationCode": "EG",
+                    "amount": "131.00",
+                    "destinationNameTC": "埃及",
+                    "destinationNameSC": "埃及",
+                    "destinationNameEN": "EGYPT",
+                    "handleFee": "25.00",
+                    "zoneCode": "EG"
+                },
+                {
+                    "destinationCode": "ES",
+                    "amount": "77.00",
+                    "destinationNameTC": "西班牙",
+                    "destinationNameSC": "西班牙",
+                    "destinationNameEN": "SPAIN",
+                    "handleFee": "32.00",
+                    "zoneCode": "ES"
+                },
+                {
+                    "destinationCode": "ET",
+                    "amount": "128.00",
+                    "destinationNameTC": "埃塞俄比亞",
+                    "destinationNameSC": "埃塞俄比亚",
+                    "destinationNameEN": "ETHIOPIA",
+                    "handleFee": "25.00",
+                    "zoneCode": "ET"
+                },
+                {
+                    "destinationCode": "FI",
+                    "amount": "146.00",
+                    "destinationNameTC": "芬蘭",
+                    "destinationNameSC": "芬兰",
+                    "destinationNameEN": "FINLAND",
+                    "handleFee": "25.00",
+                    "zoneCode": "FI"
+                },
+                {
+                    "destinationCode": "FJ",
+                    "amount": "182.00",
+                    "destinationNameTC": "斐濟",
+                    "destinationNameSC": "斐济",
+                    "destinationNameEN": "FIJI",
+                    "handleFee": "25.00",
+                    "zoneCode": "FJ"
+                },
+                {
+                    "destinationCode": "FK",
+                    "amount": "234.00",
+                    "destinationNameTC": "福克蘭群島",
+                    "destinationNameSC": "福克兰群岛",
+                    "destinationNameEN": "FALKLAND ISLANDS (MALVINAS)",
+                    "handleFee": "10.00",
+                    "zoneCode": "FK"
+                },
+                {
+                    "destinationCode": "FO",
+                    "amount": "68.00",
+                    "destinationNameTC": "法羅群島",
+                    "destinationNameSC": "法罗群岛",
+                    "destinationNameEN": "FAROE ISLANDS",
+                    "handleFee": "10.00",
+                    "zoneCode": "FO"
+                },
+                {
+                    "destinationCode": "FR",
+                    "amount": "70.00",
+                    "destinationNameTC": "法國",
+                    "destinationNameSC": "法国",
+                    "destinationNameEN": "FRANCE",
+                    "handleFee": "32.00",
+                    "zoneCode": "FR"
+                },
+                {
+                    "destinationCode": "GA",
+                    "amount": "164.00",
+                    "destinationNameTC": "加薘",
+                    "destinationNameSC": "加薘",
+                    "destinationNameEN": "GABON",
+                    "handleFee": "10.00",
+                    "zoneCode": "GA"
+                },
+                {
+                    "destinationCode": "GB",
+                    "amount": "67.00",
+                    "destinationNameTC": "英國",
+                    "destinationNameSC": "英国",
+                    "destinationNameEN": "UNITED KINGDOM",
+                    "handleFee": "32.00",
+                    "zoneCode": "GB"
+                },
+                {
+                    "destinationCode": "GD",
+                    "amount": "189.00",
+                    "destinationNameTC": "格林納達",
+                    "destinationNameSC": "格林纳达",
+                    "destinationNameEN": "GRENADA",
+                    "handleFee": "10.00",
+                    "zoneCode": "GD"
+                },
+                {
+                    "destinationCode": "GE",
+                    "amount": "96.00",
+                    "destinationNameTC": "格魯吉亞",
+                    "destinationNameSC": "格鲁吉亚",
+                    "destinationNameEN": "GEORGIA",
+                    "handleFee": "10.00",
+                    "zoneCode": "GE"
+                },
+                {
+                    "destinationCode": "GF",
+                    "amount": "125.00",
+                    "destinationNameTC": "法屬圭亞那",
+                    "destinationNameSC": "法属圭亚那",
+                    "destinationNameEN": "FRENCH GUIANA",
+                    "handleFee": "10.00",
+                    "zoneCode": "GF"
+                },
+                {
+                    "destinationCode": "GH",
+                    "amount": "184.00",
+                    "destinationNameTC": "加納",
+                    "destinationNameSC": "加纳",
+                    "destinationNameEN": "GHANA",
+                    "handleFee": "25.00",
+                    "zoneCode": "GH"
+                },
+                {
+                    "destinationCode": "GI",
+                    "amount": "96.00",
+                    "destinationNameTC": "直布羅陀",
+                    "destinationNameSC": "直布罗陀",
+                    "destinationNameEN": "GIBRALTAR",
+                    "handleFee": "10.00",
+                    "zoneCode": "GI"
+                },
+                {
+                    "destinationCode": "GL",
+                    "amount": "258.00",
+                    "destinationNameTC": "格陵蘭",
+                    "destinationNameSC": "格陵兰",
+                    "destinationNameEN": "GREENLAND",
+                    "handleFee": "10.00",
+                    "zoneCode": "GL"
+                },
+                {
+                    "destinationCode": "GM",
+                    "amount": "125.00",
+                    "destinationNameTC": "岡比亞",
+                    "destinationNameSC": "冈比亚",
+                    "destinationNameEN": "GAMBIA",
+                    "handleFee": "10.00",
+                    "zoneCode": "GM"
+                },
+                {
+                    "destinationCode": "GN",
+                    "amount": "138.00",
+                    "destinationNameTC": "幾內亞",
+                    "destinationNameSC": "几内亚",
+                    "destinationNameEN": "GUINEA",
+                    "handleFee": "10.00",
+                    "zoneCode": "GN"
+                },
+                {
+                    "destinationCode": "GP",
+                    "amount": "125.00",
+                    "destinationNameTC": "瓜德羅普島 (法屬西印度群島)",
+                    "destinationNameSC": "瓜德罗普岛 (法属西印度群岛)",
+                    "destinationNameEN": "GUADELOUPE (FRENCH WEST INDIES)",
+                    "handleFee": "10.00",
+                    "zoneCode": "GP"
+                },
+                {
+                    "destinationCode": "GQ",
+                    "amount": "125.00",
+                    "destinationNameTC": "赤道幾內亞",
+                    "destinationNameSC": "赤道几内亚",
+                    "destinationNameEN": "EQUATORIAL GUINEA",
+                    "handleFee": "10.00",
+                    "zoneCode": "GQ"
+                },
+                {
+                    "destinationCode": "GR",
+                    "amount": "138.00",
+                    "destinationNameTC": "希臘",
+                    "destinationNameSC": "希腊",
+                    "destinationNameEN": "GREECE",
+                    "handleFee": "25.00",
+                    "zoneCode": "GR"
+                },
+                {
+                    "destinationCode": "GS",
+                    "amount": "99.00",
+                    "destinationNameTC": "南喬治亞地區及南桑威奇群島",
+                    "destinationNameSC": "南乔治亚地区及南桑威奇群岛",
+                    "destinationNameEN": "THE TERRITORY OF SOUTH GEORGIA AND SOUTH SANDWICH ISLANDS",
+                    "handleFee": "25.00",
+                    "zoneCode": "GS"
+                },
+                {
+                    "destinationCode": "GU",
+                    "amount": "99.00",
+                    "destinationNameTC": "關島",
+                    "destinationNameSC": "关岛",
+                    "destinationNameEN": "GUAM",
+                    "handleFee": "25.00",
+                    "zoneCode": "GU"
+                },
+                {
+                    "destinationCode": "GW",
+                    "amount": "117.00",
+                    "destinationNameTC": "幾內亞比紹",
+                    "destinationNameSC": "几内亚比绍",
+                    "destinationNameEN": "GUINEA-BISSAU",
+                    "handleFee": "10.00",
+                    "zoneCode": "GW"
+                },
+                {
+                    "destinationCode": "GY",
+                    "amount": "125.00",
+                    "destinationNameTC": "圭亞那",
+                    "destinationNameSC": "圭亚那",
+                    "destinationNameEN": "GUYANA",
+                    "handleFee": "10.00",
+                    "zoneCode": "GY"
+                },
+                {
+                    "destinationCode": "HN",
+                    "amount": "135.00",
+                    "destinationNameTC": "洪都拉斯(共和國)",
+                    "destinationNameSC": "洪都拉斯(共和国)",
+                    "destinationNameEN": "HONDURAS (REP.)",
+                    "handleFee": "10.00",
+                    "zoneCode": "HN"
+                },
+                {
+                    "destinationCode": "HR",
+                    "amount": "146.00",
+                    "destinationNameTC": "克羅地亞",
+                    "destinationNameSC": "克罗地亚",
+                    "destinationNameEN": "CROATIA",
+                    "handleFee": "25.00",
+                    "zoneCode": "HR"
+                },
+                {
+                    "destinationCode": "HT",
+                    "amount": "87.00",
+                    "destinationNameTC": "海地",
+                    "destinationNameSC": "海地",
+                    "destinationNameEN": "HAITI",
+                    "handleFee": "10.00",
+                    "zoneCode": "HT"
+                },
+                {
+                    "destinationCode": "HU",
+                    "amount": "138.00",
+                    "destinationNameTC": "匈牙利",
+                    "destinationNameSC": "匈牙利",
+                    "destinationNameEN": "HUNGARY",
+                    "handleFee": "25.00",
+                    "zoneCode": "HU"
+                },
+                {
+                    "destinationCode": "ID",
+                    "amount": "95.00",
+                    "destinationNameTC": "印度尼西亞",
+                    "destinationNameSC": "印度尼西亚",
+                    "destinationNameEN": "INDONESIA",
+                    "handleFee": "25.00",
+                    "zoneCode": "ID"
+                },
+                {
+                    "destinationCode": "IE",
+                    "amount": "145.00",
+                    "destinationNameTC": "愛爾蘭",
+                    "destinationNameSC": "爱尔兰",
+                    "destinationNameEN": "IRELAND",
+                    "handleFee": "25.00",
+                    "zoneCode": "IE"
+                },
+                {
+                    "destinationCode": "IL",
+                    "amount": "72.00",
+                    "destinationNameTC": "以色列",
+                    "destinationNameSC": "以色列",
+                    "destinationNameEN": "ISRAEL",
+                    "handleFee": "32.00",
+                    "zoneCode": "IL"
+                },
+                {
+                    "destinationCode": "IN",
+                    "amount": "107.00",
+                    "destinationNameTC": "印度",
+                    "destinationNameSC": "印度",
+                    "destinationNameEN": "INDIA",
+                    "handleFee": "25.00",
+                    "zoneCode": "IN"
+                },
+                {
+                    "destinationCode": "IQ",
+                    "amount": "97.00",
+                    "destinationNameTC": "伊拉克",
+                    "destinationNameSC": "伊拉克",
+                    "destinationNameEN": "IRAQ",
+                    "handleFee": "10.00",
+                    "zoneCode": "IQ"
+                },
+                {
+                    "destinationCode": "IR",
+                    "amount": "128.00",
+                    "destinationNameTC": "伊朗",
+                    "destinationNameSC": "伊朗",
+                    "destinationNameEN": "IRAN",
+                    "handleFee": "25.00",
+                    "zoneCode": "IR"
+                },
+                {
+                    "destinationCode": "IS",
+                    "amount": "161.00",
+                    "destinationNameTC": "冰島",
+                    "destinationNameSC": "冰岛",
+                    "destinationNameEN": "ICELAND",
+                    "handleFee": "25.00",
+                    "zoneCode": "IS"
+                },
+                {
+                    "destinationCode": "IT",
+                    "amount": "65.00",
+                    "destinationNameTC": "意大利",
+                    "destinationNameSC": "意大利",
+                    "destinationNameEN": "ITALY",
+                    "handleFee": "32.00",
+                    "zoneCode": "IT"
+                },
+                {
+                    "destinationCode": "JM",
+                    "amount": "125.00",
+                    "destinationNameTC": "牙買加",
+                    "destinationNameSC": "牙买加",
+                    "destinationNameEN": "JAMAICA",
+                    "handleFee": "10.00",
+                    "zoneCode": "JM"
+                },
+                {
+                    "destinationCode": "JO",
+                    "amount": "124.00",
+                    "destinationNameTC": "約旦",
+                    "destinationNameSC": "约旦",
+                    "destinationNameEN": "JORDAN",
+                    "handleFee": "25.00",
+                    "zoneCode": "JO"
+                },
+                {
+                    "destinationCode": "JP",
+                    "amount": "34.00",
+                    "destinationNameTC": "日本",
+                    "destinationNameSC": "日本",
+                    "destinationNameEN": "JAPAN",
+                    "handleFee": "32.00",
+                    "zoneCode": "JP"
+                },
+                {
+                    "destinationCode": "KE",
+                    "amount": "122.00",
+                    "destinationNameTC": "肯尼亞",
+                    "destinationNameSC": "肯尼亚",
+                    "destinationNameEN": "KENYA",
+                    "handleFee": "25.00",
+                    "zoneCode": "KE"
+                },
+                {
+                    "destinationCode": "KG",
+                    "amount": "67.00",
+                    "destinationNameTC": "吉爾吉斯",
+                    "destinationNameSC": "吉尔吉斯",
+                    "destinationNameEN": "KYRGYZSTAN",
+                    "handleFee": "10.00",
+                    "zoneCode": "KG"
+                },
+                {
+                    "destinationCode": "KH",
+                    "amount": "105.00",
+                    "destinationNameTC": "柬埔寨",
+                    "destinationNameSC": "柬埔寨",
+                    "destinationNameEN": "CAMBODIA",
+                    "handleFee": "25.00",
+                    "zoneCode": "KH"
+                },
+                {
+                    "destinationCode": "KI",
+                    "amount": "73.00",
+                    "destinationNameTC": "基里巴斯",
+                    "destinationNameSC": "基里巴斯",
+                    "destinationNameEN": "KIRIBATI",
+                    "handleFee": "10.00",
+                    "zoneCode": "KI"
+                },
+                {
+                    "destinationCode": "KM",
+                    "amount": "82.00",
+                    "destinationNameTC": "科摩羅",
+                    "destinationNameSC": "科摩罗",
+                    "destinationNameEN": "COMOROS",
+                    "handleFee": "10.00",
+                    "zoneCode": "KM"
+                },
+                {
+                    "destinationCode": "KN",
+                    "amount": "87.00",
+                    "destinationNameTC": "聖克里斯托佛島（聖基茨島）及尼維斯島",
+                    "destinationNameSC": "圣克里斯托佛岛（圣基茨岛）及尼维斯岛",
+                    "destinationNameEN": "ST. CHRISTOPHER (ST. KITTS) AND NEVIS",
+                    "handleFee": "10.00",
+                    "zoneCode": "KN"
+                },
+                {
+                    "destinationCode": "KP",
+                    "amount": "39.00",
+                    "destinationNameTC": "北韓",
+                    "destinationNameSC": "北韩",
+                    "destinationNameEN": "KOREA, NORTH",
+                    "handleFee": "10.00",
+                    "zoneCode": "KP"
+                },
+                {
+                    "destinationCode": "KR",
+                    "amount": "89.00",
+                    "destinationNameTC": "南韓",
+                    "destinationNameSC": "南韩",
+                    "destinationNameEN": "KOREA, SOUTH",
+                    "handleFee": "25.00",
+                    "zoneCode": "KR"
+                },
+                {
+                    "destinationCode": "KW",
+                    "amount": "123.00",
+                    "destinationNameTC": "科威特",
+                    "destinationNameSC": "科威特",
+                    "destinationNameEN": "KUWAIT",
+                    "handleFee": "25.00",
+                    "zoneCode": "KW"
+                },
+                {
+                    "destinationCode": "KY",
+                    "amount": "145.00",
+                    "destinationNameTC": "開曼群島",
+                    "destinationNameSC": "开曼群岛",
+                    "destinationNameEN": "CAYMAN ISLANDS",
+                    "handleFee": "10.00",
+                    "zoneCode": "KY"
+                },
+                {
+                    "destinationCode": "KZ",
+                    "amount": "155.00",
+                    "destinationNameTC": "哈薩克",
+                    "destinationNameSC": "哈萨克",
+                    "destinationNameEN": "KAZAKHSTAN",
+                    "handleFee": "25.00",
+                    "zoneCode": "KZ"
+                },
+                {
+                    "destinationCode": "LA",
+                    "amount": "95.00",
+                    "destinationNameTC": "老撾人民民主共和國",
+                    "destinationNameSC": "老挝人民民主共和国",
+                    "destinationNameEN": "LAO PEOPLE'S DEM. REP.",
+                    "handleFee": "25.00",
+                    "zoneCode": "LA"
+                },
+                {
+                    "destinationCode": "LB",
+                    "amount": "145.00",
+                    "destinationNameTC": "黎巴嫩",
+                    "destinationNameSC": "黎巴嫩",
+                    "destinationNameEN": "LEBANON",
+                    "handleFee": "25.00",
+                    "zoneCode": "LB"
+                },
+                {
+                    "destinationCode": "LC",
+                    "amount": "125.00",
+                    "destinationNameTC": "聖盧西亞",
+                    "destinationNameSC": "圣卢西亚",
+                    "destinationNameEN": "ST. LUCIA",
+                    "handleFee": "10.00",
+                    "zoneCode": "LC"
+                },
+                {
+                    "destinationCode": "LI",
+                    "amount": "195.00",
+                    "destinationNameTC": "列支敦士登",
+                    "destinationNameSC": "列支敦士登",
+                    "destinationNameEN": "LIECHTENSTEIN",
+                    "handleFee": "25.00",
+                    "zoneCode": "LI"
+                },
+                {
+                    "destinationCode": "LK",
+                    "amount": "108.00",
+                    "destinationNameTC": "斯里蘭卡",
+                    "destinationNameSC": "斯里兰卡",
+                    "destinationNameEN": "SRI LANKA",
+                    "handleFee": "25.00",
+                    "zoneCode": "LK"
+                },
+                {
+                    "destinationCode": "LS",
+                    "amount": "82.00",
+                    "destinationNameTC": "萊索托",
+                    "destinationNameSC": "莱索托",
+                    "destinationNameEN": "LESOTHO",
+                    "handleFee": "10.00",
+                    "zoneCode": "LS"
+                },
+                {
+                    "destinationCode": "LT",
+                    "amount": "145.00",
+                    "destinationNameTC": "立陶宛",
+                    "destinationNameSC": "立陶宛",
+                    "destinationNameEN": "LITHUANIA",
+                    "handleFee": "25.00",
+                    "zoneCode": "LT"
+                },
+                {
+                    "destinationCode": "LU",
+                    "amount": "138.00",
+                    "destinationNameTC": "盧森堡",
+                    "destinationNameSC": "卢森堡",
+                    "destinationNameEN": "LUXEMBOURG",
+                    "handleFee": "25.00",
+                    "zoneCode": "LU"
+                },
+                {
+                    "destinationCode": "LV",
+                    "amount": "157.00",
+                    "destinationNameTC": "拉脫維亞",
+                    "destinationNameSC": "拉脱维亚",
+                    "destinationNameEN": "LATVIA",
+                    "handleFee": "25.00",
+                    "zoneCode": "LV"
+                },
+                {
+                    "destinationCode": "MA",
+                    "amount": "139.00",
+                    "destinationNameTC": "摩洛哥",
+                    "destinationNameSC": "摩洛哥",
+                    "destinationNameEN": "MOROCCO",
+                    "handleFee": "25.00",
+                    "zoneCode": "MA"
+                },
+                {
+                    "destinationCode": "MC",
+                    "amount": "44.00",
+                    "destinationNameTC": "摩納哥",
+                    "destinationNameSC": "摩纳哥",
+                    "destinationNameEN": "MONACO",
+                    "handleFee": "25.00",
+                    "zoneCode": "MC"
+                },
+                {
+                    "destinationCode": "MD",
+                    "amount": "152.00",
+                    "destinationNameTC": "摩爾多瓦",
+                    "destinationNameSC": "摩尔多瓦",
+                    "destinationNameEN": "MOLDOVA",
+                    "handleFee": "25.00",
+                    "zoneCode": "MD"
+                },
+                {
+                    "destinationCode": "ME",
+                    "amount": "161.00",
+                    "destinationNameTC": "黑山",
+                    "destinationNameSC": "黑山",
+                    "destinationNameEN": "MONTENEGRO",
+                    "handleFee": "25.00",
+                    "zoneCode": "ME"
+                },
+                {
+                    "destinationCode": "MG",
+                    "amount": "167.00",
+                    "destinationNameTC": "馬達加斯加",
+                    "destinationNameSC": "马达加斯加",
+                    "destinationNameEN": "MADAGASCAR",
+                    "handleFee": "25.00",
+                    "zoneCode": "MG"
+                },
+                {
+                    "destinationCode": "MK",
+                    "amount": "176.00",
+                    "destinationNameTC": "北馬其頓",
+                    "destinationNameSC": "北马其顿",
+                    "destinationNameEN": "NORTH MACEDONIA",
+                    "handleFee": "25.00",
+                    "zoneCode": "MK"
+                },
+                {
+                    "destinationCode": "ML",
+                    "amount": "281.00",
+                    "destinationNameTC": "馬里",
+                    "destinationNameSC": "马里",
+                    "destinationNameEN": "MALI",
+                    "handleFee": "25.00",
+                    "zoneCode": "ML"
+                },
+                {
+                    "destinationCode": "MM",
+                    "amount": "96.00",
+                    "destinationNameTC": "緬甸",
+                    "destinationNameSC": "缅甸",
+                    "destinationNameEN": "MYANMAR",
+                    "handleFee": "25.00",
+                    "zoneCode": "MM"
+                },
+                {
+                    "destinationCode": "MN",
+                    "amount": "39.00",
+                    "destinationNameTC": "蒙古",
+                    "destinationNameSC": "蒙古",
+                    "destinationNameEN": "MONGOLIA",
+                    "handleFee": "10.00",
+                    "zoneCode": "MN"
+                },
+                {
+                    "destinationCode": "MP",
+                    "amount": "99.00",
+                    "destinationNameTC": "馬里亞納群島",
+                    "destinationNameSC": "马里亚纳群岛",
+                    "destinationNameEN": "MARIANA ISLANDS",
+                    "handleFee": "25.00",
+                    "zoneCode": "MP"
+                },
+                {
+                    "destinationCode": "MQ",
+                    "amount": "125.00",
+                    "destinationNameTC": "馬提尼克島",
+                    "destinationNameSC": "马提尼克岛",
+                    "destinationNameEN": "MARTINIQUE (FRENCH WEST INDIES)",
+                    "handleFee": "10.00",
+                    "zoneCode": "MQ"
+                },
+                {
+                    "destinationCode": "MR",
+                    "amount": "138.00",
+                    "destinationNameTC": "毛里塔尼亞",
+                    "destinationNameSC": "毛里塔尼亚",
+                    "destinationNameEN": "MAURITANIA",
+                    "handleFee": "10.00",
+                    "zoneCode": "MR"
+                },
+                {
+                    "destinationCode": "MS",
+                    "amount": "127.00",
+                    "destinationNameTC": "蒙特塞拉特",
+                    "destinationNameSC": "蒙特塞拉特",
+                    "destinationNameEN": "MONTSERRAT",
+                    "handleFee": "10.00",
+                    "zoneCode": "MS"
+                },
+                {
+                    "destinationCode": "MT",
+                    "amount": "139.00",
+                    "destinationNameTC": "馬爾他",
+                    "destinationNameSC": "马尔他",
+                    "destinationNameEN": "MALTA",
+                    "handleFee": "25.00",
+                    "zoneCode": "MT"
+                },
+                {
+                    "destinationCode": "MU",
+                    "amount": "171.00",
+                    "destinationNameTC": "毛里求斯",
+                    "destinationNameSC": "毛里求斯",
+                    "destinationNameEN": "MAURITIUS",
+                    "handleFee": "25.00",
+                    "zoneCode": "MU"
+                },
+                {
+                    "destinationCode": "MV",
+                    "amount": "101.00",
+                    "destinationNameTC": "馬爾代夫",
+                    "destinationNameSC": "马尔代夫",
+                    "destinationNameEN": "MALDIVES",
+                    "handleFee": "25.00",
+                    "zoneCode": "MV"
+                },
+                {
+                    "destinationCode": "MW",
+                    "amount": "82.00",
+                    "destinationNameTC": "馬拉維",
+                    "destinationNameSC": "马拉维",
+                    "destinationNameEN": "MALAWI",
+                    "handleFee": "10.00",
+                    "zoneCode": "MW"
+                },
+                {
+                    "destinationCode": "MX",
+                    "amount": "142.00",
+                    "destinationNameTC": "墨西哥",
+                    "destinationNameSC": "墨西哥",
+                    "destinationNameEN": "MEXICO",
+                    "handleFee": "25.00",
+                    "zoneCode": "MX"
+                },
+                {
+                    "destinationCode": "MY",
+                    "amount": "92.00",
+                    "destinationNameTC": "馬來西亞",
+                    "destinationNameSC": "马来西亚",
+                    "destinationNameEN": "MALAYSIA",
+                    "handleFee": "25.00",
+                    "zoneCode": "MY"
+                },
+                {
+                    "destinationCode": "MZ",
+                    "amount": "140.00",
+                    "destinationNameTC": "莫桑比克",
+                    "destinationNameSC": "莫桑比克",
+                    "destinationNameEN": "MOZAMBIQUE",
+                    "handleFee": "25.00",
+                    "zoneCode": "MZ"
+                },
+                {
+                    "destinationCode": "NA",
+                    "amount": "82.00",
+                    "destinationNameTC": "納米比亞",
+                    "destinationNameSC": "纳米比亚",
+                    "destinationNameEN": "NAMIBIA",
+                    "handleFee": "10.00",
+                    "zoneCode": "NA"
+                },
+                {
+                    "destinationCode": "NC",
+                    "amount": "81.00",
+                    "destinationNameTC": "新喀里多尼亞",
+                    "destinationNameSC": "新喀里多尼亚",
+                    "destinationNameEN": "NEW CALEDONIA",
+                    "handleFee": "10.00",
+                    "zoneCode": "NC"
+                },
+                {
+                    "destinationCode": "NE",
+                    "amount": "72.00",
+                    "destinationNameTC": "尼日爾",
+                    "destinationNameSC": "尼日尔",
+                    "destinationNameEN": "NIGER",
+                    "handleFee": "10.00",
+                    "zoneCode": "NE"
+                },
+                {
+                    "destinationCode": "NG",
+                    "amount": "124.00",
+                    "destinationNameTC": "尼日利亞",
+                    "destinationNameSC": "尼日利亚",
+                    "destinationNameEN": "NIGERIA",
+                    "handleFee": "25.00",
+                    "zoneCode": "NG"
+                },
+                {
+                    "destinationCode": "NI",
+                    "amount": "135.00",
+                    "destinationNameTC": "尼加拉瓜",
+                    "destinationNameSC": "尼加拉瓜",
+                    "destinationNameEN": "NICARAGUA",
+                    "handleFee": "10.00",
+                    "zoneCode": "NI"
+                },
+                {
+                    "destinationCode": "NL",
+                    "amount": "67.00",
+                    "destinationNameTC": "荷蘭",
+                    "destinationNameSC": "荷兰",
+                    "destinationNameEN": "NETHERLANDS",
+                    "handleFee": "32.00",
+                    "zoneCode": "NL"
+                },
+                {
+                    "destinationCode": "NO",
+                    "amount": "71.00",
+                    "destinationNameTC": "挪威",
+                    "destinationNameSC": "挪威",
+                    "destinationNameEN": "NORWAY",
+                    "handleFee": "32.00",
+                    "zoneCode": "NO"
+                },
+                {
+                    "destinationCode": "NP",
+                    "amount": "108.00",
+                    "destinationNameTC": "尼泊爾",
+                    "destinationNameSC": "尼泊尔",
+                    "destinationNameEN": "NEPAL",
+                    "handleFee": "25.00",
+                    "zoneCode": "NP"
+                },
+                {
+                    "destinationCode": "NR",
+                    "amount": "176.00",
+                    "destinationNameTC": "瑙魯",
+                    "destinationNameSC": "瑙鲁",
+                    "destinationNameEN": "NAURU",
+                    "handleFee": "25.00",
+                    "zoneCode": "NR"
+                },
+                {
+                    "destinationCode": "NZ",
+                    "amount": "58.00",
+                    "destinationNameTC": "新西蘭",
+                    "destinationNameSC": "新西兰",
+                    "destinationNameEN": "NEW ZEALAND",
+                    "handleFee": "32.00",
+                    "zoneCode": "NZ"
+                },
+                {
+                    "destinationCode": "OM",
+                    "amount": "125.00",
+                    "destinationNameTC": "阿曼",
+                    "destinationNameSC": "阿曼",
+                    "destinationNameEN": "OMAN",
+                    "handleFee": "25.00",
+                    "zoneCode": "OM"
+                },
+                {
+                    "destinationCode": "PA",
+                    "amount": "150.00",
+                    "destinationNameTC": "巴拿馬(共和國)",
+                    "destinationNameSC": "巴拿马(共和国)",
+                    "destinationNameEN": "PANAMA (REP.)",
+                    "handleFee": "25.00",
+                    "zoneCode": "PA"
+                },
+                {
+                    "destinationCode": "PE",
+                    "amount": "133.00",
+                    "destinationNameTC": "秘魯",
+                    "destinationNameSC": "秘鲁",
+                    "destinationNameEN": "PERU",
+                    "handleFee": "25.00",
+                    "zoneCode": "PE"
+                },
+                {
+                    "destinationCode": "PF",
+                    "amount": "172.00",
+                    "destinationNameTC": "法屬波利尼西亞",
+                    "destinationNameSC": "法属波利尼西亚",
+                    "destinationNameEN": "FRENCH POLYNESIA",
+                    "handleFee": "25.00",
+                    "zoneCode": "PF"
+                },
+                {
+                    "destinationCode": "PG",
+                    "amount": "154.00",
+                    "destinationNameTC": "巴布亞新幾內亞",
+                    "destinationNameSC": "巴布亚新几内亚",
+                    "destinationNameEN": "PAPUA NEW GUINEA",
+                    "handleFee": "25.00",
+                    "zoneCode": "PG"
+                },
+                {
+                    "destinationCode": "PH",
+                    "amount": "89.00",
+                    "destinationNameTC": "菲律賓",
+                    "destinationNameSC": "菲律宾",
+                    "destinationNameEN": "PHILIPPINES",
+                    "handleFee": "25.00",
+                    "zoneCode": "PH"
+                },
+                {
+                    "destinationCode": "PK",
+                    "amount": "116.00",
+                    "destinationNameTC": "巴基斯坦",
+                    "destinationNameSC": "巴基斯坦",
+                    "destinationNameEN": "PAKISTAN",
+                    "handleFee": "25.00",
+                    "zoneCode": "PK"
+                },
+                {
+                    "destinationCode": "PL",
+                    "amount": "82.00",
+                    "destinationNameTC": "波蘭",
+                    "destinationNameSC": "波兰",
+                    "destinationNameEN": "POLAND",
+                    "handleFee": "32.00",
+                    "zoneCode": "PL"
+                },
+                {
+                    "destinationCode": "PM",
+                    "amount": "78.00",
+                    "destinationNameTC": "聖皮埃爾和密克隆群島",
+                    "destinationNameSC": "圣皮埃尔和密克隆群岛",
+                    "destinationNameEN": "ST. PIERRE AND MIQUELON",
+                    "handleFee": "10.00",
+                    "zoneCode": "PM"
+                },
+                {
+                    "destinationCode": "PR",
+                    "amount": "120.00",
+                    "destinationNameTC": "波多黎各",
+                    "destinationNameSC": "波多黎各",
+                    "destinationNameEN": "PUERTO RICO",
+                    "handleFee": "25.00",
+                    "zoneCode": "PR"
+                },
+                {
+                    "destinationCode": "PT",
+                    "amount": "148.00",
+                    "destinationNameTC": "葡萄牙",
+                    "destinationNameSC": "葡萄牙",
+                    "destinationNameEN": "PORTUGAL",
+                    "handleFee": "25.00",
+                    "zoneCode": "PT"
+                },
+                {
+                    "destinationCode": "PY",
+                    "amount": "86.00",
+                    "destinationNameTC": "巴拉圭",
+                    "destinationNameSC": "巴拉圭",
+                    "destinationNameEN": "PARAGUAY",
+                    "handleFee": "10.00",
+                    "zoneCode": "PY"
+                },
+                {
+                    "destinationCode": "QA",
+                    "amount": "145.00",
+                    "destinationNameTC": "卡塔爾",
+                    "destinationNameSC": "卡塔尔",
+                    "destinationNameEN": "QATAR",
+                    "handleFee": "25.00",
+                    "zoneCode": "QA"
+                },
+                {
+                    "destinationCode": "RE",
+                    "amount": "130.00",
+                    "destinationNameTC": "留尼汪島",
+                    "destinationNameSC": "留尼汪岛",
+                    "destinationNameEN": "RÉUNION",
+                    "handleFee": "25.00",
+                    "zoneCode": "RE"
+                },
+                {
+                    "destinationCode": "RO",
+                    "amount": "153.00",
+                    "destinationNameTC": "羅馬尼亞",
+                    "destinationNameSC": "罗马尼亚",
+                    "destinationNameEN": "ROMANIA",
+                    "handleFee": "25.00",
+                    "zoneCode": "RO"
+                },
+                {
+                    "destinationCode": "RS",
+                    "amount": "122.00",
+                    "destinationNameTC": "塞爾維亞",
+                    "destinationNameSC": "塞尔维亚",
+                    "destinationNameEN": "SERBIA",
+                    "handleFee": "25.00",
+                    "zoneCode": "RS"
+                },
+                {
+                    "destinationCode": "RU",
+                    "amount": "58.00",
+                    "destinationNameTC": "俄羅斯(俄羅斯聯邦)",
+                    "destinationNameSC": "俄罗斯(俄罗斯联邦)",
+                    "destinationNameEN": "RUSSIA (RUSSIAN FEDERATION)",
+                    "handleFee": "30.00",
+                    "zoneCode": "RU"
+                },
+                {
+                    "destinationCode": "RW",
+                    "amount": "73.00",
+                    "destinationNameTC": "盧旺達(共和國)",
+                    "destinationNameSC": "卢旺达(共和国)",
+                    "destinationNameEN": "RWANDA (RÉP.)",
+                    "handleFee": "10.00",
+                    "zoneCode": "RW"
+                },
+                {
+                    "destinationCode": "SA",
+                    "amount": "138.00",
+                    "destinationNameTC": "沙地阿拉伯",
+                    "destinationNameSC": "沙地阿拉伯",
+                    "destinationNameEN": "SAUDI ARABIA",
+                    "handleFee": "25.00",
+                    "zoneCode": "SA"
+                },
+                {
+                    "destinationCode": "SB",
+                    "amount": "108.00",
+                    "destinationNameTC": "所羅門群島",
+                    "destinationNameSC": "所罗门群岛",
+                    "destinationNameEN": "SOLOMON ISLANDS",
+                    "handleFee": "10.00",
+                    "zoneCode": "SB"
+                },
+                {
+                    "destinationCode": "SC",
+                    "amount": "122.00",
+                    "destinationNameTC": "塞舌爾",
+                    "destinationNameSC": "塞舌尔",
+                    "destinationNameEN": "SEYCHELLES",
+                    "handleFee": "25.00",
+                    "zoneCode": "SC"
+                },
+                {
+                    "destinationCode": "SD",
+                    "amount": "129.00",
+                    "destinationNameTC": "蘇丹",
+                    "destinationNameSC": "苏丹",
+                    "destinationNameEN": "SUDAN",
+                    "handleFee": "25.00",
+                    "zoneCode": "SD"
+                },
+                {
+                    "destinationCode": "SE",
+                    "amount": "145.00",
+                    "destinationNameTC": "瑞典",
+                    "destinationNameSC": "瑞典",
+                    "destinationNameEN": "SWEDEN",
+                    "handleFee": "25.00",
+                    "zoneCode": "SE"
+                },
+                {
+                    "destinationCode": "SG",
+                    "amount": "32.00",
+                    "destinationNameTC": "新加坡",
+                    "destinationNameSC": "新加坡",
+                    "destinationNameEN": "SINGAPORE",
+                    "handleFee": "30.00",
+                    "zoneCode": "SG"
+                },
+                {
+                    "destinationCode": "SI",
+                    "amount": "148.00",
+                    "destinationNameTC": "斯洛文尼亞",
+                    "destinationNameSC": "斯洛文尼亚",
+                    "destinationNameEN": "SLOVENIA",
+                    "handleFee": "25.00",
+                    "zoneCode": "SI"
+                },
+                {
+                    "destinationCode": "SJ",
+                    "amount": "121.00",
+                    "destinationNameTC": "斯匹次卑爾根群島 (斯瓦爾巴特群島)",
+                    "destinationNameSC": "斯匹次卑尔根群岛 (斯瓦尔巴特群岛)",
+                    "destinationNameEN": "SPITSBERGEN (SVALBARD)",
+                    "handleFee": "25.00",
+                    "zoneCode": "SJ"
+                },
+                {
+                    "destinationCode": "SK",
+                    "amount": "128.00",
+                    "destinationNameTC": "斯洛伐克",
+                    "destinationNameSC": "斯洛伐克",
+                    "destinationNameEN": "SLOVAKIA",
+                    "handleFee": "25.00",
+                    "zoneCode": "SK"
+                },
+                {
+                    "destinationCode": "SM",
+                    "amount": "133.00",
+                    "destinationNameTC": "聖馬力諾",
+                    "destinationNameSC": "圣马力诺",
+                    "destinationNameEN": "SAN MARINO",
+                    "handleFee": "25.00",
+                    "zoneCode": "SM"
+                },
+                {
+                    "destinationCode": "SN",
+                    "amount": "99.00",
+                    "destinationNameTC": "塞內加爾",
+                    "destinationNameSC": "塞内加尔",
+                    "destinationNameEN": "SENEGAL",
+                    "handleFee": "10.00",
+                    "zoneCode": "SN"
+                },
+                {
+                    "destinationCode": "SR",
+                    "amount": "200.00",
+                    "destinationNameTC": "蘇里南",
+                    "destinationNameSC": "苏里南",
+                    "destinationNameEN": "SURINAME",
+                    "handleFee": "25.00",
+                    "zoneCode": "SR"
+                },
+                {
+                    "destinationCode": "ST",
+                    "amount": "117.00",
+                    "destinationNameTC": "聖多美和普林西比",
+                    "destinationNameSC": "圣多美和普林西比",
+                    "destinationNameEN": "SAO TOME AND PRINCIPE",
+                    "handleFee": "10.00",
+                    "zoneCode": "ST"
+                },
+                {
+                    "destinationCode": "SV",
+                    "amount": "99.00",
+                    "destinationNameTC": "薩爾瓦多",
+                    "destinationNameSC": "萨尔瓦多",
+                    "destinationNameEN": "EL SALVADOR",
+                    "handleFee": "10.00",
+                    "zoneCode": "SV"
+                },
+                {
+                    "destinationCode": "SZ",
+                    "amount": "88.00",
+                    "destinationNameTC": "斯威士蘭",
+                    "destinationNameSC": "斯威士兰",
+                    "destinationNameEN": "ESWATINI",
+                    "handleFee": "10.00",
+                    "zoneCode": "SZ"
+                },
+                {
+                    "destinationCode": "TC",
+                    "amount": "189.00",
+                    "destinationNameTC": "特克斯和凱科斯群島",
+                    "destinationNameSC": "特克斯和凯科斯群岛",
+                    "destinationNameEN": "TURKS AND CAICOS ISLANDS",
+                    "handleFee": "10.00",
+                    "zoneCode": "TC"
+                },
+                {
+                    "destinationCode": "TD",
+                    "amount": "138.00",
+                    "destinationNameTC": "乍得",
+                    "destinationNameSC": "乍得",
+                    "destinationNameEN": "CHAD",
+                    "handleFee": "10.00",
+                    "zoneCode": "TD"
+                },
+                {
+                    "destinationCode": "TG",
+                    "amount": "138.00",
+                    "destinationNameTC": "多哥",
+                    "destinationNameSC": "多哥",
+                    "destinationNameEN": "TOGO",
+                    "handleFee": "25.00",
+                    "zoneCode": "TG"
+                },
+                {
+                    "destinationCode": "TH",
+                    "amount": "91.00",
+                    "destinationNameTC": "泰國",
+                    "destinationNameSC": "泰国",
+                    "destinationNameEN": "THAILAND",
+                    "handleFee": "25.00",
+                    "zoneCode": "TH"
+                },
+                {
+                    "destinationCode": "TJ",
+                    "amount": "29.00",
+                    "destinationNameTC": "塔吉克",
+                    "destinationNameSC": "塔吉克",
+                    "destinationNameEN": "TAJIKISTAN",
+                    "handleFee": "10.00",
+                    "zoneCode": "TJ"
+                },
+                {
+                    "destinationCode": "TM",
+                    "amount": "29.00",
+                    "destinationNameTC": "土庫曼",
+                    "destinationNameSC": "土库曼",
+                    "destinationNameEN": "TURKMENISTAN",
+                    "handleFee": "10.00",
+                    "zoneCode": "TM"
+                },
+                {
+                    "destinationCode": "TN",
+                    "amount": "89.00",
+                    "destinationNameTC": "突尼斯",
+                    "destinationNameSC": "突尼斯",
+                    "destinationNameEN": "TUNISIA",
+                    "handleFee": "10.00",
+                    "zoneCode": "TN"
+                },
+                {
+                    "destinationCode": "TO",
+                    "amount": "108.00",
+                    "destinationNameTC": "湯加",
+                    "destinationNameSC": "汤加",
+                    "destinationNameEN": "TONGA",
+                    "handleFee": "10.00",
+                    "zoneCode": "TO"
+                },
+                {
+                    "destinationCode": "TP",
+                    "amount": "108.00",
+                    "destinationNameTC": "東帝汶(民主共和國)",
+                    "destinationNameSC": "东帝汶(民主共和国)",
+                    "destinationNameEN": "TIMOR-LESTE (DEM. REP.)",
+                    "handleFee": "10.00",
+                    "zoneCode": "TP"
+                },
+                {
+                    "destinationCode": "TR",
+                    "amount": "132.00",
+                    "destinationNameTC": "土耳其",
+                    "destinationNameSC": "土耳其",
+                    "destinationNameEN": "TURKEY",
+                    "handleFee": "25.00",
+                    "zoneCode": "TR"
+                },
+                {
+                    "destinationCode": "TT",
+                    "amount": "148.00",
+                    "destinationNameTC": "千里達和多巴哥",
+                    "destinationNameSC": "千里达和多巴哥",
+                    "destinationNameEN": "TRINIDAD AND TOBAGO",
+                    "handleFee": "25.00",
+                    "zoneCode": "TT"
+                },
+                {
+                    "destinationCode": "TV",
+                    "amount": "108.00",
+                    "destinationNameTC": "圖瓦盧",
+                    "destinationNameSC": "图瓦卢",
+                    "destinationNameEN": "TUVALU",
+                    "handleFee": "10.00",
+                    "zoneCode": "TV"
+                },
+                {
+                    "destinationCode": "TW",
+                    "amount": "83.00",
+                    "destinationNameTC": "台灣",
+                    "destinationNameSC": "台湾",
+                    "destinationNameEN": "TAIWAN",
+                    "handleFee": "25.00",
+                    "zoneCode": "TW"
+                },
+                {
+                    "destinationCode": "TZ",
+                    "amount": "158.00",
+                    "destinationNameTC": "坦桑尼亞(聯合共和國)",
+                    "destinationNameSC": "坦桑尼亚(联合共和国)",
+                    "destinationNameEN": "TANZANIA, UNITED REPUBLIC OF",
+                    "handleFee": "25.00",
+                    "zoneCode": "TZ"
+                },
+                {
+                    "destinationCode": "UA",
+                    "amount": "146.00",
+                    "destinationNameTC": "烏克蘭",
+                    "destinationNameSC": "乌克兰",
+                    "destinationNameEN": "UKRAINE",
+                    "handleFee": "25.00",
+                    "zoneCode": "UA"
+                },
+                {
+                    "destinationCode": "UG",
+                    "amount": "73.00",
+                    "destinationNameTC": "烏干達",
+                    "destinationNameSC": "乌干达",
+                    "destinationNameEN": "UGANDA",
+                    "handleFee": "10.00",
+                    "zoneCode": "UG"
+                },
+                {
+                    "destinationCode": "US",
+                    "amount": "90.00",
+                    "destinationNameTC": "美國",
+                    "destinationNameSC": "美国",
+                    "destinationNameEN": "UNITED STATES OF AMERICA",
+                    "handleFee": "48.00",
+                    "zoneCode": "US"
+                },
+                {
+                    "destinationCode": "UY",
+                    "amount": "196.00",
+                    "destinationNameTC": "烏拉圭",
+                    "destinationNameSC": "乌拉圭",
+                    "destinationNameEN": "URUGUAY",
+                    "handleFee": "25.00",
+                    "zoneCode": "UY"
+                },
+                {
+                    "destinationCode": "UZ",
+                    "amount": "126.00",
+                    "destinationNameTC": "烏茲別克",
+                    "destinationNameSC": "乌兹别克",
+                    "destinationNameEN": "UZBEKISTAN",
+                    "handleFee": "25.00",
+                    "zoneCode": "UZ"
+                },
+                {
+                    "destinationCode": "VA",
+                    "amount": "105.00",
+                    "destinationNameTC": "梵蒂岡",
+                    "destinationNameSC": "梵蒂冈",
+                    "destinationNameEN": "VATICAN",
+                    "handleFee": "10.00",
+                    "zoneCode": "VA"
+                },
+                {
+                    "destinationCode": "VC",
+                    "amount": "125.00",
+                    "destinationNameTC": "聖文森特和格林納丁斯",
+                    "destinationNameSC": "圣文森特和格林纳丁斯",
+                    "destinationNameEN": "ST. VINCENT AND THE GRENADINES",
+                    "handleFee": "10.00",
+                    "zoneCode": "VC"
+                },
+                {
+                    "destinationCode": "VE",
+                    "amount": "174.00",
+                    "destinationNameTC": "委內瑞拉(玻利瓦爾共和國)",
+                    "destinationNameSC": "委内瑞拉(玻利瓦尔共和国)",
+                    "destinationNameEN": "VENEZUELA, BOLIVARIAN REP.",
+                    "handleFee": "25.00",
+                    "zoneCode": "VE"
+                },
+                {
+                    "destinationCode": "VG",
+                    "amount": "127.00",
+                    "destinationNameTC": "英屬處女群島",
+                    "destinationNameSC": "英属处女群岛",
+                    "destinationNameEN": "VIRGIN ISLANDS, BRITISH",
+                    "handleFee": "10.00",
+                    "zoneCode": "VG"
+                },
+                {
+                    "destinationCode": "VI",
+                    "amount": "70.00",
+                    "destinationNameTC": "美屬處女群島",
+                    "destinationNameSC": "美属处女群岛",
+                    "destinationNameEN": "VIRGIN ISLANDS (U.S.A.)",
+                    "handleFee": "32.00",
+                    "zoneCode": "VI"
+                },
+                {
+                    "destinationCode": "VN",
+                    "amount": "95.00",
+                    "destinationNameTC": "越南",
+                    "destinationNameSC": "越南",
+                    "destinationNameEN": "VIET NAM",
+                    "handleFee": "25.00",
+                    "zoneCode": "VN"
+                },
+                {
+                    "destinationCode": "VU",
+                    "amount": "108.00",
+                    "destinationNameTC": "瓦努阿圖",
+                    "destinationNameSC": "瓦努阿图",
+                    "destinationNameEN": "VANUATU",
+                    "handleFee": "10.00",
+                    "zoneCode": "VU"
+                },
+                {
+                    "destinationCode": "WS",
+                    "amount": "108.00",
+                    "destinationNameTC": "西薩摩亞",
+                    "destinationNameSC": "西萨摩亚",
+                    "destinationNameEN": "WESTERN SAMOA",
+                    "handleFee": "10.00",
+                    "zoneCode": "WS"
+                },
+                {
+                    "destinationCode": "XA",
+                    "amount": "126.00",
+                    "destinationNameTC": "加那利群島",
+                    "destinationNameSC": "加那利群岛",
+                    "destinationNameEN": "CANARY ISLANDS",
+                    "handleFee": "25.00",
+                    "zoneCode": "XA"
+                },
+                {
+                    "destinationCode": "XF",
+                    "amount": "120.00",
+                    "destinationNameTC": "科西嘉島",
+                    "destinationNameSC": "科西嘉岛",
+                    "destinationNameEN": "CORSICA",
+                    "handleFee": "25.00",
+                    "zoneCode": "XF"
+                },
+                {
+                    "destinationCode": "XG",
+                    "amount": "126.00",
+                    "destinationNameTC": "北非西班牙屬土",
+                    "destinationNameSC": "北非西班牙属土",
+                    "destinationNameEN": "SPANISH TERRITORIES OF NORTH AFRICA",
+                    "handleFee": "25.00",
+                    "zoneCode": "XG"
+                },
+                {
+                    "destinationCode": "XH",
+                    "amount": "49.00",
+                    "destinationNameTC": "亞速爾",
+                    "destinationNameSC": "亚速尔",
+                    "destinationNameEN": "AZORES",
+                    "handleFee": "10.00",
+                    "zoneCode": "XH"
+                },
+                {
+                    "destinationCode": "XI",
+                    "amount": "125.00",
+                    "destinationNameTC": "馬德拉",
+                    "destinationNameSC": "马德拉",
+                    "destinationNameEN": "MADEIRA",
+                    "handleFee": "25.00",
+                    "zoneCode": "XI"
+                },
+                {
+                    "destinationCode": "XJ",
+                    "amount": "126.00",
+                    "destinationNameTC": "巴利阿里群島",
+                    "destinationNameSC": "巴利阿里群岛",
+                    "destinationNameEN": "BALEARIC ISLANDS",
+                    "handleFee": "25.00",
+                    "zoneCode": "XJ"
+                },
+                {
+                    "destinationCode": "XK",
+                    "amount": "103.00",
+                    "destinationNameTC": "加羅林群島",
+                    "destinationNameSC": "加罗林群岛",
+                    "destinationNameEN": "CAROLINE ISLANDS",
+                    "handleFee": "10.00",
+                    "zoneCode": "XK"
+                },
+                {
+                    "destinationCode": "XL",
+                    "amount": "73.00",
+                    "destinationNameTC": "新西蘭屬土島嶼",
+                    "destinationNameSC": "新西兰属土岛屿",
+                    "destinationNameEN": "NEW ZEALAND ISLANDS TERRITORIES",
+                    "handleFee": "10.00",
+                    "zoneCode": "XL"
+                },
+                {
+                    "destinationCode": "ZA",
+                    "amount": "118.00",
+                    "destinationNameTC": "南非",
+                    "destinationNameSC": "南非",
+                    "destinationNameEN": "SOUTH AFRICA",
+                    "handleFee": "25.00",
+                    "zoneCode": "ZA"
+                },
+                {
+                    "destinationCode": "ZM",
+                    "amount": "131.00",
+                    "destinationNameTC": "贊比亞",
+                    "destinationNameSC": "赞比亚",
+                    "destinationNameEN": "ZAMBIA",
+                    "handleFee": "25.00",
+                    "zoneCode": "ZM"
+                },
+                {
+                    "destinationCode": "ZW",
+                    "amount": "82.00",
+                    "destinationNameTC": "津巴布韋",
+                    "destinationNameSC": "津巴布韦",
+                    "destinationNameEN": "ZIMBABWE",
+                    "handleFee": "10.00",
+                    "zoneCode": "ZW"
+                }
+            ],
+            "serviceNameSC": "易网邮服务 (iMail)",
+            "serviceCode": "IML",
+            "serviceNameEN": "iMail",
+            "serviceNameTC": "易網郵服務 (iMail)"
         }
-      ],
-      "serviceNameSC": "易网邮服务 (iMail)",
-      "serviceCode": "IML",
-      "serviceNameEN": "iMail",
-      "serviceNameTC": "易網郵服務 (iMail)"
-    }
-  ],
-  "lastUpdateDate": "2020-03-06 18:28:32"
+    ],
+    "lastUpdateDate": "2020-11-05 12:16:05"
 }

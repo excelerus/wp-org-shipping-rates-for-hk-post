@@ -7,43 +7,38 @@
                     "destinationNameTC": "本地（香港）",
                     "weightStep": [
                         {
-                            "amount": "5.00",
-                            "weightTo": "0.100",
+                            "amount": "19.20",
+                            "weightTo": "0.050",
                             "weightFrom": "0.000"
                         },
                         {
-                            "amount": "6.00",
+                            "amount": "20.50",
+                            "weightTo": "0.100",
+                            "weightFrom": "0.050"
+                        },
+                        {
+                            "amount": "22.80",
                             "weightTo": "0.250",
                             "weightFrom": "0.100"
                         },
                         {
-                            "amount": "11.00",
+                            "amount": "29.20",
                             "weightTo": "0.500",
                             "weightFrom": "0.250"
-                        },
-                        {
-                            "amount": "21.00",
-                            "weightTo": "1.000",
-                            "weightFrom": "0.500"
-                        },
-                        {
-                            "amount": "35.00",
-                            "weightTo": "2.000",
-                            "weightFrom": "1.000"
                         }
                     ],
                     "destinationNameSC": "本地（香港）",
-                    "wgtLimit": "2.000",
+                    "wgtLimit": "0.500",
                     "destinationNameEN": "Local (Hong Kong)",
                     "zoneCode": "HK",
                     "suppService": []
                 }
             ],
-            "serviceNameSC": "易送递 (柜位领件)",
+            "serviceNameSC": "本地掛號（大型信件）",
             "trackingLevel": "1",
-            "serviceCode": "SMP",
-            "serviceNameEN": "Smart Post (Counter Collection)",
-            "serviceNameTC": "易送遞 (櫃位領件)"
+            "serviceCode": "LOC_REG",
+            "serviceNameEN": "Local Registered Mail (Large Letter)",
+            "serviceNameTC": "本地掛號（大型信件）"
         },
         {
             "postage": [
@@ -52,27 +47,57 @@
                     "destinationNameTC": "本地（香港）",
                     "weightStep": [
                         {
-                            "amount": "13.00",
+                            "amount": "17.50",
+                            "weightTo": "0.030",
+                            "weightFrom": "0.000"
+                        },
+                        {
+                            "amount": "18.50",
+                            "weightTo": "0.050",
+                            "weightFrom": "0.030"
+                        }
+                    ],
+                    "destinationNameSC": "本地（香港）",
+                    "wgtLimit": "0.050",
+                    "destinationNameEN": "Local (Hong Kong)",
+                    "zoneCode": "HK",
+                    "suppService": []
+                }
+            ],
+            "serviceNameSC": "本地掛號（小型信件）",
+            "trackingLevel": "1",
+            "serviceCode": "LOC_REG",
+            "serviceNameEN": "Local Registered Mail (Small Letter)",
+            "serviceNameTC": "本地掛號（小型信件）"
+        },
+        {
+            "postage": [
+                {
+                    "destinationCode": "HK",
+                    "destinationNameTC": "本地（香港）",
+                    "weightStep": [
+                        {
+                            "amount": "20.70",
                             "weightTo": "0.100",
                             "weightFrom": "0.000"
                         },
                         {
-                            "amount": "15.00",
+                            "amount": "23.00",
                             "weightTo": "0.250",
                             "weightFrom": "0.100"
                         },
                         {
-                            "amount": "20.00",
+                            "amount": "29.50",
                             "weightTo": "0.500",
                             "weightFrom": "0.250"
                         },
                         {
-                            "amount": "28.00",
+                            "amount": "43.50",
                             "weightTo": "1.000",
                             "weightFrom": "0.500"
                         },
                         {
-                            "amount": "40.00",
+                            "amount": "60.50",
                             "weightTo": "2.000",
                             "weightFrom": "1.000"
                         }
@@ -84,12 +109,12 @@
                     "suppService": []
                 }
             ],
-            "serviceNameSC": "易送递 (邮件派递)",
+            "serviceNameSC": "本地掛號（邮包）",
             "trackingLevel": "1",
-            "serviceCode": "SMP",
-            "serviceNameEN": "Smart Post (Mail Delivery)",
-            "serviceNameTC": "易送遞 (郵件派遞)"
+            "serviceCode": "LOC_REG",
+            "serviceNameEN": "Local Registered Mail (Packet)",
+            "serviceNameTC": "本地掛號（郵包）"
         }
     ],
-    "lastUpdateDate": "2020-11-05 12:14:42"
+    "lastUpdateDate": "2020-11-05 12:14:40"
 }

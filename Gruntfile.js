@@ -31,7 +31,7 @@ module.exports = function( grunt ) {
 			target: {
 				options: {
 					domainPath: '/languages',
-					exclude: [ '\.git/*', 'bin/*', 'node_modules/*', 'tests/*' ],
+					exclude: [ '\.git/*', 'bin/*', 'node_modules/*', 'tests/*', 'wp-org-svn/*' ],
 					mainFile: 'shipping-rates-for-hk-post.php',
 					potFilename: 'shipping-rates-for-hk-post.pot',
 					potHeaders: {
