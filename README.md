@@ -14,7 +14,7 @@ Calculate shipping rates for Hongkong Post domestic and international delivery s
 
 This plugin calculates postage rates using [rates published by Hongkong Post](https://www.hongkongpost.hk/opendata/DataDictionary/en/DataDictionary_PostageRate.pdf).
 
-**Support for additional delivery services**
+**Support for additional delivery services**  
 _New in version 1.1_
 
 This plugin now supports following delivery services provided by Hongkong Post.  
@@ -30,10 +30,10 @@ This plugin now supports following delivery services provided by Hongkong Post.
 * International [Speedpost (Standard Service)](https://www.hongkongpost.hk/en/sending_mail/international/speedpost/index.html)  
 * International [e-Express](https://www.hongkongpost.hk/en/sending_mail/international/air/eexpress/index.html)  
 
-**Enable Delivery Service(s) for Shipping Zone**
+**Enable Delivery Service(s) for Shipping Zone**  
 _New in version 1.1_
 
-Store Managers can now enable specific delivery services for Shipping Zone. For example, if your Japan customers usually demand faster shipping than you can enable 'SpeedPost' for 'Japan' shipping zone to offer them a faster (and expensive) shipping option.
+Store Managers can now enable specific delivery services for Shipping Zone. For example, if your Japan customers usually demand faster shipping then you can enable 'SpeedPost' for 'Japan' shipping zone to offer them a faster (and expensive) shipping option.
 
 ## Installation ##
 
@@ -65,16 +65,16 @@ Or Uploading in WordPress Dashboard
 ## Frequently Asked Questions ##
 
 ### Are these official Hongkong Post rates? ###
-Yes.
-The plugin uses official opendata json based data [published on Hongkong Post website](https://www.hongkongpost.hk/opendata/DataDictionary/en/DataDictionary_PostageRate.pdf).
-But. 
+Yes.  
+The plugin uses official opendata json based data [published on Hongkong Post website](https://www.hongkongpost.hk/opendata/DataDictionary/en/DataDictionary_PostageRate.pdf).  
+But.   
 Users have reported discrepancies between published rates and rates / deliverability notices posted on Hongkong Post website. Discretion advised.
 
 ### Shipping Rates are not showing. What gives? ###
 
-[x] Check if your store address (WooCommerce > Settings > General > Store Address) is set to Hong Kong.
-[x] Check if the items in the shopping cart have weights ( Product > Shipping > Weight ).
-[x] Check if enabled delivery service for the shipping zone serves the destination.
+- [x] Check if your store address (WooCommerce > Settings > General > Store Address) is set to Hong Kong.  
+- [x] Check if the items in the shopping cart have weights ( Product > Shipping > Weight ).  
+- [x] Check if enabled delivery service for the shipping zone serves the destination.  
 
 ## Screenshots ##
 

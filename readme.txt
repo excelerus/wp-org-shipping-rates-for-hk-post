@@ -33,7 +33,7 @@ This plugin now supports following delivery services provided by Hongkong Post.
 **Enable Delivery Service(s) for Shipping Zone**
 _New in version 1.1_
 
-Store Managers can now enable specific delivery services for Shipping Zone. For example, if your Japan customers usually demand faster shipping than you can enable 'SpeedPost' for 'Japan' shipping zone to offer them a faster (and expensive) shipping option.
+Store Managers can now enable specific delivery services for Shipping Zone. For example, if your Japan customers usually demand faster shipping then you can enable 'SpeedPost' for 'Japan' shipping zone to offer them a faster (and expensive) shipping option.
 
 == Installation ==
 
