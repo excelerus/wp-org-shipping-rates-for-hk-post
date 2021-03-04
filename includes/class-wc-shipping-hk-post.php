@@ -26,7 +26,7 @@ if ( ! class_exists( 'WC_Shipping_HK_Post' ) ) {
             $this->id                 = 'hk_post';
 			$this->instance_id        = absint( $instance_id );
 			$this->method_title       = __( 'Hongkong Post', 'shipping-rates-for-hk-post' );
-			$this->method_description = __( 'Ship to domestic & international destinations', 'shipping-rates-for-hk-post' );
+			$this->method_description = __( 'Postage calculator', 'shipping-rates-for-hk-post' );
 			$this->supports           = [ 'settings', 'instance-settings', 'shipping-zones' ];
 
             $this->init();
@@ -261,7 +261,7 @@ if ( ! class_exists( 'WC_Shipping_HK_Post' ) ) {
             if ( 'HK' !== $package['destination']['country'] ) return;
 
             $package_kgs = (float) wc_get_weight( WC()->cart->get_cart_contents_weight(), 'kgs' );
-            $rates_file   = HK_POST_DIR . 'data/postageRate-local-ORD.json';
+            $rates_file   = HK_POST_DIR . '/data/postageRate-local-ORD.json';
             $rates_string = file_get_contents( $rates_file );
             $rates_data   = json_decode( $rates_string, true );
 
@@ -281,7 +281,7 @@ if ( ! class_exists( 'WC_Shipping_HK_Post' ) ) {
 
             $this->add_rate([
                 'id'    => 'hkp_loc_ord',
-                'label' => $this->title . ' Local Mail',
+                'label' => $this->title . __( ' Local Mail', 'shipping-rates-for-hk-post' ),
                 'cost'  => apply_filters( 'hkpost_postage', $postage )
             ]);
         }
@@ -291,7 +291,7 @@ if ( ! class_exists( 'WC_Shipping_HK_Post' ) ) {
             if ( 'HK' !== $package['destination']['country'] ) return;
 
             $package_kgs = (float) wc_get_weight( WC()->cart->get_cart_contents_weight(), 'kgs' );
-            $rates_file   = HK_POST_DIR . 'data/postageRate-local-REG.json';
+            $rates_file   = HK_POST_DIR . '/data/postageRate-local-REG.json';
             $rates_string = file_get_contents( $rates_file );
             $rates_data   = json_decode( $rates_string, true );
 
@@ -311,7 +311,7 @@ if ( ! class_exists( 'WC_Shipping_HK_Post' ) ) {
 
             $this->add_rate([
                 'id'    => 'hkp_loc_reg',
-                'label' => $this->title . ' Local Registered Mail',
+                'label' => $this->title . __( ' Local Registered Mail', 'shipping-rates-for-hk-post' ),
                 'cost'  => apply_filters( 'hkpost_postage', $postage )
             ]);
         }
@@ -321,7 +321,7 @@ if ( ! class_exists( 'WC_Shipping_HK_Post' ) ) {
             if ( 'HK' !== $package['destination']['country'] ) return;
 
             $package_kgs = (float) wc_get_weight( WC()->cart->get_cart_contents_weight(), 'kgs' );
-            $rates_file   = HK_POST_DIR . 'data/postageRate-local-PAR.json';
+            $rates_file   = HK_POST_DIR . '/data/postageRate-local-PAR.json';
             $rates_string = file_get_contents( $rates_file );
             $rates_data   = json_decode( $rates_string, true );
 
@@ -338,7 +338,7 @@ if ( ! class_exists( 'WC_Shipping_HK_Post' ) ) {
 
             $this->add_rate([
                 'id'    => 'hkp_loc_par',
-                'label' => $this->title . ' Local Parcels',
+                'label' => $this->title . __( ' Local Parcels', 'shipping-rates-for-hk-post' ),
                 'cost'  => apply_filters( 'hkpost_postage', $postage )
             ]);
         }
@@ -349,7 +349,7 @@ if ( ! class_exists( 'WC_Shipping_HK_Post' ) ) {
 
 
             $package_kgs = (float) wc_get_weight( WC()->cart->get_cart_contents_weight(), 'kgs' );
-            $rates_file   = HK_POST_DIR . 'data/postageRate-local-LCP.json';
+            $rates_file   = HK_POST_DIR . '/data/postageRate-local-LCP.json';
             $rates_string = file_get_contents( $rates_file );
             $rates_data   = json_decode( $rates_string, true );
 
@@ -366,7 +366,7 @@ if ( ! class_exists( 'WC_Shipping_HK_Post' ) ) {
 
             $this->add_rate([
                 'id'    => 'hkp_loc_std',
-                'label' => $this->title . ' Local CourierPost',
+                'label' => $this->title . __( ' Local CourierPost', 'shipping-rates-for-hk-post' ),
                 'cost'  => apply_filters( 'hkpost_postage', $postage )
             ]);
         }
@@ -376,7 +376,7 @@ if ( ! class_exists( 'WC_Shipping_HK_Post' ) ) {
             if ( 'HK' !== $package['destination']['country'] ) return;
 
             $package_kgs = (float) wc_get_weight( WC()->cart->get_cart_contents_weight(), 'kgs' );
-            $rates_file   = HK_POST_DIR . 'data/postageRate-local-SMP.json';
+            $rates_file   = HK_POST_DIR . '/data/postageRate-local-SMP.json';
             $rates_string = file_get_contents( $rates_file );
             $rates_data   = json_decode( $rates_string, true );
 
@@ -396,7 +396,7 @@ if ( ! class_exists( 'WC_Shipping_HK_Post' ) ) {
 
             $this->add_rate([
                 'id'    => 'hkp_loc_smp',
-                'label' => $this->title . ' Smart Post',
+                'label' => $this->title . __( ' Smart Post', 'shipping-rates-for-hk-post' ),
                 'cost'  => apply_filters( 'hkpost_postage', $postage )
             ]);
         }
@@ -407,7 +407,7 @@ if ( ! class_exists( 'WC_Shipping_HK_Post' ) ) {
 
             $package_kgs = (float) wc_get_weight( WC()->cart->get_cart_contents_weight(), 'kgs' );
 
-            $rates_file   = HK_POST_DIR . 'data/postageRate-intl-ORD.json';
+            $rates_file   = HK_POST_DIR . '/data/postageRate-intl-ORD.json';
             $rates_string = file_get_contents( $rates_file );
             $rates_data   = json_decode( $rates_string, true );
 
@@ -434,7 +434,7 @@ if ( ! class_exists( 'WC_Shipping_HK_Post' ) ) {
 
             $this->add_rate([
                 'id'    => 'hkp_sur_ord',
-                'label' => $this->title . ' Surface Mail',
+                'label' => $this->title . __( ' Surface Mail', 'shipping-rates-for-hk-post' ),
                 'cost'  => apply_filters( 'hkpost_postage', $postage )
             ]);
         }
@@ -445,7 +445,7 @@ if ( ! class_exists( 'WC_Shipping_HK_Post' ) ) {
 
             $package_kgs = (float) wc_get_weight( WC()->cart->get_cart_contents_weight(), 'kgs' );
 
-            $rates_file   = HK_POST_DIR . 'data/postageRate-intl-REG.json';
+            $rates_file   = HK_POST_DIR . '/data/postageRate-intl-REG.json';
             $rates_string = file_get_contents( $rates_file );
             $rates_data   = json_decode( $rates_string, true );
 
@@ -482,7 +482,7 @@ if ( ! class_exists( 'WC_Shipping_HK_Post' ) ) {
 
             $this->add_rate([
                 'id'    => 'hkp_sur_reg',
-                'label' => $this->title . ' Surface Registered Mail',
+                'label' => $this->title . __( ' Surface Registered Mail', 'shipping-rates-for-hk-post' ),
                 'cost'  => apply_filters( 'hkpost_postage', $postage )
             ]);
         }
@@ -493,7 +493,7 @@ if ( ! class_exists( 'WC_Shipping_HK_Post' ) ) {
 
             $package_kgs = (float) wc_get_weight( WC()->cart->get_cart_contents_weight(), 'kgs' );
 
-            $rates_file   = HK_POST_DIR . 'data/postageRate-intl-ORD.json';
+            $rates_file   = HK_POST_DIR . '/data/postageRate-intl-ORD.json';
             $rates_string = file_get_contents( $rates_file );
             $rates_data   = json_decode( $rates_string, true );
 
@@ -520,7 +520,7 @@ if ( ! class_exists( 'WC_Shipping_HK_Post' ) ) {
 
             $this->add_rate([
                 'id'    => 'hkp_air_ord',
-                'label' => $this->title . ' Air Mail',
+                'label' => $this->title . __( ' Air Mail', 'shipping-rates-for-hk-post' ),
                 'cost'  => apply_filters( 'hkpost_postage', $postage )
             ]);
         }
@@ -531,7 +531,7 @@ if ( ! class_exists( 'WC_Shipping_HK_Post' ) ) {
 
             $package_kgs = (float) wc_get_weight( WC()->cart->get_cart_contents_weight(), 'kgs' );
 
-            $rates_file   = HK_POST_DIR . 'data/postageRate-intl-REG.json';
+            $rates_file   = HK_POST_DIR . '/data/postageRate-intl-REG.json';
             $rates_string = file_get_contents( $rates_file );
             $rates_data   = json_decode( $rates_string, true );
 
@@ -568,7 +568,7 @@ if ( ! class_exists( 'WC_Shipping_HK_Post' ) ) {
 
             $this->add_rate([
                 'id'    => 'hkp_air_reg',
-                'label' => $this->title . ' Air Registered Mail',
+                'label' => $this->title . __( ' Air Registered Mail', 'shipping-rates-for-hk-post' ),
                 'cost'  => apply_filters( 'hkpost_postage', $postage )
             ]);
         }
@@ -579,7 +579,7 @@ if ( ! class_exists( 'WC_Shipping_HK_Post' ) ) {
 
             $package_kgs = (float) wc_get_weight( WC()->cart->get_cart_contents_weight(), 'kgs' );
 
-            $rates_file   = HK_POST_DIR . 'data/postageRate-intl-SURPAR.json';
+            $rates_file   = HK_POST_DIR . '/data/postageRate-intl-SURPAR.json';
             $rates_string = file_get_contents( $rates_file );
             $rates_data   = json_decode( $rates_string, true );
 
@@ -616,7 +616,7 @@ if ( ! class_exists( 'WC_Shipping_HK_Post' ) ) {
 
             $this->add_rate([
                 'id'    => 'hkp_sur_par',
-                'label' => $this->title . ' Surface Parcel',
+                'label' => $this->title . __( ' Surface Parcel', 'shipping-rates-for-hk-post' ),
                 'cost'  => apply_filters( 'hkpost_postage', $postage )
             ]);
         }
@@ -627,7 +627,7 @@ if ( ! class_exists( 'WC_Shipping_HK_Post' ) ) {
 
             $package_kgs = wc_get_weight( WC()->cart->get_cart_contents_weight(), 'kgs' );
 
-            $rates_file   = HK_POST_DIR . 'data/postageRate-intl-AIRPAR.json';
+            $rates_file   = HK_POST_DIR . '/data/postageRate-intl-AIRPAR.json';
             $rates_string = file_get_contents( $rates_file );
             $rates_data   = json_decode( $rates_string, true );
 
@@ -663,7 +663,7 @@ if ( ! class_exists( 'WC_Shipping_HK_Post' ) ) {
 
             $this->add_rate([
                 'id'    => 'hkp_air_par',
-                'label' => $this->title . ' Air Parcel',
+                'label' => $this->title . __( ' Air Parcel', 'shipping-rates-for-hk-post' ),
                 'cost'  => apply_filters( 'hkpost_postage', $postage )
             ]);
         }
@@ -674,7 +674,7 @@ if ( ! class_exists( 'WC_Shipping_HK_Post' ) ) {
 
             $package_kgs = (float) wc_get_weight( WC()->cart->get_cart_contents_weight(), 'kgs' );
 
-            $rates_file   = HK_POST_DIR . 'data/postageRate-intl-SPT.json';
+            $rates_file   = HK_POST_DIR . '/data/postageRate-intl-SPT.json';
             $rates_string = file_get_contents( $rates_file );
             $rates_data   = json_decode( $rates_string, true );
 
@@ -701,7 +701,7 @@ if ( ! class_exists( 'WC_Shipping_HK_Post' ) ) {
 
             $this->add_rate([
                 'id'    => 'hkp_spt_std',
-                'label' => $this->title . ' Speedpost',
+                'label' => $this->title . __( ' Speedpost', 'shipping-rates-for-hk-post' ),
                 'cost'  => apply_filters( 'hkpost_postage', $postage )
             ]);
         }
@@ -712,7 +712,7 @@ if ( ! class_exists( 'WC_Shipping_HK_Post' ) ) {
 
             $package_kgs = (float) wc_get_weight( WC()->cart->get_cart_contents_weight(), 'kgs' );
 
-            $rates_file   = HK_POST_DIR . 'data/postageRate-intl-EXP.json';
+            $rates_file   = HK_POST_DIR . '/data/postageRate-intl-EXP.json';
             $rates_string = file_get_contents( $rates_file );
             $rates_data   = json_decode( $rates_string, true );
 
@@ -749,7 +749,7 @@ if ( ! class_exists( 'WC_Shipping_HK_Post' ) ) {
 
             $this->add_rate([
                 'id'    => 'hkp_exp',
-                'label' => $this->title . ' e-Express Service',
+                'label' => $this->title . __( ' e-Express Service', 'shipping-rates-for-hk-post' ),
                 'cost'  => apply_filters( 'hkpost_postage', $postage )
             ]);
         }

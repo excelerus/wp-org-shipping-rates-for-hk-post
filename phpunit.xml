@@ -8,7 +8,7 @@
 	convertWarningsToExceptions="true"
 	>
 	<testsuites>
-		<testsuite name="Try">
+		<testsuite name="WP Unit Testing">
 			<directory prefix="test-" suffix=".php">./tests/</directory>
 			<!-- <exclude>./tests/test-sample.php</exclude> -->
 		</testsuite>

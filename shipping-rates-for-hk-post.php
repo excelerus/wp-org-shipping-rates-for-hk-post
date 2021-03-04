@@ -1,32 +1,29 @@
 <?php
 /**
  * Plugin Name:       Shipping Rates for HK Post
- * Plugin URI:        https://github.com/excelerus/wp-org-shipping-rates-for-hk-post/
- * Description:       Get shipping rates from Hongkong Post API for accurate and realtime postage charges to international as well as domestic destinations.
- * Version:           1.1.0
+ * Plugin URI:        https://webstoreguru.com/products/plugins/hkpost-postage-calculator/
+ * Description:       Hongkong Post postage calculator.
+ * Version:           1.2.0
  * Requires at least: 5.0
  * Requires PHP:      7.0
  * Author:            EXCELERUS
  * Author URI:        https://www.excelerus.com/
- * License:           GNU General Public License v3.0
+ * License:           GPLv3
  * License URI:       http://www.gnu.org/licenses/gpl-3.0.html
  * 
  * WC requires at least: 4.0
  * WC tested up to:      4.8
  */
 
-namespace EXCELERUS\WooCommerce\Shipping\HKPost;
-
 defined( 'ABSPATH' ) || exit;
 
 // Constants
-defined( 'HK_POST_VERSION' ) || define( 'HK_POST_VERSION', '1.0.1' );
 defined( 'HK_POST_BASE' ) || define( 'HK_POST_BASE', plugin_basename( __FILE__ ) );
-defined( 'HK_POST_DIR' ) || define( 'HK_POST_DIR', plugin_dir_path( __FILE__) );
-defined( 'HK_POST_URL' ) || define( 'HK_POST_URL', plugin_dir_url( __FILE__) );
+defined( 'HK_POST_DIR' )  || define( 'HK_POST_DIR', untrailingslashit( plugin_dir_path( __FILE__) ) );
+defined( 'HK_POST_URL' )  || define( 'HK_POST_URL', untrailingslashit( plugin_dir_url( __FILE__) ) );
 
 // Activation
-function activate_plugin() {
+register_activation_hook( __FILE__, function() {
     if ( ! current_user_can( 'activate_plugins' ) ) return;
 
     global $wp_version;
@@ -57,34 +54,36 @@ function activate_plugin() {
         } );
     }
 
-    set_transient( 'plugin-name-admin-notice-on-activation', true, 5 );
-}
-register_activation_hook( __FILE__, __NAMESPACE__ . '\activate_plugin' );
+    // set_transient( 'plugin-name-admin-notice-on-activation', true, 5 );
+
+} );
 
 // Deactivation
-function deactivate_plugin() {
+register_deactivation_hook( __FILE__,  function() {
     if ( ! current_user_can( 'activate_plugins' ) ) return;
-}
-register_deactivation_hook( __FILE__, __NAMESPACE__ . '\deactivate_plugin' );
+} );
 
 // Action links
-function add_action_links( $actions ) {
+add_filter( 'plugin_action_links_' . HK_POST_BASE, function( $actions ) {
     $settings_link = '<a href="' . esc_url( get_admin_url( null, 'admin.php?page=wc-settings&tab=shipping&section=hk_post') ) . '">Settings</a>';
     $actions = array_merge( [ $settings_link ], $actions );
 
     return $actions;
-}
-add_filter( 'plugin_action_links_' . HK_POST_BASE, __NAMESPACE__ . '\add_action_links' );
+} );
 
 // Row Meta links
-function add_row_meta( $links, $plugin_file ) {
+add_filter( 'plugin_row_meta', function( $links, $plugin_file ) {
     if ( strpos( $plugin_file, basename(__FILE__) ) ) {
         $links[] = '<a target="_blank" href="https://wordpress.org/support/plugin/shipping-rates-for-hk-post/">Support</a>';
     }
 
     return $links;
-}
-add_filter( 'plugin_row_meta', __NAMESPACE__ . '\add_row_meta', 10, 2 );
+}, 10, 2 );
+
+// Localization
+add_action( 'init', function() {
+    load_plugin_textdomain( 'shipping-rates-for-hk-post' );
+} );
 
 // Load plugin if WooCommerce is active
 if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', get_option( 'active_plugins' ) ) ) ) {

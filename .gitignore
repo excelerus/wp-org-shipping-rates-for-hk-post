@@ -7,3 +7,6 @@ node_modules/
 bin/
 tests/
 wp-org-svn/
+vendor/
+.gitattributes
+
