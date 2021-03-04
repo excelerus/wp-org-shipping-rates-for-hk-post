@@ -26,3 +26,4 @@ tests/            export-ignore
 
 # Release
 wp-org-svn/       export-ignore
+release/          export-ignore

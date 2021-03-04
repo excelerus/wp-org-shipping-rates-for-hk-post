@@ -9,4 +9,4 @@ tests/
 wp-org-svn/
 vendor/
 .gitattributes
-
+release/
