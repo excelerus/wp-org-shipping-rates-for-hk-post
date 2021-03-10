@@ -1,12 +1,10 @@
 .DS_Store
 Thumbs.db
-node_modules/
 *.sql
 *.tar.gz
 *.zip
-bin/
-tests/
-wp-org-svn/
-vendor/
 .gitattributes
+node_modules/
+vendor/
+wp-org-svn/
 release/
