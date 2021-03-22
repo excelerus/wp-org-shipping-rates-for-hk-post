@@ -3,7 +3,7 @@ Contributors: excelerus, rangatia
 Tags: woocommerce, shipping, hongkong-post, hong-kong
 Requires at least: 5.0
 Tested up to: 5.7
-Stable tag: 1.2.0
+Stable tag: 1.2.1
 Requires PHP: 7.0
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
@@ -88,7 +88,10 @@ Enable delivery service(s) by clicking on the 'edit' link under the 'Hongkong Po
 
 == Changelog ==
 
-= 1.2.0  - 2021-03-DD =
+= 1.2.1 - 2021-03-22 =
+* Rate files updated
+
+= 1.2.0  - 2021-03-10 =
 
 * Revised rates
 * Tested for WordPress 5.7
