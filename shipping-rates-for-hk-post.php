@@ -3,7 +3,7 @@
  * Plugin Name:       Shipping Rates for HK Post
  * Plugin URI:        https://webstoreguru.com/products/plugins/hongkong-post-postage-calculator/
  * Description:       Hongkong Post postage calculator.
- * Version:           1.2.2
+ * Version:           1.2.3
  * Requires at least: 5.0
  * Requires PHP:      7.0
  * Author:            EXCELERUS
@@ -116,5 +116,47 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
         }
         return $amount;
     } );
+
+    // Action Scheduler
+    add_action( 'init', function () {
+        if ( ! as_has_scheduled_action( 'update_rates_files', [], 'hk_post' ) ) {
+            as_enqueue_async_action( 'update_rates_files', [], 'hk_post' );
+        }
+    } );
+
+
+    function refresh_rates_files(){
+
+        $services = [
+            'local_ord' => [ 'file' => 'postageRate-local-ORD.json' ],
+            'local_reg' => [ 'file' => 'postageRate-local-REG.json' ],
+            'local_par' => [ 'file' => 'postageRate-local-PAR.json' ],
+            'local_lcp' => [ 'file' => 'postageRate-local-LCP.json' ],
+            'local_smp' => [ 'file' => 'postageRate-local-SMP.json' ],
+            'intl_ord' => [ 'file' => 'postageRate-intl-ORD.json' ],
+            'intl_reg' => [ 'file' => 'postageRate-intl-REG.json' ],
+            'intl_surpar' => [ 'file' => 'postageRate-intl-SURPAR.json' ],
+            'intl_airpar' => [ 'file' => 'postageRate-intl-AIRPAR.json' ],
+            'intl_spt' => [ 'file' => 'postageRate-intl-SPT.json' ],
+            'intl_exp' => [ 'file' => 'postageRate-intl-EXP.json' ],
+        ];
+
+        foreach ( $services as $key => $service ) {
+            $response = wp_remote_get( 'https://www.hongkongpost.hk/opendata/postageRate-local-ORD.json' );
+            if ( is_wp_error( $response ) ) return;
+            if ( ! isset( $response['body'] ) ) return;
+            $remote_file         = json_decode( $response['body'] );
+            $remote_last_updated = $remote_file->lastUpdateDate;
+
+            $local_file  = HK_POST_DIR . '/data//' . $service['file'];
+            $local_rates = json_decode( file_get_contents( $local_file ) );
+            $local_last_updated = $local_rates->lastUpdateDate;
+
+            if ( $remote_last_updated > $local_last_updated ) {
+                file_put_contents( $local_file, $response['body'] );
+            }
+        }
+    }
+    add_action( 'update_rates_files', 'refresh_rates_files' );
 
 }
