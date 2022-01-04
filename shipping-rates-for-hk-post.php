@@ -3,7 +3,7 @@
  * Plugin Name:       Shipping Rates for HK Post
  * Plugin URI:        https://webstoreguru.com/products/plugins/hongkong-post-postage-calculator/
  * Description:       Hongkong Post postage calculator.
- * Version:           1.2.4
+ * Version:           1.2.4.1
  * Requires at least: 5.0
  * Requires PHP:      7.0
  * Author:            EXCELERUS
@@ -36,7 +36,7 @@ register_activation_hook( __FILE__, function() {
         add_action( 'admin_notices', function() {
             ?>
             <div class="error">
-                <p><?php sprintf( __( 'Shipping Rates for Hongkong Post is not compatible with your current PHP version %1$s. Upgrade your PHP to alteast %2$s to use this plugin.', 'shipping-rates-for-hk-post' ), PHP_VERSION, $php ); ?></p>
+                <p><?php sprintf( __( 'Shipping Rates for Hongkong Post is not compatible with your current PHP version %1$s. Upgrade your PHP to atleast %2$s to use this plugin.', 'shipping-rates-for-hk-post' ), PHP_VERSION, $php ); ?></p>
             </div>
             <?php
         } );
@@ -48,7 +48,7 @@ register_activation_hook( __FILE__, function() {
         add_action( 'admin_notices', function() {
             ?>
             <div class="error">
-                <p><?php sprintf( __( 'Shipping Rates for Hongkong Post is not compatible with your current WordPress version %1$s. Upgrade your WordPress to alteast %2$s to use this plugin.', 'shipping-rates-for-hk-post' ), $wp_version, $wp ); ?></p>
+                <p><?php sprintf( __( 'Shipping Rates for Hongkong Post is not compatible with your current WordPress version %1$s. Upgrade your WordPress to atleast %2$s to use this plugin.', 'shipping-rates-for-hk-post' ), $wp_version, $wp ); ?></p>
             </div>
             <?php
         } );
