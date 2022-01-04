@@ -34,8 +34,6 @@ if ( ! class_exists( 'WC_Shipping_HK_Post' ) ) {
 
             add_action( 'woocommerce_update_options_shipping_' . $this->id, array( $this, 'process_admin_options' ) );
 
-            // 
-            add_action( 'update_rates_files', [ $this, 'refresh_rates_files' ] );
             
             if ( ! $this->is_valid_for_use() ) {
                 $this->enabled = 'no';
@@ -756,35 +754,6 @@ if ( ! class_exists( 'WC_Shipping_HK_Post' ) ) {
                 'label' => $this->title . __( ' e-Express Service', 'shipping-rates-for-hk-post' ),
                 'cost'  => apply_filters( 'hkpost_postage', $postage )
             ]);
-        }
-
-        // 
-        public function refresh_rates_files(){
-            error_log( __METHOD__ );
-
-            $services = [
-                'local_ord' => [ 'file' => 'postageRate-local-ORD.json' ],
-                'local_reg' => [ 'file' => 'postageRate-local-REG.json' ],
-                'local_par' => [ 'file' => 'postageRate-local-PAR.json' ],
-                'local_lcp' => [ 'file' => 'postageRate-local-LCP.json' ],
-                'local_smp' => [ 'file' => 'postageRate-local-SMP.json' ],
-                'intl_ord' => [ 'file' => 'postageRate-intl-ORD.json' ],
-                'intl_reg' => [ 'file' => 'postageRate-intl-REG.json' ],
-                'intl_surpar' => [ 'file' => 'postageRate-intl-SURPAR.json' ],
-                'intl_airpar' => [ 'file' => 'postageRate-intl-AIRPAR.json' ],
-                'intl_spt' => [ 'file' => 'postageRate-intl-SPT.json' ],
-                'intl_exp' => [ 'file' => 'postageRate-intl-EXP.json' ],
-            ];
-
-            foreach ( $services as $key => $service ) {
-                $remote_file         = wp_remote_get( 'https://www.hongkongpost.hk/opendata/' . $service['file'] );
-                $remote_rates        = json_decode( $remote_file['body'] );
-                $remote_last_updated = $remote_rates['lastUpdateDate'];
-
-                $local_file  = HK_POST_DIR . '/data//' . $service['file'];
-                $local_rates = json_decode( file_get_contents( $local_file ) );
-                $local_last_updated = $local_rates['lastUpdateDate'];
-            }
         }
 
     }
