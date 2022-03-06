@@ -8,3 +8,10 @@ node_modules/
 vendor/
 wp-org-svn/
 release/
+phpcs.xml
+phpunit.xml
+wp-cli.local.yml
+.distignore
+.editorconfig
+.gitignore
+*.md
