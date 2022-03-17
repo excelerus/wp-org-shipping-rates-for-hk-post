@@ -42,7 +42,7 @@ if ( ! class_exists( '\\WebStoreGuru\\HK_Post_Calc\\Shipping_Method' ) ) {
                 $this->form_fields[ $key ] = [
                     'type'     => 'checkbox',
                     'label'    => $service['label'],
-                    'default'  => false,
+                    'default'  => true,
                     'desc_tip' => false
                 ];
             }

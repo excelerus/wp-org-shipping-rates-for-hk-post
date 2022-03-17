@@ -1,9 +1,9 @@
 === Shipping Rates for HK Post ===
-Contributors: excelerus, rangatia, webstoreguru, loyukfai
+Contributors: webstoreguru, excelerus, rangatia,  loyukfai
 Tags: woocommerce, shipping, hongkong-post, hong-kong
 Requires at least: 5.0
-Tested up to: 5.8
-Stable tag: 1.2.4.1
+Tested up to: 5.9
+Stable tag: 2.0
 Requires PHP: 7.0
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
@@ -32,7 +32,7 @@ Supports following delivery services :-
 
 Store Managers can enable delivery service for each Shipping Zone giving more control over shipping options offered to customers in different geographies.
 
-You can view the [Demo](https://demo.excelerus.dev/hkpost-postage-calculator/) here.
+You can view the [Demo](https://demo.webstoreguru.com/plugin-hkpost/) here.
 
 = Contribute and translate =
 
@@ -88,7 +88,11 @@ Enable delivery service(s) by clicking on the 'edit' link under the 'Hongkong Po
 
 == Changelog ==
 
-= 1.2.1 - 2021-03-22 =
+= 2.0 - 2022-03-17 = 
+* Code refactor
+* Rate files auto updated
+
+= 1.2.1 - 2022-01-22 =
 * Rate files updated
 
 = 1.2.0  - 2021-03-10 =
