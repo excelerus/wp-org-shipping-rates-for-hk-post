@@ -4,7 +4,7 @@ Tags: woocommerce, shipping, hongkong-post, hong-kong
 Requires at least: 5.0
 Tested up to: 5.9
 Stable tag: 2.0
-Requires PHP: 7.0
+Requires PHP: 7.2
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
