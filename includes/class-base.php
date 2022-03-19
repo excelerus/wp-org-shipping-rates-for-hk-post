@@ -44,7 +44,7 @@ if ( ! class_exists( '\\WebStoreGuru\\HK_Post_Calc\\Base' ) ) {
             }
         }
 
-        private function update_rates_files() {
+        public function update_rates_files() {
 
             foreach ( $this->services as $key => $service ) {
                 $response = wp_remote_get( 'https://www.hongkongpost.hk/opendata/' . $service['file'] );
