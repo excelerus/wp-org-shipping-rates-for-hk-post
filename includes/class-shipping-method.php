@@ -26,7 +26,6 @@ if ( ! class_exists( '\\WebStoreGuru\\HK_Post_Calc\\Shipping_Method' ) ) {
             $this->init_settings();
 
             add_action( 'woocommerce_update_options_shipping_' . $this->id, [ $this, 'process_admin_options' ] );
-            add_filter( 'woocommerce_package_rates', [ $this, 'sort_rates_by_cost' ], 10, 2 );
         }
 
         function init() {
@@ -107,6 +106,8 @@ if ( ! class_exists( '\\WebStoreGuru\\HK_Post_Calc\\Shipping_Method' ) ) {
                     ]);
                 }
             }
+
+            add_filter( 'woocommerce_package_rates', [ $this, 'sort_rates_by_cost' ], 10, 2 );
 
         }
 

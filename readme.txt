@@ -1,9 +1,9 @@
 === Shipping Rates for HK Post ===
-Contributors: webstoreguru, excelerus, rangatia,  loyukfai
+Contributors: webstoreguru, excelerus, rangatia
 Tags: woocommerce, shipping, hongkong-post, hong-kong
 Requires at least: 5.0
 Tested up to: 5.9
-Stable tag: 2.0
+Stable tag: 2.1
 Requires PHP: 7.2
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
@@ -87,6 +87,11 @@ Enable delivery service(s) by clicking on the 'edit' link under the 'Hongkong Po
 5. Shipping rates calculated for international destination.
 
 == Changelog ==
+
+= 2.1 - 2022-03-20 =
+* PHP supported 7.2 onwards
+* Fixed warning `cannot access private method`
+* Fixed rates sorted only within HK Post
 
 = 2.0 - 2022-03-17 = 
 * Code refactor
