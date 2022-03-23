@@ -53,7 +53,7 @@ if ( ! class_exists( '\\WebStoreGuru\\HK_Post_Calc\\Base' ) ) {
                 $remote_file         = json_decode( $response['body'] );
                 $remote_last_updated = $remote_file->lastUpdateDate;
     
-                $local_file  = HK_POST_CALC_DIR . '/data//' . $service['file'];
+                $local_file  = HK_POST_CALC_DIR . 'data/' . $service['file'];
                 $local_rates = json_decode( file_get_contents( $local_file ) );
                 $local_last_updated = $local_rates->lastUpdateDate;
     

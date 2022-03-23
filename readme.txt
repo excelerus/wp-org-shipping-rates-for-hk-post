@@ -3,7 +3,7 @@ Contributors: webstoreguru, excelerus, rangatia
 Tags: woocommerce, shipping, hongkong-post, hong-kong
 Requires at least: 5.0
 Tested up to: 5.9
-Stable tag: 2.1
+Stable tag: 2.2
 Requires PHP: 7.2
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
@@ -87,6 +87,9 @@ Enable delivery service(s) by clicking on the 'edit' link under the 'Hongkong Po
 5. Shipping rates calculated for international destination.
 
 == Changelog ==
+
+= 2.2 - 2022-03-23 =
+* Bug fix - incorrect file path
 
 = 2.1 - 2022-03-20 =
 * PHP supported 7.2 onwards

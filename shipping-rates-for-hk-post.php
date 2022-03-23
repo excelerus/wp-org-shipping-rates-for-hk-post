@@ -3,7 +3,7 @@
  * Plugin Name:       Shipping Rates for HK Post
  * Description:       Hongkong Post postage calculator.
  * Plugin URI:        https://webstoreguru.com/products/plugins/hongkong-post-postage-calculator/
- * Version:           2.1
+ * Version:           2.2
  * Author:            WebStoreGuru
  * Author URI:        https://webstoreguru.com/
  * License:           GPLv3

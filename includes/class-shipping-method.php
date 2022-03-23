@@ -118,7 +118,8 @@ if ( ! class_exists( '\\WebStoreGuru\\HK_Post_Calc\\Shipping_Method' ) ) {
          * @return false|float
          */
         private function get_postage_rate( $service, $destination, $weight ) {
-            $file         = HK_POST_CALC_DIR . '//data/' . $service['file'];
+            $file         = HK_POST_CALC_DIR . 'data/' . $service['file'];
+            error_log( __METHOD__ . ' - ' . $file );
             $file_content = file_get_contents( $file );
             $file_json    = json_decode( $file_content, true );
             $file_data    = $file_json['data'];
