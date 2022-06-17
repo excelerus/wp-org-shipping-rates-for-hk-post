@@ -3,15 +3,32 @@ Thumbs.db
 *.sql
 *.tar.gz
 *.zip
-.gitattributes
+
+# Development
+.editorconfig
+.phpcs.xml.dist
+.phpcs.xml
+phpcs.xml
+wp-cli.local.yml
+.vscode/
+
+# Build Tooling
+composer.json
+composer.lock
 node_modules/
 vendor/
+
+# Testing
+.travis.yml
+phpunit.xml
+phpunit.xml.dist
+bin/
+tests/
+tests/bootstrap.php
+
+# Release
+.distignore
+.gitignore
+.gitattributes
 wp-org-svn/
 release/
-phpcs.xml
-phpunit.xml
-wp-cli.local.yml
-.distignore
-.editorconfig
-.gitignore
-*.md

@@ -1,27 +1,39 @@
 <?php
+/**
+ * PHPUnit bootstrap file.
+ *
+ * @package Shipping_Rates_For_Hk_Post
+ */
 
-require_once '/var/wp/wp-test/public/includes/functions.php';
-
-tests_add_filter( 'muplugins_loaded', function() {
-
-    switch_theme( 'storefront' );
-
-    update_option( 'active_plugins', [
-        'shipping-rates-for-hk-post/shipping-rates-for-hk-post.php'
-    ] );
-    
-} );
-
-$test_lib_bootstrap_file = '/var/wp/wp-test/public/includes/bootstrap.php';
-if ( ! file_exists( $test_lib_bootstrap_file ) ) {
-    echo PHP_EOL . "Error : unable to find " . $test_lib_bootstrap_file . PHP_EOL;
-    exit( '' . PHP_EOL );
+if ( PHP_MAJOR_VERSION >= 8 ) {
+	echo "The scaffolded tests cannot currently be run on PHP 8.0+. See https://github.com/wp-cli/scaffold-command/issues/285" . PHP_EOL; // phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped
+	exit( 1 );
 }
-require_once '/var/wp/wp-test/public/includes/bootstrap.php';
 
-// $current_user = new WP_User( 1 );
-// $current_user->set_role( 'administrator' );
+// $_tests_dir = getenv( 'WP_TESTS_DIR' );
+$_tests_dir = '/tmp/wptest/hkpost/wordpress-tests-lib';
 
-echo PHP_EOL;
-echo 'Using Wordpress core : ' . ABSPATH . PHP_EOL;
-echo PHP_EOL;
+if ( ! $_tests_dir ) {
+	$_tests_dir = rtrim( sys_get_temp_dir(), '/\\' ) . '/wordpress-tests-lib';
+}
+
+if ( ! file_exists( "{$_tests_dir}/includes/functions.php" ) ) {
+	echo "Could not find {$_tests_dir}/includes/functions.php, have you run bin/install-wp-tests.sh ?" . PHP_EOL; // phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped
+	exit( 1 );
+}
+
+require 'vendor/autoload.php';
+// Give access to tests_add_filter() function.
+require_once "{$_tests_dir}/includes/functions.php";
+
+/**
+ * Manually load the plugin being tested.
+ */
+function _manually_load_plugin() {
+	require dirname( dirname( __FILE__ ) ) . '/shipping-rates-for-hk-post.php';
+}
+
+tests_add_filter( 'muplugins_loaded', '_manually_load_plugin' );
+
+// Start up the WP testing environment.
+require "{$_tests_dir}/includes/bootstrap.php";

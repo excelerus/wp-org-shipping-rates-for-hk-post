@@ -1,6 +1,8 @@
 <?php
 /**
  * Class SampleTest
+ *
+ * @package Shipping_Rates_For_Hk_Post
  */
 
 /**
@@ -8,8 +10,11 @@
  */
 class SampleTest extends WP_UnitTestCase {
 
+	/**
+	 * A single example test.
+	 */
 	public function test_sample() {
-		$this->assertTrue( 'Storefront' == wp_get_theme()->get( 'Name' ) );
-        $this->assertTrue( is_plugin_active('shipping-rates-for-hk-post/shipping-rates-for-hk-post.php') );
+		// Replace this with some actual testing code.
+		$this->assertTrue( true );
 	}
 }
