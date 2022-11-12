@@ -36,14 +36,14 @@ return array(
 		'label' => __( 'Local Smart Post (Mail Delivery)', 'shipping-rates-for-hk-post' ),
 		'name'  => 'Smart Post (Mail Delivery)',
 	),
-	// 'sur_ord' => array( 'label' => __( 'International Surface Mail (Packet)', 'shipping-rates-for-hk-post' ) ), // phpcs:ignore
+	// 'sur_ord' : 'International Surface Mail (Packet)' not supported.
 	'sur_reg' => array(
 		'file'  => 'postageRate-intl-REG.json',
 		'title' => __( 'Surface Registered Mail', 'shipping-rates-for-hk-post' ),
 		'label' => __( 'International Surface Registered Mail (Packet)', 'shipping-rates-for-hk-post' ),
 		'name'  => 'Surface Registered Mail (Packet)',
 	),
-	// 'air_ord' => array( 'label' => __( 'International Air Mail (Packet)', 'shipping-rates-for-hk-post' ) ), // phpcs:ignore
+	// 'air_ord' : 'International Air Mail (Packet)' not supported.
 	'air_reg' => array(
 		'file'  => 'postageRate-intl-REG.json',
 		'title' => __( 'Air Registered Mail', 'shipping-rates-for-hk-post' ),
@@ -68,7 +68,7 @@ return array(
 		'label' => __( 'International Speedpost (Standard Service)', 'shipping-rates-for-hk-post' ),
 		'name'  => 'Speedpost (Standard Service)',
 	),
-	'exp' => array(
+	'exp'     => array(
 		'file'  => 'postageRate-intl-EXP.json',
 		'title' => __( 'e-Express Service', 'shipping-rates-for-hk-post' ),
 		'label' => __( 'International e-Express', 'shipping-rates-for-hk-post' ),

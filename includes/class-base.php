@@ -104,11 +104,11 @@ if ( ! class_exists( '\\WebStoreGuru\\HK_Post_Calc\\Base' ) ) {
 				$remote_last_updated = $remote_file->lastUpdateDate; // phpcs:ignore WordPress.NamingConventions.ValidVariableName.UsedPropertyNotSnakeCase
 
 				$local_file         = HK_POST_CALC_DIR . 'data/' . $service['file'];
-				$local_rates        = json_decode( file_get_contents( $local_file ) );
+				$local_rates        = json_decode( file_get_contents( $local_file ) ); //phpcs:ignore
 				$local_last_updated = $local_rates->lastUpdateDate; // phpcs:ignore WordPress.NamingConventions.ValidVariableName.UsedPropertyNotSnakeCase
 
 				if ( $remote_last_updated > $local_last_updated ) {
-					file_put_contents( $local_file, $response['body'] );
+					file_put_contents( $local_file, $response['body'] ); // phpcs:ignore
 				}
 			}
 		}

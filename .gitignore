@@ -10,11 +10,8 @@ Thumbs.db
 .phpcs.xml
 phpcs.xml
 wp-cli.local.yml
-.vscode/
 
 # Build Tooling
-composer.json
-composer.lock
 node_modules/
 vendor/
 

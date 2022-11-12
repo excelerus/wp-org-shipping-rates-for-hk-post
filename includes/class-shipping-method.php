@@ -107,7 +107,7 @@ if ( ! class_exists( '\\WebStoreGuru\\HK_Post_Calc\\Shipping_Method' ) ) {
 		public function is_available( $package ) {
 			$available = true;
 
-			if ( 0 == WC()->cart->get_cart_contents_weight() ) {
+			if ( 0 == WC()->cart->get_cart_contents_weight() ) { // phpcs:ignore
 				$available = false;
 			}
 
@@ -131,7 +131,7 @@ if ( ! class_exists( '\\WebStoreGuru\\HK_Post_Calc\\Shipping_Method' ) ) {
 			uasort(
 				$rates,
 				function ( $a, $b ) {
-					if ( $a == $b ) {
+					if ( $a == $b ) { // phpcs:ignore
 						return 0;
 					}
 					return ( $a->cost < $b->cost ) ? -1 : 1;
@@ -184,14 +184,14 @@ if ( ! class_exists( '\\WebStoreGuru\\HK_Post_Calc\\Shipping_Method' ) ) {
 		 */
 		private function get_postage_rate( $service, $destination, $weight ) {
 			$file         = HK_POST_CALC_DIR . 'data/' . $service['file'];
-			$file_content = file_get_contents( $file );
+			$file_content = file_get_contents( $file ); // phpcs:ignore
 			$file_json    = json_decode( $file_content, true );
 			$file_data    = $file_json['data'];
 
 			$service_name = $service['name'];
 			$service_data = null;
 			foreach ( $file_data as $file_service ) {
-				if ( $service_name == $file_service['serviceNameEN'] ) {
+				if ( $service_name == $file_service['serviceNameEN'] ) { // phpcs:ignore
 					$service_data = $file_service;
 				}
 			}

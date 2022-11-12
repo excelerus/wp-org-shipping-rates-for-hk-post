@@ -3,7 +3,7 @@
  * Plugin Name:       Shipping Rates for HK Post
  * Description:       Hongkong Post postage calculator.
  * Plugin URI:        https://webstoreguru.com/products/plugins/hongkong-post-postage-calculator/
- * Version:           2.2.1
+ * Version:           2.2.2
  * Author:            WebStoreGuru
  * Author URI:        https://webstoreguru.com/
  * License:           GPLv3
@@ -11,10 +11,10 @@
 
  * Requires PHP:      7.2
  * Requires at least: 5.0
- * Tested up to:      6.0
+ * Tested up to:      6.1
  *
  * WC requires at least: 4.0
- * WC tested up to:      6.0
+ * WC tested up to:      7.0
  *
  * @package WC_HK_Post
  */
@@ -47,7 +47,7 @@ function deactivate_hk_post_calc() {
 register_deactivation_hook( __FILE__, 'deactivate_hk_post_calc' );
 
 /**
- * Init
+ * Initialize
  */
 function init_hk_post_calc() {
 	$plugin = new \WebStoreGuru\HK_Post_Calc\Base();
@@ -58,13 +58,4 @@ function init_hk_post_calc() {
 		$plugin_admin->init();
 	}
 }
-add_action(
-	'plugins_loaded',
-	function() {
-		if ( ! in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', get_option( 'active_plugins' ) ) ) ) {
-			return;
-		}
-
-		init_hk_post_calc();
-	}
-);
+add_action( 'plugins_loaded', 'init_hk_post_calc' );
