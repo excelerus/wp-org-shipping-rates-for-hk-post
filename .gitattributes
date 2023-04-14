@@ -10,6 +10,7 @@ README.md         export-ignore
 .phpcs.xml.dist   export-ignore
 .phpcs.xml        export-ignore
 .vscode/          export-ignore
+.docs/            export-ignore
 
 # Build Tooling
 Gruntfile.js      export-ignore

@@ -10,6 +10,8 @@ Thumbs.db
 .phpcs.xml
 phpcs.xml
 wp-cli.local.yml
+.docs/
+.vscode/
 
 # Build Tooling
 node_modules/

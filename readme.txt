@@ -2,9 +2,9 @@
 Contributors: webstoreguru, excelerus, rangatia
 Tags: woocommerce, shipping, hongkong-post, hong-kong
 Requires at least: 5.0
-Tested up to: 6.1
+Tested up to: 6.2
 Stable tag: 2.2.2
-Requires PHP: 7.2
+Requires PHP: 7.4
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
