@@ -2,8 +2,8 @@
 Contributors: webstoreguru, excelerus, rangatia
 Tags: woocommerce, shipping, hongkong-post, hong-kong
 Requires at least: 5.0
-Tested up to: 6.2
-Stable tag: 2.2.2
+Tested up to: 6.3
+Stable tag: 2.2.3
 Requires PHP: 7.4
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
@@ -16,17 +16,17 @@ Shipping rates calculated from [open data](https://www.hongkongpost.hk/opendata/
 
 Supports following delivery services :-
 
-- Local [Ordinary Mail (Packet)](https://www.hongkongpost.hk/en/sending_mail/local/ordinary/index.html)  
-- Local [Registered Mail (Packet)](https://www.hongkongpost.hk/en/sending_mail/local/registered/index.html)  
-- Local [Parcel](https://www.hongkongpost.hk/en/sending_mail/local/parcel/index.html)  
-- Local [CourierPost](https://www.hongkongpost.hk/en/sending_mail/local/lcp/index.html)  
-- Local [Smart Post (Mail Delivery)](https://www.hongkongpost.hk/en/sending_mail/local/smartpost/index.html)  
-- International [Surface Registered Mail (Packet)](https://www.hongkongpost.hk/en/sending_mail/international/surface/registered/index.html)  
-- International [Air Registered Mail (Packet)](https://www.hongkongpost.hk/en/sending_mail/international/air/registered/index.html)  
-- International [Surface Parcel](https://www.hongkongpost.hk/en/sending_mail/international/surface/parcel/index.html)  
-- International [Air Parcel](https://www.hongkongpost.hk/en/sending_mail/international/air/parcel/index.html)  
-- International [Speedpost (Standard Service)](https://www.hongkongpost.hk/en/sending_mail/international/speedpost/index.html)  
-- International [e-Express](https://www.hongkongpost.hk/en/sending_mail/international/air/eexpress/index.html)  
+- Local [Ordinary Mail (Packet)](https://www.hongkongpost.hk/en/sending_mail/local/ordinary/index.html)
+- Local [Registered Mail (Packet)](https://www.hongkongpost.hk/en/sending_mail/local/registered/index.html)
+- Local [Parcel](https://www.hongkongpost.hk/en/sending_mail/local/parcel/index.html)
+- Local [CourierPost](https://www.hongkongpost.hk/en/sending_mail/local/lcp/index.html)
+- Local [Smart Post (Mail Delivery)](https://www.hongkongpost.hk/en/sending_mail/local/smartpost/index.html)
+- International [Surface Registered Mail (Packet)](https://www.hongkongpost.hk/en/sending_mail/international/surface/registered/index.html)
+- International [Air Registered Mail (Packet)](https://www.hongkongpost.hk/en/sending_mail/international/air/registered/index.html)
+- International [Surface Parcel](https://www.hongkongpost.hk/en/sending_mail/international/surface/parcel/index.html)
+- International [Air Parcel](https://www.hongkongpost.hk/en/sending_mail/international/air/parcel/index.html)
+- International [Speedpost (Standard Service)](https://www.hongkongpost.hk/en/sending_mail/international/speedpost/index.html)
+- International [e-Express](https://www.hongkongpost.hk/en/sending_mail/international/air/eexpress/index.html)
 
 **Delivery Services by Shipping Zone**
 
@@ -63,7 +63,7 @@ Please check following configuration
 = Automatic installation =
 
 Automatic installation is the easiest option -- WordPress will handles the file transfer, and you won’t need to leave your web browser. To do an automatic install, log in to your WordPress dashboard, navigate to the Plugins menu, and click “Add New.”
- 
+
 In the search field type "Shipping Rates for HK Post” then click “Search Plugins.” Once you’ve found us,  you can view details about it such as the point release, rating, and description. Most importantly of course, you can install it by! Click “Install Now,” and WordPress will take it from there.
 
 = Manual installation =
@@ -74,7 +74,7 @@ Manual installation method requires downloading the plugin and uploading it to y
 
 Go to plugin settings from 'Settings' link under the plugin on the Plugins page OR from WooCommerce > Settings > Shipping > Hongkong Post. Change the Shipping Method title and enable/disable debug mode if required.
 
-Add Hongkong Post shipping method for a Shipping Zone by 'Add Shipping Method' and selecting 'Hongkong Post' from the dropdown. 
+Add Hongkong Post shipping method for a Shipping Zone by 'Add Shipping Method' and selecting 'Hongkong Post' from the dropdown.
 
 Enable delivery service(s) by clicking on the 'edit' link under the 'Hongkong Post' shipping method to enable respective delivery service for the shipping zone.
 
@@ -100,7 +100,7 @@ Enable delivery service(s) by clicking on the 'edit' link under the 'Hongkong Po
 * Fixed warning `cannot access private method`
 * Fixed rates sorted only within HK Post
 
-= 2.0 - 2022-03-17 = 
+= 2.0 - 2022-03-17 =
 * Code refactor
 * Rate files auto updated
 

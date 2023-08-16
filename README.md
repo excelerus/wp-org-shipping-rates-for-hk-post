@@ -1,12 +1,12 @@
 # Shipping Rates for HK Post #
 **Contributors:** excelerus, rangatia, webstoreguru
-**Tags:** woocommerce, shipping, hongkong-post, hong-kong  
-**Requires at least:** 5.0  
-**Tested up to:** 6.2  
-**Stable tag:** 2.2.2  
-**Requires PHP:** 7.4  
-**License:** GPLv3 or later  
-**License URI:** https://www.gnu.org/licenses/gpl-3.0.html  
+**Tags:** woocommerce, shipping, hongkong-post, hong-kong
+**Requires at least:** 5.0
+**Tested up to:** 6.3
+**Stable tag:** 2.2.3
+**Requires PHP:** 7.4
+**License:** GPLv3 or later
+**License URI:** https://www.gnu.org/licenses/gpl-3.0.html
 
 Hongkong Post postage calculator.
 
@@ -16,17 +16,17 @@ Shipping rates calculated from [open data](https://www.hongkongpost.hk/opendata/
 
 Supports following delivery services :-
 
-- Local [Ordinary Mail (Packet)](https://www.hongkongpost.hk/en/sending_mail/local/ordinary/index.html)  
-- Local [Registered Mail (Packet)](https://www.hongkongpost.hk/en/sending_mail/local/registered/index.html)  
-- Local [Parcel](https://www.hongkongpost.hk/en/sending_mail/local/parcel/index.html)  
-- Local [CourierPost](https://www.hongkongpost.hk/en/sending_mail/local/lcp/index.html)  
-- Local [Smart Post (Mail Delivery)](https://www.hongkongpost.hk/en/sending_mail/local/smartpost/index.html)  
-- International [Surface Registered Mail (Packet)](https://www.hongkongpost.hk/en/sending_mail/international/surface/registered/index.html)  
-- International [Air Registered Mail (Packet)](https://www.hongkongpost.hk/en/sending_mail/international/air/registered/index.html)  
-- International [Surface Parcel](https://www.hongkongpost.hk/en/sending_mail/international/surface/parcel/index.html)  
-- International [Air Parcel](https://www.hongkongpost.hk/en/sending_mail/international/air/parcel/index.html)  
-- International [Speedpost (Standard Service)](https://www.hongkongpost.hk/en/sending_mail/international/speedpost/index.html)  
-- International [e-Express](https://www.hongkongpost.hk/en/sending_mail/international/air/eexpress/index.html)  
+- Local [Ordinary Mail (Packet)](https://www.hongkongpost.hk/en/sending_mail/local/ordinary/index.html)
+- Local [Registered Mail (Packet)](https://www.hongkongpost.hk/en/sending_mail/local/registered/index.html)
+- Local [Parcel](https://www.hongkongpost.hk/en/sending_mail/local/parcel/index.html)
+- Local [CourierPost](https://www.hongkongpost.hk/en/sending_mail/local/lcp/index.html)
+- Local [Smart Post (Mail Delivery)](https://www.hongkongpost.hk/en/sending_mail/local/smartpost/index.html)
+- International [Surface Registered Mail (Packet)](https://www.hongkongpost.hk/en/sending_mail/international/surface/registered/index.html)
+- International [Air Registered Mail (Packet)](https://www.hongkongpost.hk/en/sending_mail/international/air/registered/index.html)
+- International [Surface Parcel](https://www.hongkongpost.hk/en/sending_mail/international/surface/parcel/index.html)
+- International [Air Parcel](https://www.hongkongpost.hk/en/sending_mail/international/air/parcel/index.html)
+- International [Speedpost (Standard Service)](https://www.hongkongpost.hk/en/sending_mail/international/speedpost/index.html)
+- International [e-Express](https://www.hongkongpost.hk/en/sending_mail/international/air/eexpress/index.html)
 
 **Delivery Services by Shipping Zone**
 
@@ -41,7 +41,7 @@ Help localize by adding your locale – visit [translate.wordpress.org](https://
 ## Frequently Asked Questions ##
 
 ### Are these official Hongkong Post rates? ###
-Yes.  
+Yes.
 The plugin uses official opendata json based data [published on Hongkong Post website](https://www.hongkongpost.hk/opendata/DataDictionary/en/DataDictionary_PostageRate.pdf).
 
 ### Why are shipping rates not displayed? ###
@@ -63,7 +63,7 @@ Please check following configuration
 ### Automatic installation
 
 Automatic installation is the easiest option -- WordPress will handles the file transfer, and you won’t need to leave your web browser. To do an automatic install, log in to your WordPress dashboard, navigate to the Plugins menu, and click “Add New.”
- 
+
 In the search field type "Shipping Rates for HK Post” then click “Search Plugins.” Once you’ve found us,  you can view details about it such as the point release, rating, and description. Most importantly of course, you can install it by! Click “Install Now,” and WordPress will take it from there.
 
 ### Manual installation
@@ -74,7 +74,7 @@ Manual installation method requires downloading the plugin and uploading it to y
 
 Go to plugin settings from 'Settings' link under the plugin on the Plugins page OR from WooCommerce > Settings > Shipping > Hongkong Post. Change the Shipping Method title and enable/disable debug mode if required.
 
-Add Hongkong Post shipping method for a Shipping Zone by 'Add Shipping Method' and selecting 'Hongkong Post' from the dropdown. 
+Add Hongkong Post shipping method for a Shipping Zone by 'Add Shipping Method' and selecting 'Hongkong Post' from the dropdown.
 
 Enable delivery service(s) by clicking on the 'edit' link under the 'Hongkong Post' shipping method to enable respective delivery service for the shipping zone.
 
@@ -98,19 +98,19 @@ Enable delivery service(s) by clicking on the 'edit' link under the 'Hongkong Po
 
 ## Changelog ##
 
-### 1.2.0  - 2021-03-DD  
+### 1.2.0  - 2021-03-DD
 * Revised rates
 * Tested for WordPress 5.7
 * I18n
 
-### 1.1.0  
+### 1.1.0
 * Additional delivery services
 * Instance settings for enabling delivery service for shipping zone
 
-### 1.0.0  
+### 1.0.0
 * Major rewrite to replace SOAP based API integration with JSON data.
 
-### 0.1.0  
+### 0.1.0
 * Inital Release
 
 ## Upgrade Notice
